@@ -765,6 +765,7 @@
 
 ## Python 
 
+- [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [rmichon/mi_faust](https://github.com/rmichon/mi_faust) - 
 - [einsteinpy/einsteinpy](https://github.com/einsteinpy/einsteinpy) - Repository for the EinsteinPy core package :rocket:
 - [xh-diagrams/xhorizon](https://github.com/xh-diagrams/xhorizon) - xhorizon: A python package for the explicit computation and drawing of Penrose diagrams in general relativity.
