@@ -80,6 +80,7 @@
 
 ## Assembly 
 
+- [JeremiahK96/vcs-nyancat](https://github.com/JeremiahK96/vcs-nyancat) - Nyan Cat game for the Atari 2600
 - [utz82/HoustonTracker2](https://github.com/utz82/HoustonTracker2) - A music editor for TI graphing calculators
 
 ## Awk 
@@ -616,6 +617,7 @@
 
 ## Jupyter Notebook 
 
+- [cesarmiquel/memories-256b-msdos-intro](https://github.com/cesarmiquel/memories-256b-msdos-intro) - Source code and explanation of Hellmoods awesome "PC 256 byte": https://www.pouet.net/prod.php?which=85227
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [tamberg/fhnw-idb](https://github.com/tamberg/fhnw-idb) - FHNW Competence IoT Data Collection (idb)
 - [stackbuffer/ads](https://github.com/stackbuffer/ads) - store data in soundwaves
@@ -765,6 +767,7 @@
 
 ## Python 
 
+- [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [rmichon/mi_faust](https://github.com/rmichon/mi_faust) - 
 - [einsteinpy/einsteinpy](https://github.com/einsteinpy/einsteinpy) - Repository for the EinsteinPy core package :rocket:
@@ -1161,7 +1164,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [guardianproject/android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,200+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## Shen 
@@ -1214,7 +1217,7 @@
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [mui/material-ui](https://github.com/mui/material-ui) - MUI Core: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
+- [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Ready-to-use foundational React components, free forever. It includes Material UI, which implements Google's Material Design.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
