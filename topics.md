@@ -347,6 +347,7 @@
 
 ## computer-vision 
 
+- [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
 - [cleanlab/cleanvision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -730,6 +731,8 @@
 
 ## image-processing 
 
+- [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
+- [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
 - [danielgatis/rembg](https://github.com/danielgatis/rembg) - Rembg is a tool to remove images background
 - [uploadcare/pyuploadcare](https://github.com/uploadcare/pyuploadcare) - Build file handling in minutes. Upload or accept user-generated content, store, transform, optimize, and deliver images, videos, and documents to billions of users.
 - [prideout/snowy](https://github.com/prideout/snowy) - Small Image Library for Python 3
@@ -1058,6 +1061,7 @@
 
 ## others 
 
+- [0jk6/noaa-apt-decoder](https://github.com/0jk6/noaa-apt-decoder) - Automatic picture transmission(APT) protocol decoder for NOAA weather satellites
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [JeremiahK96/vcs-nyancat](https://github.com/JeremiahK96/vcs-nyancat) - Nyan Cat game for the Atari 2600
 - [cesarmiquel/memories-256b-msdos-intro](https://github.com/cesarmiquel/memories-256b-msdos-intro) - Source code and explanation of Hellmoods awesome "PC 256 byte": https://www.pouet.net/prod.php?which=85227
@@ -1153,7 +1157,7 @@
 - [qmk/keyboard_awesome](https://github.com/qmk/keyboard_awesome) - A collection of awesome keyboard resources
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
-- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
+- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite2 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
 - [mxmxmx/terminal_tedium](https://github.com/mxmxmx/terminal_tedium) - eurorack / pi codec
 - [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tr
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
@@ -1568,7 +1572,7 @@
 - [marcwebbie/passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Multiplatform command-line password manager
 - [hephaest0s/usbkill](https://github.com/hephaest0s/usbkill) - « usbkill » is an anti-forensic kill-switch that waits for a change on your USB ports and then immediately shuts down your computer.
 - [8BitMixtape/8BitMixtapeBeatSlicer](https://github.com/8BitMixtape/8BitMixtapeBeatSlicer) - 
-- [gazhayes/HackRF-Blue](https://github.com/gazhayes/HackRF-Blue) - 
+- [gsovereignty/HackRF-Blue](https://github.com/gsovereignty/HackRF-Blue) - 
 - [kristopolous/ascsee](https://github.com/kristopolous/ascsee) - An organic image viewer
 - [fengsp/color-thief-py](https://github.com/fengsp/color-thief-py) - Grabs the dominant color or a representative color palette from an image. Uses Python and Pillow.
 - [mirdej/GnusbuinoMIDI](https://github.com/mirdej/GnusbuinoMIDI) - 
@@ -1863,7 +1867,7 @@
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
 - [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [avyfain/automata](https://github.com/avyfain/automata) - Companion repo for my blog post about Wolfram's elementary cellular automata
 - [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
@@ -1940,6 +1944,7 @@
 
 ## pytorch 
 
+- [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
 - [idealo/imagededup](https://github.com/idealo/imagededup) - 😎 Finding duplicate images made easy!
 
 ## qt 
