@@ -728,7 +728,7 @@
 - [DonaldSBosley/Neutrik_Jacks](https://github.com/DonaldSBosley/Neutrik_Jacks) - 3_D Models for Neutrik Jacks, created in OpenSCAD, includes .stl, wings3d, and footprint compatible with KiCad (wings).
 - [paul-nechifor/ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
 - [rstacruz/backbone-patterns](https://github.com/rstacruz/backbone-patterns) - Common Backbone.js usage patterns.
-- [gazhayes/HackRF-Blue](https://github.com/gazhayes/HackRF-Blue) - 
+- [gsovereignty/HackRF-Blue](https://github.com/gsovereignty/HackRF-Blue) - 
 - [triss/sc-renoise](https://github.com/triss/sc-renoise) - SuperCollider and Renoise extensions that allow better integration between the two tools.
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [satnogs/satnogs-rotator](https://github.com/satnogs/satnogs-rotator) - SatNOGS Rotator project
@@ -767,6 +767,8 @@
 
 ## Python 
 
+- [0jk6/noaa-apt-decoder](https://github.com/0jk6/noaa-apt-decoder) - Automatic picture transmission(APT) protocol decoder for NOAA weather satellites
+- [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [rmichon/mi_faust](https://github.com/rmichon/mi_faust) - 
@@ -984,7 +986,7 @@
 - [Visgean/photos2geojson](https://github.com/Visgean/photos2geojson) - html map gallery from photos
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
 - [ResidentMario/geoplot](https://github.com/ResidentMario/geoplot) - High-level geospatial data visualization library for Python.
-- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python Client
+- [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, build on libtmux.
 - [avyfain/automata](https://github.com/avyfain/automata) - Companion repo for my blog post about Wolfram's elementary cellular automata
 - [adtac/exterminate](https://github.com/adtac/exterminate) - Break Python programs with a single import
@@ -1119,6 +1121,7 @@
 
 ## Rust 
 
+- [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
@@ -1252,7 +1255,7 @@
 
 ## Vue 
 
-- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一个基于 vue3,vite2,TypeScript 的中后台解决方案，它使用了最新的前端技术栈，并提炼了典型的业务模型，页面，包括二次封装组件、动态菜单、权限校验、粒子化权限控制等功能，它可以帮助你快速搭建企业级中后台项目，相信不管是从新技术使用还是其他方面，都能帮助到你，持续更新中。
+- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite2 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
 - [triq-org/iqspectrovue](https://github.com/triq-org/iqspectrovue) - I/Q Spectrogram viewer
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
