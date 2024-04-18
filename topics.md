@@ -144,6 +144,7 @@
 - [server](#server)
 - [shell](#shell)
 - [sketch](#sketch)
+- [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [symfony](#symfony)
 - [tensorflow](#tensorflow)
@@ -639,6 +640,7 @@
 
 ## hacktoberfest 
 
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [einsteinpy/einsteinpy](https://github.com/einsteinpy/einsteinpy) - Repository for the EinsteinPy core package :rocket:
@@ -964,6 +966,7 @@
 
 ## music 
 
+- [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
 - [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
 - [akunull/piloslib](https://github.com/akunull/piloslib) - Multi-platform open-source set of audio and modulation tools that focus on synthesis, live electronic music, interconnection, probability, unique sounds, and intuitive interfacing built by Akunull in 
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
@@ -1034,11 +1037,13 @@
 
 ## numpy 
 
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [CPJKU/madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 
 ## open-source 
 
+- [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
@@ -1061,6 +1066,7 @@
 
 ## others 
 
+- [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
 - [0jk6/noaa-apt-decoder](https://github.com/0jk6/noaa-apt-decoder) - Automatic picture transmission(APT) protocol decoder for NOAA weather satellites
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [JeremiahK96/vcs-nyancat](https://github.com/JeremiahK96/vcs-nyancat) - Nyan Cat game for the Atari 2600
@@ -1764,6 +1770,7 @@
 
 ## python 
 
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [sabslikesobs/pip.wtf](https://github.com/sabslikesobs/pip.wtf) - Inline dependencies for small Python scripts.
@@ -1949,6 +1956,7 @@
 
 ## qt 
 
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB+ Software Defined Radio (SDR)
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [xmikos/qspectrumanalyzer](https://github.com/xmikos/qspectrumanalyzer) - Spectrum analyzer for multiple SDR platforms (PyQtGraph based GUI for soapy_power, hackrf_sweep, rtl_power, rx_power and other backends)
@@ -2055,6 +2063,10 @@
 ## sketch 
 
 - [ajstarks/svgo](https://github.com/ajstarks/svgo) - Go Language Library for SVG generation
+
+## stable-diffusion 
+
+- [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 
 ## swift 
 
