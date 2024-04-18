@@ -98,6 +98,7 @@
 
 ## C 
 
+- [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite Scarlett2 Mixer Driver
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [striso/striso-control-firmware](https://github.com/striso/striso-control-firmware) - Firmware for the Striso board
@@ -767,6 +768,8 @@
 
 ## Python 
 
+- [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
+- [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [0jk6/noaa-apt-decoder](https://github.com/0jk6/noaa-apt-decoder) - Automatic picture transmission(APT) protocol decoder for NOAA weather satellites
 - [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
