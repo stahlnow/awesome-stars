@@ -48,6 +48,7 @@
 - [education](#education)
 - [electron](#electron)
 - [elixir](#elixir)
+- [embedded](#embedded)
 - [ember](#ember)
 - [emoji](#emoji)
 - [emulator](#emulator)
@@ -440,6 +441,7 @@
 
 ## django 
 
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [BigglesZX/django-dragndrop-related](https://github.com/BigglesZX/django-dragndrop-related) - Drag-and-drop multiple upload of related images/files for Django admin
@@ -497,6 +499,15 @@
 ## elixir 
 
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+
+## embedded 
+
+- [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
+- [ohmtech-rdi/eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks) - Software to Hardware Prototyping for Eurorack using C++, Max/Gen~ or Faust
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded Web Server
+- [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
+- [micropython/micropython](https://github.com/micropython/micropython) - MicroPython - a lean and efficient Python implementation for microcontrollers and constrained systems
+- [stlink-org/stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 
 ## ember 
 
@@ -1079,7 +1090,6 @@
 - [ErikOostveen/Slimshader](https://github.com/ErikOostveen/Slimshader) - SLIMSHADER is an Open Source Raspberry PI project based on glslViewer and capable of displaying plain images and OpenGL/GLSL shader files.
 - [0b5vr/0mix](https://github.com/0b5vr/0mix) - "0b5vr GLSL Techno Live Set" by 0b5vr, Appeared in the Revision 2023 PC Demo Compo
 - [timtro/glslView-nvim](https://github.com/timtro/glslView-nvim) - 
-- [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [zhdk/tpf-client](https://github.com/zhdk/tpf-client) - Telematic performance format client software
 - [Wasted-Audio/heavylib](https://github.com/Wasted-Audio/heavylib) - Library of Heavy compatible abstractions
 - [striso/striso-control-firmware](https://github.com/striso/striso-control-firmware) - Firmware for the Striso board
@@ -1182,7 +1192,6 @@
 - [x42/x42-plugins](https://github.com/x42/x42-plugins) - collection of LV2 plugins (submodules) for packaging
 - [AndrewSink/STL-to-ASCII-Generator](https://github.com/AndrewSink/STL-to-ASCII-Generator) - STL to ASCII Generator
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
-- [ohmtech-rdi/eurorack-blocks](https://github.com/ohmtech-rdi/eurorack-blocks) - Software to Hardware Prototyping for Eurorack using C++, Max/Gen~ or Faust
 - [donny681/esp-adf](https://github.com/donny681/esp-adf) - Espressif Audio Development Framework
 - [greiman/SdFat](https://github.com/greiman/SdFat) - Arduino FAT16/FAT32 exFAT Library
 - [pschatzmann/arduino-audiokit](https://github.com/pschatzmann/arduino-audiokit) - Arduino ADF/Audiokit HAL (support for ESP32-A1S, AI-Thinker, LyraT for ES7148, ES7210, ES7243, ES8311, ES8347, ES8388, TAS5805M, AC101 audio chips)
@@ -1770,6 +1779,7 @@
 
 ## python 
 
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
