@@ -67,7 +67,6 @@
 - [quarterturn/four_voice_synth](https://github.com/quarterturn/four_voice_synth) - A four-voice software synth based on the Teensy 3.1
 - [wuuff/armageddon](https://github.com/wuuff/armageddon) - Gamebuino game inspired by Missile Command
 - [quarterturn/squareinator](https://github.com/quarterturn/squareinator) - SN76489 MIDI Monosynth
-- [cdodd/teensy-sn76489-midi-synth](https://github.com/cdodd/teensy-sn76489-midi-synth) - A SN76489 MIDI synth, controlled by a Teensy 2.0 microcontroller
 - [brianmarkpeters/CHIP_BASED_SYNTHESIZERS](https://github.com/brianmarkpeters/CHIP_BASED_SYNTHESIZERS) - A Collection Of Chip-Based Synthesizers
 - [8BitMixtape/8Step-MixTape-Berliner-Schule](https://github.com/8BitMixtape/8Step-MixTape-Berliner-Schule) - 8step sequencer modified to run on ATtiny84, with LED driving and eeprom save
 - [8BitMixtape/8BitStepSequencer](https://github.com/8BitMixtape/8BitStepSequencer) - geili session
@@ -297,6 +296,7 @@
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [googlearchive/android-audio-high-performance](https://github.com/googlearchive/android-audio-high-performance) - We now recommend you use the Oboe libraries:
 - [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
+- [cdodd/teensy-sn76489-midi-synth](https://github.com/cdodd/teensy-sn76489-midi-synth) - A SN76489 MIDI synth, controlled by a Teensy 2.0 microcontroller
 - [8BitMixtape/8Bit-Mixtape-NEO](https://github.com/8BitMixtape/8Bit-Mixtape-NEO) - New Attiny85 based edition with Bootloader to program it via sound. Add this to your additional hardware manager: http://8bitmixtape.github.io/package_8bitmixtape_index.json or directly program by pla
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
 - [munt/munt](https://github.com/munt/munt) - A multi-platform software synthesiser emulating pre-GM MIDI devices such as the Roland MT-32, CM-32L, CM-64 and LAPC-I. In no way endorsed by or affiliated with Roland Corp.
@@ -429,6 +429,7 @@
 
 ## HTML 
 
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ojg/thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
 - [rmichon/dsp-book](https://github.com/rmichon/dsp-book) - 
