@@ -97,6 +97,7 @@
 
 ## C 
 
+- [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
 - [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite Scarlett2 Mixer Driver
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
@@ -210,6 +211,7 @@
 
 ## C++ 
 
+- [tote-bag-labs/valentine](https://github.com/tote-bag-labs/valentine) - An open source compressor meant to pump and breathe
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [gbevin/ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) - Multi-platform command-line tool to monitor and receive MIDI messages
 - [gbevin/SendMIDI](https://github.com/gbevin/SendMIDI) - Multi-platform command-line tool to send out MIDI messages
@@ -652,6 +654,7 @@
 
 ## Makefile 
 
+- [TheTechnobear/Orac](https://github.com/TheTechnobear/Orac) - Orac : virtual modular synth
 - [gh0stless/SIDBlaster-USB-Tic-Tac-Edition](https://github.com/gh0stless/SIDBlaster-USB-Tic-Tac-Edition) - USB C64 SID hardware player (Tic Tac Edition)
 - [x42/x42-plugins](https://github.com/x42/x42-plugins) - collection of LV2 plugins (submodules) for packaging
 - [donny681/esp-adf](https://github.com/donny681/esp-adf) - Espressif Audio Development Framework
@@ -771,7 +774,6 @@
 
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
-- [0jk6/noaa-apt-decoder](https://github.com/0jk6/noaa-apt-decoder) - Automatic picture transmission(APT) protocol decoder for NOAA weather satellites
 - [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in python.
