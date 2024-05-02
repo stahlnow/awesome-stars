@@ -1077,8 +1077,9 @@
 
 ## others 
 
+- [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
+- [tote-bag-labs/valentine](https://github.com/tote-bag-labs/valentine) - An open source compressor meant to pump and breathe
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
-- [0jk6/noaa-apt-decoder](https://github.com/0jk6/noaa-apt-decoder) - Automatic picture transmission(APT) protocol decoder for NOAA weather satellites
 - [VAST-AI-Research/TripoSR](https://github.com/VAST-AI-Research/TripoSR) - 
 - [JeremiahK96/vcs-nyancat](https://github.com/JeremiahK96/vcs-nyancat) - Nyan Cat game for the Atari 2600
 - [cesarmiquel/memories-256b-msdos-intro](https://github.com/cesarmiquel/memories-256b-msdos-intro) - Source code and explanation of Hellmoods awesome "PC 256 byte": https://www.pouet.net/prod.php?which=85227
@@ -1982,6 +1983,7 @@
 
 ## raspberry-pi 
 
+- [TheTechnobear/Orac](https://github.com/TheTechnobear/Orac) - Orac : virtual modular synth
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [napframework/nap](https://github.com/napframework/nap) - NAP Framework source code
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
