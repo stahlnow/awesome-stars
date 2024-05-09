@@ -94,6 +94,7 @@
 - [latex](#latex)
 - [library](#library)
 - [linux](#linux)
+- [llm](#llm)
 - [localization](#localization)
 - [low-code](#low-code)
 - [lua](#lua)
@@ -900,6 +901,10 @@
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [stlink-org/stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 
+## llm 
+
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+
 ## localization 
 
 - [gafam/www.gafam.info](https://github.com/gafam/www.gafam.info) - Sources of the gafam.info web page
@@ -1077,6 +1082,7 @@
 
 ## others 
 
+- [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
 - [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
 - [tote-bag-labs/valentine](https://github.com/tote-bag-labs/valentine) - An open source compressor meant to pump and breathe
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
