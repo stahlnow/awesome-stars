@@ -12,6 +12,7 @@
 - [Batchfile](#batchfile)
 - [Bikeshed](#bikeshed)
 - [C](#c)
+- [C#](#c#)
 - [C++](#c++)
 - [CMake](#cmake)
 - [CSS](#css)
@@ -97,6 +98,7 @@
 
 ## C 
 
+- [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
 - [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
 - [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
@@ -210,8 +212,14 @@
 - [boxysean/beaglebone-DMX](https://github.com/boxysean/beaglebone-DMX) - Library to turn BeagleBone into a DMX interface
 - [stlink-org/stlink](https://github.com/stlink-org/stlink) - Open source STM32 MCU programming toolset
 
+## C# # 
+
+- [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
+
 ## C++ 
 
+- [rocket/rocket](https://github.com/rocket/rocket) - Rocket
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [tote-bag-labs/valentine](https://github.com/tote-bag-labs/valentine) - An open source compressor meant to pump and breathe
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [gbevin/ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) - Multi-platform command-line tool to monitor and receive MIDI messages
