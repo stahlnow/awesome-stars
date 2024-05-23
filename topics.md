@@ -64,6 +64,7 @@
 - [frontend](#frontend)
 - [game](#game)
 - [game-development](#game-development)
+- [game-engine](#game-engine)
 - [gamedev](#gamedev)
 - [games](#games)
 - [git](#git)
@@ -213,6 +214,7 @@
 
 ## api 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [encode/django-rest-framework](https://github.com/encode/django-rest-framework) - Web APIs for Django. 🎸
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 
@@ -290,6 +292,8 @@
 
 ## c 
 
+- [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
+- [rocket/rocket](https://github.com/rocket/rocket) - Rocket
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
@@ -562,6 +566,7 @@
 
 ## framework 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
 - [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
@@ -584,13 +589,19 @@
 
 ## game-development 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [LucvandenBrand/Tiled2GBA](https://github.com/LucvandenBrand/Tiled2GBA) - Simple CLI for converting Tiled maps to data the Game Boy Advance (GBA) understands.
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [gbdev/rgbds](https://github.com/gbdev/rgbds) - Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy and Game Boy Color
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 
+## game-engine 
+
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+
 ## gamedev 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [gbdev/rgbds](https://github.com/gbdev/rgbds) - Rednex Game Boy Development System - An assembly toolchain for the Nintendo Game Boy and Game Boy Color
 
 ## games 
@@ -663,6 +674,7 @@
 
 ## hacktoberfest 
 
+- [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
@@ -874,6 +886,7 @@
 
 ## library 
 
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [weechat/weechat-relay](https://github.com/weechat/weechat-relay) - WeeChat Relay protocol library, written in C.
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
@@ -886,6 +899,7 @@
 
 ## linux 
 
+- [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
 - [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB+ Software Defined Radio (SDR)
@@ -1097,6 +1111,7 @@
 
 ## others 
 
+- [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
 - [milesdai/TAoE3Solutions](https://github.com/milesdai/TAoE3Solutions) - Solutions to the problems in The Art of Electronics 3ed.
 - [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
 - [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
