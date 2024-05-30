@@ -1111,6 +1111,7 @@
 
 ## others 
 
+- [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
 - [milesdai/TAoE3Solutions](https://github.com/milesdai/TAoE3Solutions) - Solutions to the problems in The Art of Electronics 3ed.
 - [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
