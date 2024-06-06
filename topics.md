@@ -1111,6 +1111,7 @@
 
 ## others 
 
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
 - [milesdai/TAoE3Solutions](https://github.com/milesdai/TAoE3Solutions) - Solutions to the problems in The Art of Electronics 3ed.
@@ -1212,7 +1213,7 @@
 - [qmk/keyboard_awesome](https://github.com/qmk/keyboard_awesome) - A collection of awesome keyboard resources
 - [ojroques/vim-oscyank](https://github.com/ojroques/vim-oscyank) - A Vim plugin to copy text through SSH with OSC52
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
-- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite2 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
+- [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
 - [mxmxmx/terminal_tedium](https://github.com/mxmxmx/terminal_tedium) - eurorack / pi codec
 - [FastLED/FastLED](https://github.com/FastLED/FastLED) - The FastLED library for colored LED animation on Arduino.  Please direct questions/requests for help to the FastLED Reddit community: http://fastled.io/r   We'd like to use github "issues" just for tr
 - [fennerm/flashfocus](https://github.com/fennerm/flashfocus) - Simple focus animations for tiling window managers.
