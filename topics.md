@@ -222,6 +222,7 @@
 
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
 - [turbyho/DABDUINO](https://github.com/turbyho/DABDUINO) - The DABDUINO is DAB/DAB+/FM Arduino shield with 32-bit, 384kHz PCM DAC (cinch) + Toslink optical digital audio output.
 - [MCUdude/SigmaDSP](https://github.com/MCUdude/SigmaDSP) - A versatile Arduino library for interfacing with the ADAU1401, ADAU1701 and ADAU1702 audio DSPs
 - [Makuna/NeoPixelBus](https://github.com/Makuna/NeoPixelBus) - An Arduino NeoPixel support library supporting a large variety of individually addressable LEDs.  Please refer to the Wiki for more details.  Please use the GitHub Discussions to ask questions as the 
