@@ -33,6 +33,7 @@
 - [computer-vision](#computer-vision)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
+- [cryptography](#cryptography)
 - [csharp](#csharp)
 - [css](#css)
 - [data](#data)
@@ -378,6 +379,10 @@
 
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+
+## cryptography 
+
+- [pyca/pynacl](https://github.com/pyca/pynacl) - Python binding to the Networking and Cryptography (NaCl) library
 
 ## csharp 
 
@@ -1112,6 +1117,7 @@
 
 ## others 
 
+- [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
@@ -1179,7 +1185,7 @@
 - [memfault/zero-to-main](https://github.com/memfault/zero-to-main) - Bootstrap C code on a Cortex-M MCU
 - [aykevl/ledsgo](https://github.com/aykevl/ledsgo) - LED animation library written in Go, inspired by FastLED
 - [adafruit/Adafruit_NeoPixel_ZeroDMA](https://github.com/adafruit/Adafruit_NeoPixel_ZeroDMA) - DMA-based NeoPixel library for SAMD microcontrollers (Feather M0, M4, Arduino Zero, etc.)
-- [bwhitman/alles](https://github.com/bwhitman/alles) - A many speaker distributed music synthesizer using UDP multicast over WiFi
+- [shorepine/alles](https://github.com/shorepine/alles) - A many speaker distributed music synthesizer using UDP multicast over WiFi
 - [gh0stless/AIASS-Uno-VST](https://github.com/gh0stless/AIASS-Uno-VST) - 
 - [richardeoin/ftx-prog](https://github.com/richardeoin/ftx-prog) - A Linux command-line alternative to the FTDI FTProg utility for FTDI's FT-X series
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
