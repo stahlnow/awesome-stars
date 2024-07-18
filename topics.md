@@ -432,7 +432,7 @@
 
 ## database 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## deep-learning 
 
@@ -902,7 +902,7 @@
 - [turbyho/DABDUINO](https://github.com/turbyho/DABDUINO) - The DABDUINO is DAB/DAB+/FM Arduino shield with 32-bit, 384kHz PCM DAC (cinch) + Toslink optical digital audio output.
 - [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
-- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
+- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 - [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
 
@@ -1083,7 +1083,7 @@
 
 ## nosql 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A new project to resume development on the formerly open-source Redis project. We're calling it Valkey, since it's a twist on the key-value datastore.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
 
 ## npm 
 
@@ -1121,6 +1121,7 @@
 
 ## others 
 
+- [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms the for Daisy Seed
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -1914,7 +1915,7 @@
 - [ubernostrum/django-registration](https://github.com/ubernostrum/django-registration) - An extensible user-registration app for Django.
 - [dfunckt/django-rules](https://github.com/dfunckt/django-rules) - Awesome Django authorization, without the database
 - [fridex/hexsticker](https://github.com/fridex/hexsticker) - Create hexagon stickers automatically
-- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
+- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
 - [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
 - [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
@@ -2004,7 +2005,7 @@
 - [JonnoFTW/img_term](https://github.com/JonnoFTW/img_term) - Display image, video or USB camera in your ANSI terminal!
 - [fridex/hexsticker](https://github.com/fridex/hexsticker) - Create hexagon stickers automatically
 - [sdushantha/down](https://github.com/sdushantha/down) - ☑️ A CLI tool to check if a site or a list of sites are down or up
-- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
+- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [techcentaur/PyLex](https://github.com/techcentaur/PyLex) - Perform lexical analysis on words, one word at a time.
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [wemake-services/django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
@@ -2039,7 +2040,7 @@
 - [napframework/nap](https://github.com/napframework/nap) - NAP Framework source code
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
-- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a raspberry pi single board computer
+- [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [miRackModular/Rack](https://github.com/miRackModular/Rack) - An optimised fork of VCVRack virtual modular synthesizer primarily for Raspberry Pi, Tinker Board and similar boards.
 
 ## react 
