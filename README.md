@@ -473,7 +473,6 @@
 ## Haskell 
 
 - [ananthakumaran/webify](https://github.com/ananthakumaran/webify) - webfont generator - converts ttf to woff, eot and svg
-- [Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...
 
 ## IDL 
 
@@ -624,6 +623,7 @@
 - [maciejczyzewski/hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface:
 - [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [automata/osc-web](https://github.com/automata/osc-web) - Open Sound Control Web Bridge
+- [Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...
 - [1u/hmmm](https://github.com/1u/hmmm) - Course-Organization-Platform
 - [Zverik/leaflet-grayscale](https://github.com/Zverik/leaflet-grayscale) - Grayscale TileLayer for Leaflet
 - [PaulUithol/backbone-tastypie](https://github.com/PaulUithol/backbone-tastypie) - A small compatibility layer to make backbone.js and django-tastypie work together happily.
@@ -820,7 +820,7 @@
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [disqus/django-bitfield](https://github.com/disqus/django-bitfield) - A BitField extension for Django Models
-- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration platform for AI engineers and domain experts that require high-quality outputs, full data ownership, and overall efficiency.
+- [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [vitsalis/PyCG](https://github.com/vitsalis/PyCG) - Static Python call graph generator
