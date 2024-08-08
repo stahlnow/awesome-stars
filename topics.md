@@ -1119,8 +1119,9 @@
 
 ## others 
 
+- [fluffyaudio/MultiVersio](https://github.com/fluffyaudio/MultiVersio) - 
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
-- [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms the for Daisy Seed
+- [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms for the Daisy Seed
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
