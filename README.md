@@ -219,8 +219,9 @@
 
 ## C++ 
 
+- [fluffyaudio/MultiVersio](https://github.com/fluffyaudio/MultiVersio) - 
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
-- [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms the for Daisy Seed
+- [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms for the Daisy Seed
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [rocket/rocket](https://github.com/rocket/rocket) - Rocket
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
