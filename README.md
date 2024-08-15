@@ -255,7 +255,7 @@
 - [Opendigitalradio/dablin](https://github.com/Opendigitalradio/dablin) - DAB/DAB+ receiver for Linux (including ETI-NI and EDI AF playback)
 - [turbyho/DABDUINO](https://github.com/turbyho/DABDUINO) - The DABDUINO is DAB/DAB+/FM Arduino shield with 32-bit, 384kHz PCM DAC (cinch) + Toslink optical digital audio output.
 - [enveloop/miniMO](https://github.com/enveloop/miniMO) - 8-bit Programmable Synthesizer Module
-- [robstave/ArduinoComponentSketches](https://github.com/robstave/ArduinoComponentSketches) - Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits
+- [robstave/ArduinoComponentSketches](https://github.com/robstave/ArduinoComponentSketches) - Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits or whatever.
 - [napframework/nap](https://github.com/napframework/nap) - NAP Framework source code
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
@@ -895,7 +895,7 @@
 - [onelivesleft/PrettyErrors](https://github.com/onelivesleft/PrettyErrors) - Prettify Python exception output to make it legible.
 - [pyeve/cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 - [jazzband/django-redis](https://github.com/jazzband/django-redis) - Full featured redis cache backend for Django.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
