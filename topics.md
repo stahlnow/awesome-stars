@@ -328,7 +328,7 @@
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [emersion/grim](https://github.com/emersion/grim) - Grab images from a Wayland compositor
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -1264,7 +1264,7 @@
 - [FAlthausen/Vollkorn-Typeface](https://github.com/FAlthausen/Vollkorn-Typeface) - »Vollkorn« is the free and healthy typeface for bread and butter use.
 - [abalone1969/eRide](https://github.com/abalone1969/eRide) - evan hartzell plays the ride cymbal as a SuperDirt sample pack
 - [enveloop/miniMO](https://github.com/enveloop/miniMO) - 8-bit Programmable Synthesizer Module
-- [robstave/ArduinoComponentSketches](https://github.com/robstave/ArduinoComponentSketches) - Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits
+- [robstave/ArduinoComponentSketches](https://github.com/robstave/ArduinoComponentSketches) - Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits or whatever.
 - [jasoncoon/led-mapper](https://github.com/jasoncoon/led-mapper) - An online tool to generate and visualize maps for irregular and/or gapped LED layouts, for use with FastLED, Pixelblaze and other libraries.
 - [emeb/up5k_osc](https://github.com/emeb/up5k_osc) - 
 - [savonet/liquidsoap](https://github.com/savonet/liquidsoap) - Liquidsoap is a statically typed scripting general-purpose language with dedicated operators and backend for all thing media, streaming, file generation, automation, HTTP backend and more.
@@ -1889,7 +1889,7 @@
 - [pyeve/cerberus](https://github.com/pyeve/cerberus) - Lightweight, extensible data validation library for Python
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [dexplo/dexplot](https://github.com/dexplo/dexplot) - Simple plotting library that wraps Matplotlib and integrated with DataFrames
 - [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [librosa/librosa](https://github.com/librosa/librosa) - Python library for audio and music analysis
@@ -1998,7 +1998,7 @@
 - [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
 - [liiight/notifiers](https://github.com/liiight/notifiers) - The easy way to send notifications
 - [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
@@ -2117,7 +2117,7 @@
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
 - [tusharsadhwani/zxpy](https://github.com/tusharsadhwani/zxpy) - Shell scripts made simple 🐚
 - [sebastian404/japb_retroarch](https://github.com/sebastian404/japb_retroarch) - An Unofficial port of Retroarch to the Pandora's Box hardware
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -2155,7 +2155,7 @@
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀
 - [Textualize/rich](https://github.com/Textualize/rich) - Rich is a Python library for rich text and beautiful formatting in the terminal.
-- [tiangolo/typer](https://github.com/tiangolo/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
+- [fastapi/typer](https://github.com/fastapi/typer) - Typer, build great CLIs. Easy to code. Based on Python type hints.
 - [gokcehan/lf](https://github.com/gokcehan/lf) - Terminal file manager
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
