@@ -26,6 +26,7 @@
 - [bootstrap](#bootstrap)
 - [bot](#bot)
 - [c](#c)
+- [c-plus-plus](#c-plus-plus)
 - [chatgpt](#chatgpt)
 - [cli](#cli)
 - [code](#code)
@@ -100,6 +101,7 @@
 - [linux](#linux)
 - [llm](#llm)
 - [localization](#localization)
+- [login](#login)
 - [low-code](#low-code)
 - [lua](#lua)
 - [machine-learning](#machine-learning)
@@ -154,6 +156,7 @@
 - [stable-diffusion](#stable-diffusion)
 - [swift](#swift)
 - [symfony](#symfony)
+- [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
 - [twitter](#twitter)
@@ -306,6 +309,25 @@
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [ggreer/the_silver_searcher](https://github.com/ggreer/the_silver_searcher) - A code-searching tool similar to ack, but faster.
+
+## c-plus-plus 
+
+- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
+- [rocket/rocket](https://github.com/rocket/rocket) - Rocket
+- [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
+- [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
+- [Gargaj/Bonzomatic](https://github.com/Gargaj/Bonzomatic) - Live shader coding tool and Shader Showdown workhorse
+- [SFML/SFML](https://github.com/SFML/SFML) - Simple and Fast Multimedia Library
+- [napframework/nap](https://github.com/napframework/nap) - NAP Framework source code
+- [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
+- [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
+- [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
+- [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
+- [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
+- [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
+- [mkeeter/antimony](https://github.com/mkeeter/antimony) - CAD from a parallel universe
+- [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 
 ## chatgpt 
 
@@ -941,6 +963,10 @@
 
 - [gafam/www.gafam.info](https://github.com/gafam/www.gafam.info) - Sources of the gafam.info web page
 
+## login 
+
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+
 ## low-code 
 
 - [node-red/node-red](https://github.com/node-red/node-red) - Low-code programming for event-driven applications
@@ -1124,7 +1150,6 @@
 - [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms for the Daisy Seed
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
-- [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
 - [milesdai/TAoE3Solutions](https://github.com/milesdai/TAoE3Solutions) - Solutions to the problems in The Art of Electronics 3ed.
@@ -1543,7 +1568,6 @@
 - [cnlohr/espusb](https://github.com/cnlohr/espusb) - Software-only ESP8266 USB Device
 - [outluch/gulp-rev-hash](https://github.com/outluch/gulp-rev-hash) - Keeps a file's hash in file's links to your assets. For automatic cache updating purpose.
 - [publiclab/webjack](https://github.com/publiclab/webjack) - a JavaScript library that uses an audio software modem to communicate with an Arduino via a headphone jack
-- [bbc/audiowaveform](https://github.com/bbc/audiowaveform) - C++ program to generate waveform data and render waveform images from audio files
 - [stevengoldberg/juno106](https://github.com/stevengoldberg/juno106) - Emulation of the Roland Juno-106 analog synth
 - [danguer/blog-examples](https://github.com/danguer/blog-examples) - Blog Examples
 - [mudcube/MIDI.js](https://github.com/mudcube/MIDI.js) - :musical_keyboard: Making life easy to create a MIDI-app on the web. Includes a library to program synesthesia into your app for memory recognition or for creating trippy effects. Convert soundfonts f
@@ -2140,6 +2164,10 @@
 ## symfony 
 
 - [jorge07/alpine-php](https://github.com/jorge07/alpine-php) - Multi Arch Alpine PHP  Docker images. 5.6, 7{0,1,2,3,4}, 8.{1,2,3}
+
+## tailwindcss 
+
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 
 ## tensorflow 
 
