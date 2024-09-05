@@ -934,7 +934,7 @@
 
 - [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [KejPi/AbracaDABra](https://github.com/KejPi/AbracaDABra) - Abraca DAB radio: DAB/DAB+ Software Defined Radio (SDR)
 - [blueman-project/blueman](https://github.com/blueman-project/blueman) - Blueman is a GTK+ Bluetooth Manager
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
@@ -1183,7 +1183,7 @@
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB+) decoder with a (slight) focus on showing the signal
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [raybellis/PicoSynth](https://github.com/raybellis/PicoSynth) - Polyphonic wavetable synthesizer for the Raspberry Pi Pico
-- [DatanoiseTV/PicoADK-Hardware](https://github.com/DatanoiseTV/PicoADK-Hardware) - A RP2040 based Audio Development Kit with 32 Bit Audio Output. Build your own standalone synthesizers!
+- [DatanoiseTV/PicoADK-Hardware](https://github.com/DatanoiseTV/PicoADK-Hardware) - A Raspberry Pi RP2 based Audio Development Kit with 32 Bit Audio Output. Build your own standalone synthesizers!
 - [ojg/thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
 - [rmichon/dsp-book](https://github.com/rmichon/dsp-book) - 
 - [SpotlightKid/stereocrossdelay](https://github.com/SpotlightKid/stereocrossdelay) - A stereo delay plugin with feedback and cross-mixing
@@ -1424,7 +1424,6 @@
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
 - [hzlf/ansible-role-monitoring](https://github.com/hzlf/ansible-role-monitoring) - 
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
-- [paypal/PayPal-Python-SDK](https://github.com/paypal/PayPal-Python-SDK) - Python SDK for PayPal RESTful APIs
 - [jamesls/fakeredis](https://github.com/jamesls/fakeredis) - Fake implementation of redis API (redis-py) for testing purposes
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [Stabledog/crontest](https://github.com/Stabledog/crontest) - Support tool for debugging scripts launched from cron or similar "no shell" *nix contexts.
@@ -1840,7 +1839,7 @@
 
 ## postgresql 
 
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [dokku/dokku-postgres](https://github.com/dokku/dokku-postgres) - a postgres plugin for dokku
 - [pahaz/docker-compose-django-postgresql-redis-example](https://github.com/pahaz/docker-compose-django-postgresql-redis-example) - Django + Postgres + Redis + Celery + Celery Beat + WebSocket server
 - [tatterdemalion/django-nece](https://github.com/tatterdemalion/django-nece) - Content Translation Framework based on Postgresql's JSONB field
@@ -2099,7 +2098,7 @@
 ## ruby 
 
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 
 ## rust 
 
