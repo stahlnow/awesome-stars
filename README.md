@@ -720,7 +720,7 @@
 - [ErikOostveen/Slimshader](https://github.com/ErikOostveen/Slimshader) - SLIMSHADER is an Open Source Raspberry PI project based on glslViewer and capable of displaying plain images and OpenGL/GLSL shader files.
 - [zhdk/tpf-client](https://github.com/zhdk/tpf-client) - Telematic performance format client software
 - [Wasted-Audio/heavylib](https://github.com/Wasted-Audio/heavylib) - Library of Heavy compatible abstractions
-- [DatanoiseTV/PicoADK-Hardware](https://github.com/DatanoiseTV/PicoADK-Hardware) - A RP2040 based Audio Development Kit with 32 Bit Audio Output. Build your own standalone synthesizers!
+- [DatanoiseTV/PicoADK-Hardware](https://github.com/DatanoiseTV/PicoADK-Hardware) - A Raspberry Pi RP2 based Audio Development Kit with 32 Bit Audio Output. Build your own standalone synthesizers!
 - [DefProc/dsa-keys](https://github.com/DefProc/dsa-keys) - DSA profile keycaps with Matias/ALPS stems for 3D printing
 - [pms67/STM32F4-Reference-PCB](https://github.com/pms67/STM32F4-Reference-PCB) - KiCad + STM32F4 + USB + Buck converter video reference/test PCB.
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
@@ -942,7 +942,6 @@
 - [JonnoFTW/img_term](https://github.com/JonnoFTW/img_term) - Display image, video or USB camera in your ANSI terminal!
 - [haskellcamargo/sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
-- [paypal/PayPal-Python-SDK](https://github.com/paypal/PayPal-Python-SDK) - Python SDK for PayPal RESTful APIs
 - [resmio/django-sendgrid](https://github.com/resmio/django-sendgrid) - A small django app around sendgrid and its webhooks
 - [ubernostrum/django-registration](https://github.com/ubernostrum/django-registration) - An extensible user-registration app for Django.
 - [darbula/djangocms-custommenu](https://github.com/darbula/djangocms-custommenu) - Adds custom menu plugin to django CMS.
@@ -1139,7 +1138,7 @@
 
 ## Ruby 
 
-- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open, free, and portable cloud. Elastic compute, block storage (non replicated), virtual networking, managed Postgres, and IAM services in public beta.
+- [ubicloud/ubicloud](https://github.com/ubicloud/ubicloud) - Open source alternative to AWS. Elastic compute, block storage (non replicated), firewall and load balancer, managed Postgres, and IAM services in public beta.
 - [hometown-fork/hometown](https://github.com/hometown-fork/hometown) - A supported fork of Mastodon that provides local posting and a wider range of content types.
 - [recurser/exif-orientation-examples](https://github.com/recurser/exif-orientation-examples) - Example images for the various EXIF orientation flags, in both landscape and portrait orientation.
 - [thoughtbot/bourbon](https://github.com/thoughtbot/bourbon) - A Lightweight Sass Tool Set
