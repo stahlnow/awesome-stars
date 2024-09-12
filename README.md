@@ -395,7 +395,6 @@
 
 - [michaeloliverx/python-poetry-docker-example](https://github.com/michaeloliverx/python-poetry-docker-example) - Example of integrating Poetry with Docker leveraging multi-stage builds.
 - [jorge07/alpine-php](https://github.com/jorge07/alpine-php) - Multi Arch Alpine PHP  Docker images. 5.6, 7{0,1,2,3,4}, 8.{1,2,3}
-- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 
 ## Eagle 
 
@@ -1177,6 +1176,7 @@
 - [sebastian404/japb_retroarch](https://github.com/sebastian404/japb_retroarch) - An Unofficial port of Retroarch to the Pandora's Box hardware
 - [loh-tar/tbsm](https://github.com/loh-tar/tbsm) - A pure bash session or application launcher. Inspired by cdm, tdm and krunner
 - [Heckie75/pasink](https://github.com/Heckie75/pasink) - Pulse-audio sink-setter with bluez and combined-sink support
+- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [Stabledog/crontest](https://github.com/Stabledog/crontest) - Support tool for debugging scripts launched from cron or similar "no shell" *nix contexts.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
