@@ -715,6 +715,8 @@
 
 ## Others 
 
+- [AtoVproject/16n-AtoVproject-rework](https://github.com/AtoVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
+- [16n-faderbank/16nx](https://github.com/16n-faderbank/16nx) - 16nx is a controller for musical instruments. Sixteen faders,MIDI over USB and jack, CV out, and I2C out. Based around RP2040.
 - [sgmk/statuten](https://github.com/sgmk/statuten) - Statuten der Schweizerischen Gesellschaft für Mechatronische Kunst /  Articles of the Swiss Mechatronic Art Association
 - [ErikOostveen/Slimshader](https://github.com/ErikOostveen/Slimshader) - SLIMSHADER is an Open Source Raspberry PI project based on glslViewer and capable of displaying plain images and OpenGL/GLSL shader files.
 - [zhdk/tpf-client](https://github.com/zhdk/tpf-client) - Telematic performance format client software
@@ -1191,7 +1193,7 @@
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [rupa/z](https://github.com/rupa/z) - z - jump around
 - [guardianproject/android-ffmpeg](https://github.com/guardianproject/android-ffmpeg) - a system for building custom ffmpeg binaries for Android
-- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,300+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
+- [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
 ## Shen 
@@ -1215,6 +1217,7 @@
 
 ## TypeScript 
 
+- [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
 - [vsergeev/briefsky](https://github.com/vsergeev/briefsky) - A free weather frontend to a variety of weather providers
 - [0b5vr/0mix](https://github.com/0b5vr/0mix) - "0b5vr GLSL Techno Live Set" by 0b5vr, Appeared in the Revision 2023 PC Demo Compo
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
