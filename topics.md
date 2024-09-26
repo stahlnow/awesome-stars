@@ -454,6 +454,7 @@
 - [dexplo/dexplot](https://github.com/dexplo/dexplot) - Simple plotting library that wraps Matplotlib and integrated with DataFrames
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
+- [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
 - [d3/d3](https://github.com/d3/d3) - Bring data to life with SVG, Canvas and HTML. :bar_chart::chart_with_upwards_trend::tada:
 
@@ -1208,7 +1209,6 @@
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [ptzz/lf.vim](https://github.com/ptzz/lf.vim) - Lf integration in vim and neovim
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
-- [python/pythondotorg](https://github.com/python/pythondotorg) - Source code for python.org
 - [DefProc/dsa-keys](https://github.com/DefProc/dsa-keys) - DSA profile keycaps with Matias/ALPS stems for 3D printing
 - [Krutie/bugs-of-the-city](https://github.com/Krutie/bugs-of-the-city) - Bugs of the City built using Vue Js and Vue Grid Layout
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
@@ -1877,6 +1877,7 @@
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
 - [supakeen/steck](https://github.com/supakeen/steck) - A command line client for the pinnwand pastebin.
 - [supakeen/pinnwand](https://github.com/supakeen/pinnwand) - A Python pastebin that tries to keep it simple.
+- [python/pythondotorg](https://github.com/python/pythondotorg) - Source code for python.org
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - The impossibly small web framework for Python and MicroPython.
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
