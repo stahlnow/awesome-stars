@@ -98,6 +98,7 @@
 
 ## C 
 
+- [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
@@ -121,7 +122,6 @@
 - [mortie/swaylock-effects](https://github.com/mortie/swaylock-effects) - Swaylock, with fancy effects
 - [nu774/fdkaac](https://github.com/nu774/fdkaac) - command line encoder frontend for libfdk-aac
 - [midibox/mios32](https://github.com/midibox/mios32) - MIOS32
-- [cjbarnes18/ttymidi](https://github.com/cjbarnes18/ttymidi) - ttyMIDI is a GPL-licensed program that allows external serial devices to interface with the ALSA sequencer.
 - [GStreamer/gst-rtsp-server](https://github.com/GStreamer/gst-rtsp-server) - RTSP server based on GStreamer. This module has been merged into the main GStreamer repo for further development.
 - [Chordian/sidfactory2](https://github.com/Chordian/sidfactory2) - SID Factory II is a cross-platform editor for composing music that will work on a Commodore 64. It uses the reSID emulator and is currently in open BETA.
 - [Galfodo/SIDBlasterUSB_HardSID-emulation-driver](https://github.com/Galfodo/SIDBlasterUSB_HardSID-emulation-driver) - HardSID driver implementation for the SIDBlaster/USB Device.
@@ -849,7 +849,7 @@
 - [orsinium-labs/svg.py](https://github.com/orsinium-labs/svg.py) - 🎨 Type-safe and powerful Python library to generate SVG files
 - [synchronizing/bluelink](https://github.com/synchronizing/bluelink) - 🚙 Control your Hyundai car via Python.
 - [tremc/tremc](https://github.com/tremc/tremc) - Curses interface for transmission
-- [landscapeio/prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [prospector-dev/prospector](https://github.com/prospector-dev/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [python/mypy](https://github.com/python/mypy) - Optional static typing for Python
 - [MartinHeinz/ga-extractor](https://github.com/MartinHeinz/ga-extractor) - Tool for extracting Google Analytics data suitable for migrating to other platforms/databases
 - [jsingh811/pyAudioProcessing](https://github.com/jsingh811/pyAudioProcessing) - Audio feature extraction and classification
