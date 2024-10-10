@@ -1155,6 +1155,7 @@
 
 ## others 
 
+- [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [AtoVproject/16n-AtoVproject-rework](https://github.com/AtoVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
 - [16n-faderbank/16nx](https://github.com/16n-faderbank/16nx) - 16nx is a controller for musical instruments. Sixteen faders,MIDI over USB and jack, CV out, and I2C out. Based around RP2040.
@@ -1241,7 +1242,6 @@
 - [frnhr/django-light](https://github.com/frnhr/django-light) - Disable dark mode in Django admin UI.
 - [hometown-fork/hometown](https://github.com/hometown-fork/hometown) - A supported fork of Mastodon that provides local posting and a wider range of content types.
 - [midibox/mios32](https://github.com/midibox/mios32) - MIOS32
-- [cjbarnes18/ttymidi](https://github.com/cjbarnes18/ttymidi) - ttyMIDI is a GPL-licensed program that allows external serial devices to interface with the ALSA sequencer.
 - [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
 - [GStreamer/gst-rtsp-server](https://github.com/GStreamer/gst-rtsp-server) - RTSP server based on GStreamer. This module has been merged into the main GStreamer repo for further development.
 - [squaresolid/benjolin_gorga](https://github.com/squaresolid/benjolin_gorga) - A eurorack version 1.6 of Rob Hordijk's Benjolin with 100mm x 78mm which significantly reduce the cost of printing PCB. The panel still on eurorack standard size though, so no cost reduction there. Th
@@ -1272,7 +1272,7 @@
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [mirdej/synkie](https://github.com/mirdej/synkie) - The Synkie is a modular open source analog video processor, developed by Michael Egger, Max Egger and Flo Kaufmann
 - [DDMAL/diva.js](https://github.com/DDMAL/diva.js) - :books: IIIF-compatible document image viewer
-- [landscapeio/prospector](https://github.com/landscapeio/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
+- [prospector-dev/prospector](https://github.com/prospector-dev/prospector) - Inspects Python source files and provides information about type and location of classes, methods etc
 - [shamansir/noodle](https://github.com/shamansir/noodle) - Visual programming UI and framework driven by pure functional language and data streams
 - [jsingh811/pyAudioProcessing](https://github.com/jsingh811/pyAudioProcessing) - Audio feature extraction and classification
 - [jazzband/django-taggit](https://github.com/jazzband/django-taggit) - Simple tagging for django
