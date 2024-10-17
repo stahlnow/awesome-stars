@@ -571,6 +571,7 @@
 
 ## emulator 
 
+- [fhoedemakers/pico-infonesPlus](https://github.com/fhoedemakers/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
 - [tildearrow/furnace](https://github.com/tildearrow/furnace) - a multi-system chiptune tracker compatible with DefleMask modules
 - [irmen/pyc64](https://github.com/irmen/pyc64) - Commodore-64 simulator in pure Python
 
