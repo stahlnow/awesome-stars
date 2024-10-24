@@ -738,7 +738,6 @@
 - [thormagnusson/scoring](https://github.com/thormagnusson/scoring) - Scoring Sound: Creative Music Coding with SuperCollider
 - [dhaillant/kicad-3dmodels](https://github.com/dhaillant/kicad-3dmodels) - Home made open source STEP and VRML 3D Models for Kicad
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [hzlf/ansible-role-monitoring](https://github.com/hzlf/ansible-role-monitoring) - 
 - [jamesls/fakeredis](https://github.com/jamesls/fakeredis) - Fake implementation of redis API (redis-py) for testing purposes
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [kweiwen/benjolin](https://github.com/kweiwen/benjolin) - Rob Hordijk's Benjolin in the Eurorack format.
