@@ -1431,7 +1431,6 @@
 - [esptiny86/espsynth86](https://github.com/esptiny86/espsynth86) - Synth engine for esptiny86
 - [rmurphey/js-assessment](https://github.com/rmurphey/js-assessment) - A test-driven approach to assessing JS skills
 - [toml-lang/toml](https://github.com/toml-lang/toml) - Tom's Obvious, Minimal Language
-- [hzlf/ansible-role-monitoring](https://github.com/hzlf/ansible-role-monitoring) - 
 - [seatgeek/fuzzywuzzy](https://github.com/seatgeek/fuzzywuzzy) - Fuzzy String Matching in Python
 - [jamesls/fakeredis](https://github.com/jamesls/fakeredis) - Fake implementation of redis API (redis-py) for testing purposes
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
