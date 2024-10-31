@@ -1488,7 +1488,7 @@
 - [AllYarnsAreBeautiful/ayab-desktop](https://github.com/AllYarnsAreBeautiful/ayab-desktop) - The AYAB Software
 - [Optiboot/optiboot](https://github.com/Optiboot/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [wuuff/armageddon](https://github.com/wuuff/armageddon) - Gamebuino game inspired by Missile Command
-- [RackhamLeNoir/gamebuino-bangbang](https://github.com/RackhamLeNoir/gamebuino-bangbang) - Bang! Bang!
+- [ThomasPietrzak/gamebuino-bangbang](https://github.com/ThomasPietrzak/gamebuino-bangbang) - Bang! Bang!
 - [NetTimeLogic/FpgaWorkshop](https://github.com/NetTimeLogic/FpgaWorkshop) - Dock18 FPGA Workshop
 - [jazzband/django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
 - [madamdata/ANAS](https://github.com/madamdata/ANAS) - ducks
