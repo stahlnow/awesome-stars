@@ -310,7 +310,7 @@
 - [VCVRack/Rack](https://github.com/VCVRack/Rack) - The virtual Eurorack studio
 - [rbdannenberg/o2](https://github.com/rbdannenberg/o2) - Communication protocol that extends Open Sound Control
 - [Optiboot/optiboot](https://github.com/Optiboot/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
-- [RackhamLeNoir/gamebuino-bangbang](https://github.com/RackhamLeNoir/gamebuino-bangbang) - Bang! Bang!
+- [ThomasPietrzak/gamebuino-bangbang](https://github.com/ThomasPietrzak/gamebuino-bangbang) - Bang! Bang!
 - [Flybrix/flybrix-A7105-receiver](https://github.com/Flybrix/flybrix-A7105-receiver) - a7105 to cPPM for attiny85
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [googlearchive/android-audio-high-performance](https://github.com/googlearchive/android-audio-high-performance) - We now recommend you use the Oboe libraries:
