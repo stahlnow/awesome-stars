@@ -103,7 +103,7 @@
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 - [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
 - [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite Scarlett2 Mixer Driver
@@ -636,6 +636,7 @@
 
 ## Jupyter Notebook 
 
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [cesarmiquel/memories-256b-msdos-intro](https://github.com/cesarmiquel/memories-256b-msdos-intro) - Source code and explanation of Hellmoods awesome "PC 256 byte": https://www.pouet.net/prod.php?which=85227
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
