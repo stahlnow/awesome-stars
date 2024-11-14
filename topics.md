@@ -460,7 +460,7 @@
 
 ## database 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 
 ## deep-learning 
 
@@ -1118,7 +1118,7 @@
 
 ## nosql 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that supports both caching and beyond caching workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
 
 ## npm 
 
@@ -1156,6 +1156,8 @@
 
 ## others 
 
+- [BigNerd95/CameraLED](https://github.com/BigNerd95/CameraLED) - Pure python library to control Camera LED for RaspberryPi 3
+- [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [AtoVproject/16n-AtoVproject-rework](https://github.com/AtoVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
@@ -1868,6 +1870,7 @@
 
 ## python 
 
+- [ManiMozaffar/aioclock](https://github.com/ManiMozaffar/aioclock) - A modern python scheduling framework with dependency injection and modular integration support. Alternative for Rocketry or apscheduler
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
