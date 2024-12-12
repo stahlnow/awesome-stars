@@ -98,6 +98,7 @@
 
 ## C 
 
+- [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
 - [fhoedemakers/pico-infonesPlus](https://github.com/fhoedemakers/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
@@ -661,6 +662,7 @@
 
 ## Lua 
 
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  300 LOC )
@@ -1012,7 +1014,7 @@
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [encode/apistar](https://github.com/encode/apistar) - The Web API toolkit. 🛠
 - [jpaugh/braille-converter](https://github.com/jpaugh/braille-converter) - Converts English text to fully contracted (Grade 2) Braille. Aims to account for every rule that does not rely on semantic analysis.
-- [jmwright/cadquery-freecad-module](https://github.com/jmwright/cadquery-freecad-module) - A module-workbench combo that adds a CadQuery editor to FreeCAD
+- [CadQuery/cadquery-freecad-workbench](https://github.com/CadQuery/cadquery-freecad-workbench) - A module-workbench combo that adds a CadQuery editor to FreeCAD
 - [dcowden/cadquery](https://github.com/dcowden/cadquery) - CadQuery-- a parametric cad script framework
 - [ofek/bit](https://github.com/ofek/bit) - Bitcoin made easy.
 - [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
