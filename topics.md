@@ -33,6 +33,7 @@
 - [code](#code)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
+- [config](#config)
 - [cpp](#cpp)
 - [cryptocurrency](#cryptocurrency)
 - [cryptography](#cryptography)
@@ -125,6 +126,7 @@
 - [npm](#npm)
 - [numpy](#numpy)
 - [open-source](#open-source)
+- [openai](#openai)
 - [opencv](#opencv)
 - [opengl](#opengl)
 - [others](#others)
@@ -165,6 +167,7 @@
 - [typescript](#typescript)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
+- [vpn](#vpn)
 - [vue](#vue)
 - [vuejs](#vuejs)
 - [web](#web)
@@ -337,6 +340,7 @@
 
 ## chatgpt 
 
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
 
 ## cli 
@@ -395,6 +399,10 @@
 - [kylemcdonald/ofxCv](https://github.com/kylemcdonald/ofxCv) - Alternative approach to interfacing with OpenCv from openFrameworks.
 - [opencv/opencv](https://github.com/opencv/opencv) - Open Source Computer Vision Library
 - [ajbrock/Neural-Photo-Editor](https://github.com/ajbrock/Neural-Photo-Editor) - A simple interface for editing natural photos with generative neural networks.
+
+## config 
+
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  300 LOC )
 
 ## cpp 
 
@@ -647,6 +655,8 @@
 
 ## git 
 
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
 - [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
@@ -968,6 +978,7 @@
 
 ## llm 
 
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 
 ## localization 
@@ -984,6 +995,9 @@
 
 ## lua 
 
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
+- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [vsergeev/luaradio](https://github.com/vsergeev/luaradio) - A lightweight, embeddable software-defined radio framework built on LuaJIT
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - Neovim frontend for SuperCollider.
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
@@ -1077,6 +1091,13 @@
 
 ## neovim 
 
+- [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  300 LOC )
+- [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
+- [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
+- [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - Neovim frontend for SuperCollider.
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
@@ -1138,6 +1159,10 @@
 - [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
+## openai 
+
+- [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
+
 ## opencv 
 
 - [JonnoFTW/img_term](https://github.com/JonnoFTW/img_term) - Display image, video or USB camera in your ANSI terminal!
@@ -1156,6 +1181,10 @@
 
 ## others 
 
+- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
+- [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
+- [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) - Manages buffers as tab-local buffers!
+- [lrembacz/vue-responsive-grid-layout](https://github.com/lrembacz/vue-responsive-grid-layout) - Vue Repsonsive Grid Layout
 - [BigNerd95/CameraLED](https://github.com/BigNerd95/CameraLED) - Pure python library to control Camera LED for RaspberryPi 3
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
@@ -1522,7 +1551,7 @@
 - [4ms/RCD](https://github.com/4ms/RCD) - Rotating Clock Divider
 - [kootenpv/access_points](https://github.com/kootenpv/access_points) - Scan your WiFi and get access point information and signal quality
 - [jpaugh/braille-converter](https://github.com/jpaugh/braille-converter) - Converts English text to fully contracted (Grade 2) Braille. Aims to account for every rule that does not rely on semantic analysis.
-- [jmwright/cadquery-freecad-module](https://github.com/jmwright/cadquery-freecad-module) - A module-workbench combo that adds a CadQuery editor to FreeCAD
+- [CadQuery/cadquery-freecad-workbench](https://github.com/CadQuery/cadquery-freecad-workbench) - A module-workbench combo that adds a CadQuery editor to FreeCAD
 - [dcowden/cadquery](https://github.com/dcowden/cadquery) - CadQuery-- a parametric cad script framework
 - [akashbangad/NavigationView](https://github.com/akashbangad/NavigationView) - Example app to show the implementation of NavigationView from the design support library
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
@@ -2235,6 +2264,8 @@
 
 ## vim 
 
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  300 LOC )
 - [tikhomirov/vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 - [rhysd/vim-clang-format](https://github.com/rhysd/vim-clang-format) - Vim plugin for clang-format, a formatter for C, C++, Obj-C, Java, JavaScript, and so on.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
@@ -2251,6 +2282,10 @@
 ## virtual-reality 
 
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
+
+## vpn 
+
+- [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
 
 ## vue 
 
