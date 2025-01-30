@@ -726,7 +726,7 @@
 
 ## Others 
 
-- [AtoVproject/16n-AtoVproject-rework](https://github.com/AtoVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
+- [ATOVproject/16n-AtoVproject-rework](https://github.com/ATOVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
 - [16n-faderbank/16nx](https://github.com/16n-faderbank/16nx) - 16nx is a controller for musical instruments. Sixteen faders,MIDI over USB and jack, CV out, and I2C out. Based around RP2040.
 - [sgmk/statuten](https://github.com/sgmk/statuten) - Statuten der Schweizerischen Gesellschaft für Mechatronische Kunst /  Articles of the Swiss Mechatronic Art Association
 - [ErikOostveen/Slimshader](https://github.com/ErikOostveen/Slimshader) - SLIMSHADER is an Open Source Raspberry PI project based on glslViewer and capable of displaying plain images and OpenGL/GLSL shader files.
@@ -1160,6 +1160,7 @@
 
 ## Rust 
 
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, Yubikey, and client certificate authentication, etc.
 - [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -1229,6 +1230,7 @@
 
 ## TypeScript 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
 - [vsergeev/briefsky](https://github.com/vsergeev/briefsky) - A free weather frontend to a variety of weather providers
 - [0b5vr/0mix](https://github.com/0b5vr/0mix) - "0b5vr GLSL Techno Live Set" by 0b5vr, Appeared in the Revision 2023 PC Demo Compo
