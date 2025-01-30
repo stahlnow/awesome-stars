@@ -30,6 +30,7 @@
 - [c-plus-plus](#c-plus-plus)
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
+- [chrome](#chrome)
 - [cli](#cli)
 - [code](#code)
 - [compiler](#compiler)
@@ -165,6 +166,7 @@
 - [tailwindcss](#tailwindcss)
 - [tensorflow](#tensorflow)
 - [terminal](#terminal)
+- [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
 - [vim](#vim)
@@ -232,7 +234,7 @@
 ## arduino 
 
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
-- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
 - [turbyho/DABDUINO](https://github.com/turbyho/DABDUINO) - The DABDUINO is DAB/DAB+/FM Arduino shield with 32-bit, 384kHz PCM DAC (cinch) + Toslink optical digital audio output.
 - [MCUdude/SigmaDSP](https://github.com/MCUdude/SigmaDSP) - A versatile Arduino library for interfacing with the ADAU1401, ADAU1701 and ADAU1702 audio DSPs
@@ -249,6 +251,7 @@
 
 ## automation 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 
 ## awesome 
@@ -313,6 +316,7 @@
 - [rocket/rocket](https://github.com/rocket/rocket) - Rocket
 - [patriciogonzalezvivo/glslViewer](https://github.com/patriciogonzalezvivo/glslViewer) - Console-based GLSL Sandbox for 2D/3D shaders
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [weechat/weechat-relay](https://github.com/weechat/weechat-relay) - WeeChat Relay protocol library, written in C.
 - [sebastian404/japb_retroarch](https://github.com/sebastian404/japb_retroarch) - An Unofficial port of Retroarch to the Pandora's Box hardware
@@ -348,6 +352,10 @@
 
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
 - [haotian-liu/LLaVA](https://github.com/haotian-liu/LLaVA) - [NeurIPS'23 Oral] Visual Instruction Tuning (LLaVA) built towards GPT-4V level capabilities and beyond.
+
+## chrome 
+
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
 ## cli 
 
@@ -560,6 +568,7 @@
 
 ## electron 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 
 ## elixir 
@@ -603,6 +612,7 @@
 
 ## firefox 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 
 ## flask 
@@ -744,7 +754,7 @@
 - [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [libratbag/libratbag](https://github.com/libratbag/libratbag) - A DBus daemon to configure input devices, mainly high-end and gaming mice
 - [saadmk11/django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
@@ -858,6 +868,7 @@
 
 ## javascript 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
@@ -1188,6 +1199,7 @@
 
 ## others 
 
+- [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
 - [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) - Manages buffers as tab-local buffers!
@@ -1195,7 +1207,7 @@
 - [BigNerd95/CameraLED](https://github.com/BigNerd95/CameraLED) - Pure python library to control Camera LED for RaspberryPi 3
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
-- [AtoVproject/16n-AtoVproject-rework](https://github.com/AtoVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
+- [ATOVproject/16n-AtoVproject-rework](https://github.com/ATOVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
 - [16n-faderbank/16nx](https://github.com/16n-faderbank/16nx) - 16nx is a controller for musical instruments. Sixteen faders,MIDI over USB and jack, CV out, and I2C out. Based around RP2040.
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
@@ -1911,6 +1923,7 @@
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [samuelcolvin/watchfiles](https://github.com/samuelcolvin/watchfiles) - Simple, modern and fast file watching and code reload in Python.
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
+- [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [sabslikesobs/pip.wtf](https://github.com/sabslikesobs/pip.wtf) - Inline dependencies for small Python scripts.
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [PyCQA/bandit](https://github.com/PyCQA/bandit) - Bandit is a tool designed to find common security issues in Python code.
@@ -2261,6 +2274,10 @@
 - [Swordfish90/cool-retro-term](https://github.com/Swordfish90/cool-retro-term) - A good looking terminal emulator which mimics the old cathode display...
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,400+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
 
+## testing 
+
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
 ## twitter 
 
 - [edmondburnett/twitter-text-python](https://github.com/edmondburnett/twitter-text-python) - Twitter text processing library (auto linking and extraction of usernames, lists and hashtags).
@@ -2321,6 +2338,7 @@
 
 ## web 
 
+- [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [ekzhang/sshx](https://github.com/ekzhang/sshx) - Fast, collaborative live terminal sharing over the web
 - [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
