@@ -412,6 +412,7 @@
 
 ## Go 
 
+- [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
@@ -742,7 +743,7 @@
 - [clacktronics/AudioJacks](https://github.com/clacktronics/AudioJacks) - KiCAD footprint library and 3D models for commonly used connectors used in synths and other audio equipment
 - [abalone1969/eRide](https://github.com/abalone1969/eRide) - evan hartzell plays the ride cymbal as a SuperDirt sample pack
 - [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
-- [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero / zero W / zero WH
+- [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero(wh)/zero2(wh)/5B/4B/3B+
 - [admin-ch/CovidCertificate-Documents](https://github.com/admin-ch/CovidCertificate-Documents) - Documents related to covid certificate system in Switzerland
 - [jhautry/echo-dot](https://github.com/jhautry/echo-dot) - Breaking the Echo Dot project for the IASC 4580 Capstone Course
 - [sgmk/BlinkeStikkas2000](https://github.com/sgmk/BlinkeStikkas2000) - New designs to make sticky circuit PCB for 2020 x-mas and rC3
