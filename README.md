@@ -273,7 +273,7 @@
 - [16n-faderbank/16n](https://github.com/16n-faderbank/16n) - Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out. Phew.
 - [EmissionControl2/EmissionControl2](https://github.com/EmissionControl2/EmissionControl2) - EmissionControl2 (EC2) is a standalone interactive real-time application for granular synthesis and sound file granulation. It is available for OSX, Linux, and Windows.
 - [bitluni/ESP32CompositeVideo](https://github.com/bitluni/ESP32CompositeVideo) - 
-- [Aircoookie/WLED](https://github.com/Aircoookie/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [cannam/constant-q-cpp](https://github.com/cannam/constant-q-cpp) - A C++ library and Vamp plugin implementing the Constant-Q transform of a time-domain signal.
 - [LancePutnam/Gamma](https://github.com/LancePutnam/Gamma) - Generic (Sound) Synthesis Library
 - [sgmk/BlinkeShit3000](https://github.com/sgmk/BlinkeShit3000) - SGMK X-mas Party "Make DOCK18 Bright Again"
@@ -451,7 +451,6 @@
 
 ## HTML 
 
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ojg/thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
 - [rmichon/dsp-book](https://github.com/rmichon/dsp-book) - 
@@ -509,6 +508,7 @@
 
 ## JavaScript 
 
+- [bernii/gauge.js](https://github.com/bernii/gauge.js) - 100% native and cool looking JavaScript gauge
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
@@ -582,7 +582,6 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [klen/django_markdown](https://github.com/klen/django_markdown) - Django markdown support and wysiwig
 - [a1k0n/jsxm](https://github.com/a1k0n/jsxm) - FastTracker 2 .xm module player in Javascript
 - [aterrien/jQuery-Kontrol](https://github.com/aterrien/jQuery-Kontrol) - Experimental JavaScript jQuery library of UI controls ; dial (was jQuery Knob), XY pad, bars
@@ -807,6 +806,7 @@
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
@@ -1265,6 +1265,7 @@
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
