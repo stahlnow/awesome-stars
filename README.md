@@ -21,6 +21,7 @@
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Faust](#faust)
+- [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
 - [Haskell](#haskell)
@@ -273,7 +274,7 @@
 - [16n-faderbank/16n](https://github.com/16n-faderbank/16n) - Sixteen faders, a Teensy, MIDI over USB and jack, CV out, and I2C out. Phew.
 - [EmissionControl2/EmissionControl2](https://github.com/EmissionControl2/EmissionControl2) - EmissionControl2 (EC2) is a standalone interactive real-time application for granular synthesis and sound file granulation. It is available for OSX, Linux, and Windows.
 - [bitluni/ESP32CompositeVideo](https://github.com/bitluni/ESP32CompositeVideo) - 
-- [wled-dev/WLED](https://github.com/wled-dev/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP8266 or ESP32 over WiFi!
 - [cannam/constant-q-cpp](https://github.com/cannam/constant-q-cpp) - A C++ library and Vamp plugin implementing the Constant-Q transform of a time-domain signal.
 - [LancePutnam/Gamma](https://github.com/LancePutnam/Gamma) - Generic (Sound) Synthesis Library
 - [sgmk/BlinkeShit3000](https://github.com/sgmk/BlinkeShit3000) - SGMK X-mas Party "Make DOCK18 Bright Again"
@@ -409,6 +410,10 @@
 ## Faust 
 
 - [mi-creative/FaustPM_2021_examples](https://github.com/mi-creative/FaustPM_2021_examples) - Examples for the Faust Physical Modelling workshop held online on Feb 1st 2021
+
+## GLSL 
+
+- [patriciogonzalezvivo/lygia_examples](https://github.com/patriciogonzalezvivo/lygia_examples) - 
 
 ## Go 
 
@@ -806,7 +811,7 @@
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme for seamless interface development
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
