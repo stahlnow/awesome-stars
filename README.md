@@ -81,6 +81,7 @@
 
 ## Assembly 
 
+- [Apress/RP2040-Assembly-Language-Programming](https://github.com/Apress/RP2040-Assembly-Language-Programming) - source code
 - [JeremiahK96/vcs-nyancat](https://github.com/JeremiahK96/vcs-nyancat) - Nyan Cat game for the Atari 2600
 - [utz82/HoustonTracker2](https://github.com/utz82/HoustonTracker2) - A music editor for TI graphing calculators
 
@@ -177,7 +178,7 @@
 - [4ms/RCD](https://github.com/4ms/RCD) - Rotating Clock Divider
 - [xyb3rt/sxiv](https://github.com/xyb3rt/sxiv) - Simple X Image Viewer
 - [pixel/hexedit](https://github.com/pixel/hexedit) - View and edit files in hexadecimal or in ASCII
-- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded TCP/IP network stack with embedded web server, Websocket, and MQTT client
+- [cesanta/mongoose](https://github.com/cesanta/mongoose) - Embedded web server, with TCP/IP network stack, MQTT and Websocket
 - [notandy/ympd](https://github.com/notandy/ympd) - Standalone MPD Web GUI written in C, utilizing Websockets and Bootstrap/JS
 - [GaudiLabs/OpenTheremin_V3](https://github.com/GaudiLabs/OpenTheremin_V3) - Open Source Theremin Instrument, Arudino Codes
 - [nebarnix/Project-Desert-Tortoise](https://github.com/nebarnix/Project-Desert-Tortoise) - A demodulator written in C to decode IQ data from the 137.35Mhz/137.77Mhz telemetry beacons from NOAA-15, NOAA-18, and NOAA-19
@@ -808,6 +809,7 @@
 
 ## Python 
 
+- [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [ManiMozaffar/aioclock](https://github.com/ManiMozaffar/aioclock) - A modern python scheduling framework with dependency injection and modular integration support. Alternative for Rocketry or apscheduler
 - [BigNerd95/CameraLED](https://github.com/BigNerd95/CameraLED) - Pure python library to control Camera LED for RaspberryPi 3
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
