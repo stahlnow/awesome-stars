@@ -32,6 +32,7 @@
 - [KiCad Layout](#kicad-layout)
 - [Kotlin](#kotlin)
 - [Lua](#lua)
+- [MDX](#mdx)
 - [Makefile](#makefile)
 - [Max](#max)
 - [Mustache](#mustache)
@@ -81,6 +82,7 @@
 
 ## Assembly 
 
+- [LifeWithDavid/RaspberryPiPico-BareMetalAdventures](https://github.com/LifeWithDavid/RaspberryPiPico-BareMetalAdventures) - Files for the Raspberry PI Pico Bare Metal Adventures series
 - [Apress/RP2040-Assembly-Language-Programming](https://github.com/Apress/RP2040-Assembly-Language-Programming) - source code
 - [JeremiahK96/vcs-nyancat](https://github.com/JeremiahK96/vcs-nyancat) - Nyan Cat game for the Atari 2600
 - [utz82/HoustonTracker2](https://github.com/utz82/HoustonTracker2) - A music editor for TI graphing calculators
@@ -353,7 +355,6 @@
 - [glastonbridge/SuperCollider-Android](https://github.com/glastonbridge/SuperCollider-Android) - An Android port of SuperCollider
 - [jeelabs/jeelib](https://github.com/jeelabs/jeelib) - JeeLib for Arduino IDE: Ports, RF12, and RF69 drivers from JeeLabs
 - [pichenettes/stmlib](https://github.com/pichenettes/stmlib) - STM32F project template and utility routines used for Mutable Instruments products
-- [rezaali/ofxUI](https://github.com/rezaali/ofxUI) - [DEPRECATED] UI Addon for openFrameworks
 - [JorgeAparicio/bareCortexM](https://github.com/JorgeAparicio/bareCortexM) - An Eclipse project template for bare metal development of ARM Cortex M processors.
 - [popcornmix/omxplayer](https://github.com/popcornmix/omxplayer) - omxplayer
 - [mazbox/noisebox](https://github.com/mazbox/noisebox) - audio synth for raspberry pi
@@ -686,6 +687,10 @@
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
 - [torhve/weechat-matrix-protocol-script](https://github.com/torhve/weechat-matrix-protocol-script) - A WeeChat script in Lua that implements the matrix.org chat protocol
 
+## MDX 
+
+- [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
+
 ## Makefile 
 
 - [TheTechnobear/Orac](https://github.com/TheTechnobear/Orac) - Orac : virtual modular synth
@@ -809,6 +814,7 @@
 
 ## Python 
 
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [ManiMozaffar/aioclock](https://github.com/ManiMozaffar/aioclock) - A modern python scheduling framework with dependency injection and modular integration support. Alternative for Rocketry or apscheduler
 - [BigNerd95/CameraLED](https://github.com/BigNerd95/CameraLED) - Pure python library to control Camera LED for RaspberryPi 3
