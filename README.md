@@ -814,6 +814,8 @@
 
 ## Python 
 
+- [matthiask/django-imagefield](https://github.com/matthiask/django-imagefield) - You should probably use this image field instead of Django's built-in models.ImageField.
+- [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React. Opensource alternative to Notion or Outline.
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [ManiMozaffar/aioclock](https://github.com/ManiMozaffar/aioclock) - A modern python scheduling framework with dependency injection and modular integration support. Alternative for Rocketry or apscheduler
@@ -1247,6 +1249,7 @@
 
 ## TypeScript 
 
+- [schoero/swissqrbill](https://github.com/schoero/swissqrbill) - Swiss QR Bill generation in Node.js and browsers
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
 - [vsergeev/briefsky](https://github.com/vsergeev/briefsky) - A free weather frontend to a variety of weather providers
