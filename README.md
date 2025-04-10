@@ -458,6 +458,7 @@
 
 ## HTML 
 
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ojg/thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
 - [rmichon/dsp-book](https://github.com/rmichon/dsp-book) - 
@@ -822,7 +823,6 @@
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
@@ -1036,7 +1036,7 @@
 - [CadQuery/cadquery-freecad-workbench](https://github.com/CadQuery/cadquery-freecad-workbench) - A module-workbench combo that adds a CadQuery editor to FreeCAD
 - [dcowden/cadquery](https://github.com/dcowden/cadquery) - CadQuery-- a parametric cad script framework
 - [ofek/bit](https://github.com/ofek/bit) - Bitcoin made easy.
-- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized, digital content apps.
+- [lbryio/lbry-sdk](https://github.com/lbryio/lbry-sdk) - The LBRY SDK for building decentralized, censorship resistant, monetized digital content apps.
 - [django-money/django-money](https://github.com/django-money/django-money) - Money fields for Django forms and models.
 - [Visgean/photos2geojson](https://github.com/Visgean/photos2geojson) - html map gallery from photos
 - [jopohl/urh](https://github.com/jopohl/urh) - Universal Radio Hacker: Investigate Wireless Protocols Like A Boss
