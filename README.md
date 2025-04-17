@@ -652,7 +652,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [tamberg/fhnw-idb](https://github.com/tamberg/fhnw-idb) - FHNW Competence IoT Data Collection (idb)
-- [stackbuffer/ads](https://github.com/stackbuffer/ads) - store data in soundwaves
+- [previouslyanywhere/ads](https://github.com/previouslyanywhere/ads) - store data in soundwaves
 - [AllenDowney/ThinkDSP](https://github.com/AllenDowney/ThinkDSP) - Think DSP: Digital Signal Processing in Python, by Allen B. Downey.
 - [google/web-audio-recognition](https://github.com/google/web-audio-recognition) - 
 - [dexplo/dexplot](https://github.com/dexplo/dexplot) - Simple plotting library that wraps Matplotlib and integrated with DataFrames
@@ -675,7 +675,7 @@
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
-- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  (  300 LOC )
+- [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  ( 240 ~ LOC )
 - [stevearc/conform.nvim](https://github.com/stevearc/conform.nvim) - Lightweight yet powerful formatter plugin for Neovim
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
