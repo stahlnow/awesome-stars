@@ -102,12 +102,16 @@
 
 ## C 
 
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [pschatzmann/arduino-audio-driver](https://github.com/pschatzmann/arduino-audio-driver) - Flexible driver library for audio boards and codec chips e.g  AC101 ES8388 ES8311 CS43l22 ES7243 etc
+- [freeDSP/freeDSP-aurora](https://github.com/freeDSP/freeDSP-aurora) - freeDSP ADAU1452 with 8 analog input, 8 analog outputs, S/P-DIF I/O, ADAT I/O, USB Audio Class2, WiFi, Bluetooth
+- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 - [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
 - [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
 - [geoffreybennett/alsa-scarlett-gui](https://github.com/geoffreybennett/alsa-scarlett-gui) - alsa-scarlett-gui is a Gtk4 GUI for the ALSA controls presented by the Linux kernel Focusrite USB Drivers
@@ -457,7 +461,6 @@
 
 ## HTML 
 
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [ojg/thatmicpre](https://github.com/ojg/thatmicpre) - Microphone Pre-amplifier
 - [rmichon/dsp-book](https://github.com/rmichon/dsp-book) - 
@@ -516,6 +519,7 @@
 
 ## JavaScript 
 
+- [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [bernii/gauge.js](https://github.com/bernii/gauge.js) - 100% native and cool looking JavaScript gauge
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
 - [orestbida/cookieconsent](https://github.com/orestbida/cookieconsent) - :cookie: Simple cross-browser cookie-consent plugin written in vanilla js
@@ -590,6 +594,7 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [klen/django_markdown](https://github.com/klen/django_markdown) - Django markdown support and wysiwig
 - [a1k0n/jsxm](https://github.com/a1k0n/jsxm) - FastTracker 2 .xm module player in Javascript
 - [aterrien/jQuery-Kontrol](https://github.com/aterrien/jQuery-Kontrol) - Experimental JavaScript jQuery library of UI controls ; dial (was jQuery Knob), XY pad, bars
@@ -673,6 +678,8 @@
 
 ## Lua 
 
+- [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
@@ -739,6 +746,8 @@
 
 ## Others 
 
+- [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
+- [Cs4System/Eurorack](https://github.com/Cs4System/Eurorack) - Blattwerk Eurorack modules.  Designed by Lorenz Neumann
 - [FFmpeg/asm-lessons](https://github.com/FFmpeg/asm-lessons) - FFMPEG Assembly Language Lessons
 - [ATOVproject/16n-AtoVproject-rework](https://github.com/ATOVproject/16n-AtoVproject-rework) - Redesign of the 16n Faderbank for the Berlin Modular Community
 - [16n-faderbank/16nx](https://github.com/16n-faderbank/16nx) - 16nx is a controller for musical instruments. Sixteen faders,MIDI over USB and jack, CV out, and I2C out. Based around RP2040.
@@ -752,7 +761,7 @@
 - [postlight/awesome-cms](https://github.com/postlight/awesome-cms) - 📚 A collection of open and closed source Content Management Systems (CMS) for your perusal.
 - [shubhamgrg04/awesome-diagramming](https://github.com/shubhamgrg04/awesome-diagramming) - A curated collection of diagramming tools used by leading software engineering teams
 - [qmk/keyboard_awesome](https://github.com/qmk/keyboard_awesome) - A collection of awesome keyboard resources
-- [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
+- [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [clacktronics/AudioJacks](https://github.com/clacktronics/AudioJacks) - KiCAD footprint library and 3D models for commonly used connectors used in synths and other audio equipment
 - [abalone1969/eRide](https://github.com/abalone1969/eRide) - evan hartzell plays the ride cymbal as a SuperDirt sample pack
 - [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
@@ -815,6 +824,9 @@
 
 ## Python 
 
+- [davepeck/pep750-examples](https://github.com/davepeck/pep750-examples) - Examples of using t-strings as defined in PEP 750
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
+- [espressif/esp-dev-kits](https://github.com/espressif/esp-dev-kits) - Docs, Schematics, Factory Firmwares for ESP Development Kits
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
 - [darrenburns/rich-pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
@@ -827,6 +839,7 @@
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
@@ -860,7 +873,7 @@
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [vitsalis/PyCG](https://github.com/vitsalis/PyCG) - Static Python call graph generator
-- [LilyFoote/rest-framework-generic-relations](https://github.com/LilyFoote/rest-framework-generic-relations) - 
+- [LilyAcorn/rest-framework-generic-relations](https://github.com/LilyAcorn/rest-framework-generic-relations) - 
 - [oxan/djangorestframework-dataclasses](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework
 - [cdknorow/django_bulk_tutorial](https://github.com/cdknorow/django_bulk_tutorial) - A tutorial of using bulk create and update with django
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
@@ -1119,7 +1132,7 @@
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
 - [mattmakai/underwear](https://github.com/mattmakai/underwear) - Dead simple LAMP-stack deployments for Python-powered web applications.
 - [mjumbewu/django-jstemplate](https://github.com/mjumbewu/django-jstemplate) - Embed Javascript templates (mustache.js and more) into Django templates with minimal fuss.
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [jazzband/django-queued-storage](https://github.com/jazzband/django-queued-storage) - Provides a proxy for Django storage backends that allows you to upload files locally and eventually serve them remotely
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [asonawalla/FBEraser](https://github.com/asonawalla/FBEraser) - Programatically delete your Facebook posts
@@ -1131,7 +1144,7 @@
 - [walkr/oi](https://github.com/walkr/oi) - python library for writing long running processes with a cli interface
 - [pindexis/marker](https://github.com/pindexis/marker) - The terminal command palette
 - [bohde/django-backbone-example](https://github.com/bohde/django-backbone-example) - Sample application to show how to use Django and Backbone.js together.
-- [eka/pygrabbit](https://github.com/eka/pygrabbit) - 
+- [estebanfeldman/pygrabbit](https://github.com/estebanfeldman/pygrabbit) - 
 - [epsy/clize](https://github.com/epsy/clize) - CLIze: Turn Python functions into command-line interfaces
 - [vladimarius/imapy](https://github.com/vladimarius/imapy) - Imapy: Imap for Humans
 - [marcwebbie/passpie](https://github.com/marcwebbie/passpie) - :closed_lock_with_key: Multiplatform command-line password manager
@@ -1254,6 +1267,7 @@
 
 ## TypeScript 
 
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [schoero/swissqrbill](https://github.com/schoero/swissqrbill) - Swiss QR Bill generation in Node.js and browsers
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [Marus/cortex-debug](https://github.com/Marus/cortex-debug) - Visual Studio Code extension for enhancing debug capabilities for Cortex-M Microcontrollers
@@ -1288,7 +1302,6 @@
 - [russellmcc/node-osc-min](https://github.com/russellmcc/node-osc-min) - Open Sound Control utilities for node.js
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
@@ -1304,6 +1317,7 @@
 
 ## Vim Script 
 
+- [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
 - [tikhomirov/vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 - [ptzz/lf.vim](https://github.com/ptzz/lf.vim) - Lf integration in vim and neovim
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
