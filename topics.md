@@ -102,6 +102,7 @@
 - [json](#json)
 - [julia](#julia)
 - [jupyter-notebook](#jupyter-notebook)
+- [kotlin](#kotlin)
 - [kubernetes](#kubernetes)
 - [language](#language)
 - [languages](#languages)
@@ -173,6 +174,7 @@
 - [testing](#testing)
 - [twitter](#twitter)
 - [typescript](#typescript)
+- [ui](#ui)
 - [vim](#vim)
 - [virtual-reality](#virtual-reality)
 - [vpn](#vpn)
@@ -214,6 +216,7 @@
 
 ## android 
 
+- [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
@@ -367,6 +370,7 @@
 
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [pimutils/vdirsyncer](https://github.com/pimutils/vdirsyncer) - 📇 Synchronize calendars and contacts.
@@ -495,7 +499,7 @@
 
 ## database 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 ## deep-learning 
 
@@ -561,7 +565,7 @@
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
 - [wemake-services/django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
 - [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [python-thumbnails/python-thumbnails](https://github.com/python-thumbnails/python-thumbnails) - Thumbnails for Django, Flask and other Python projects. :rainbow:
 - [jmcclell/django-bootstrap-pagination](https://github.com/jmcclell/django-bootstrap-pagination) - Django template tag for rendering Page objects as Bootstrap pagination HTML
 - [Fantomas42/django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) - Simple yet powerful and really extendable application for managing a blog within your Django Web site.
@@ -660,7 +664,7 @@
 - [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
 - [Miksus/rocketry](https://github.com/Miksus/rocketry) - Modern scheduling library for Python
 - [charmbracelet/bubbletea](https://github.com/charmbracelet/bubbletea) - A powerful little TUI framework 🏗
-- [chriskempson/base16](https://github.com/chriskempson/base16) - Not a theme, but a framework
+- [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
@@ -733,6 +737,7 @@
 
 ## golang 
 
+- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [charmbracelet/lipgloss](https://github.com/charmbracelet/lipgloss) - Style definitions for nice terminal layouts 👄
@@ -877,6 +882,7 @@
 
 ## ios 
 
+- [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [steinbergmedia/vst3sdk](https://github.com/steinbergmedia/vst3sdk) - VST 3 Plug-In SDK
@@ -891,12 +897,14 @@
 
 ## java 
 
+- [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [mapeditor/tiled](https://github.com/mapeditor/tiled) - Flexible level editor
 
 ## javascript 
 
+- [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 - [adamritter/fastgron](https://github.com/adamritter/fastgron) - High-performance JSON to GRON (greppable, flattened JSON) converter
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
@@ -958,6 +966,10 @@
 - [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
 - [MTG/sms-tools](https://github.com/MTG/sms-tools) - Sound analysis/synthesis tools for music applications
+
+## kotlin 
+
+- [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 
 ## kubernetes 
 
@@ -1037,7 +1049,7 @@
 
 ## login 
 
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 
 ## low-code 
 
@@ -1045,6 +1057,7 @@
 
 ## lua 
 
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [nvim-lualine/lualine.nvim](https://github.com/nvim-lualine/lualine.nvim) - A blazing fast and easy to configure neovim statusline plugin written in pure lua.
 - [NeogitOrg/neogit](https://github.com/NeogitOrg/neogit) - An interactive and powerful Git interface for Neovim, inspired by Magit
@@ -1052,6 +1065,7 @@
 - [davidgranstrom/scnvim](https://github.com/davidgranstrom/scnvim) - Neovim frontend for SuperCollider.
 - [huggingface/llm.nvim](https://github.com/huggingface/llm.nvim) - LLM powered development for Neovim
 - [nvim-telescope/telescope.nvim](https://github.com/nvim-telescope/telescope.nvim) - Find, Filter, Preview, Pick. All lua, all the time.
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 
 ## machine-learning 
@@ -1141,6 +1155,7 @@
 
 ## neovim 
 
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [jackMort/ChatGPT.nvim](https://github.com/jackMort/ChatGPT.nvim) - ChatGPT Neovim Plugin: Effortless Natural Language Generation with OpenAI's ChatGPT API
@@ -1154,6 +1169,7 @@
 - [equalsraf/neovim-qt](https://github.com/equalsraf/neovim-qt) - Neovim client library and GUI, in Qt5.
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
+- [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [averms/black-nvim](https://github.com/averms/black-nvim) - A Neovim plugin to format your code using Black
 - [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
 
@@ -1189,7 +1205,7 @@
 
 ## nosql 
 
-- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value datastore that is optimized for caching and other realtime workloads.
+- [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
 ## npm 
 
@@ -1232,6 +1248,15 @@
 
 ## others 
 
+- [ThePrimeagen/vim-be-good](https://github.com/ThePrimeagen/vim-be-good) - vim-be-good is a nvim plugin designed to make you better at Vim Movements.
+- [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
+- [davepeck/pep750-examples](https://github.com/davepeck/pep750-examples) - Examples of using t-strings as defined in PEP 750
+- [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
+- [pschatzmann/arduino-audio-driver](https://github.com/pschatzmann/arduino-audio-driver) - Flexible driver library for audio boards and codec chips e.g  AC101 ES8388 ES8311 CS43l22 ES7243 etc
+- [freeDSP/freeDSP-aurora](https://github.com/freeDSP/freeDSP-aurora) - freeDSP ADAU1452 with 8 analog input, 8 analog outputs, S/P-DIF I/O, ADAT I/O, USB Audio Class2, WiFi, Bluetooth
+- [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
+- [Cs4System/Eurorack](https://github.com/Cs4System/Eurorack) - Blattwerk Eurorack modules.  Designed by Lorenz Neumann
+- [espressif/esp-dev-kits](https://github.com/espressif/esp-dev-kits) - Docs, Schematics, Factory Firmwares for ESP Development Kits
 - [matthiask/django-imagefield](https://github.com/matthiask/django-imagefield) - You should probably use this image field instead of Django's built-in models.ImageField.
 - [schoero/swissqrbill](https://github.com/schoero/swissqrbill) - Swiss QR Bill generation in Node.js and browsers
 - [LifeWithDavid/RaspberryPiPico-BareMetalAdventures](https://github.com/LifeWithDavid/RaspberryPiPico-BareMetalAdventures) - Files for the Raspberry PI Pico Bare Metal Adventures series
@@ -1240,7 +1265,6 @@
 - [bernii/gauge.js](https://github.com/bernii/gauge.js) - 100% native and cool looking JavaScript gauge
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-- [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
 - [backdround/tabscope.nvim](https://github.com/backdround/tabscope.nvim) - Manages buffers as tab-local buffers!
 - [lrembacz/vue-responsive-grid-layout](https://github.com/lrembacz/vue-responsive-grid-layout) - Vue Repsonsive Grid Layout
@@ -1328,7 +1352,7 @@
 - [nginx/unit](https://github.com/nginx/unit) - NGINX Unit - universal web app server - a lightweight and versatile open source server that simplifies the application stack by natively executing application code across eight different programming l
 - [mortie/swaylock-effects](https://github.com/mortie/swaylock-effects) - Swaylock, with fancy effects
 - [nu774/fdkaac](https://github.com/nu774/fdkaac) - command line encoder frontend for libfdk-aac
-- [LilyFoote/rest-framework-generic-relations](https://github.com/LilyFoote/rest-framework-generic-relations) - 
+- [LilyAcorn/rest-framework-generic-relations](https://github.com/LilyAcorn/rest-framework-generic-relations) - 
 - [cdknorow/django_bulk_tutorial](https://github.com/cdknorow/django_bulk_tutorial) - A tutorial of using bulk create and update with django
 - [frnhr/django-light](https://github.com/frnhr/django-light) - Disable dark mode in Django admin UI.
 - [hometown-fork/hometown](https://github.com/hometown-fork/hometown) - A supported fork of Mastodon that provides local posting and a wider range of content types.
@@ -1405,7 +1429,6 @@
 - [amaranth-lang/amaranth](https://github.com/amaranth-lang/amaranth) - A modern hardware definition language and toolchain based on Python
 - [cortesi/devd](https://github.com/cortesi/devd) - A local webserver for developers
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
-- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [triq-org/iqspectrovue](https://github.com/triq-org/iqspectrovue) - I/Q Spectrogram viewer
 - [triq-org/spectroplot-js](https://github.com/triq-org/spectroplot-js) - I/Q Spectrogram Plot JS library
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
@@ -1759,7 +1782,7 @@
 - [bohde/django-backbone-example](https://github.com/bohde/django-backbone-example) - Sample application to show how to use Django and Backbone.js together.
 - [8BitMixtape/8Step-MixTape-Berliner-Schule](https://github.com/8BitMixtape/8Step-MixTape-Berliner-Schule) - 8step sequencer modified to run on ATtiny84, with LED driving and eeprom save
 - [mirdej/tvtools](https://github.com/mirdej/tvtools) - Automatically exported from code.google.com/p/tvtools
-- [eka/pygrabbit](https://github.com/eka/pygrabbit) - 
+- [estebanfeldman/pygrabbit](https://github.com/estebanfeldman/pygrabbit) - 
 - [vladimarius/imapy](https://github.com/vladimarius/imapy) - Imapy: Imap for Humans
 - [mackyle/blocksruntime](https://github.com/mackyle/blocksruntime) - Blocks runtime library (libBlocksRuntime.a)
 - [brodykenrick/text_on_OpenSCAD](https://github.com/brodykenrick/text_on_OpenSCAD) - A library for putting customised "text on" 3D shapes in OpenSCAD with changeable fonts, languages/scripts, text direction.
@@ -1958,6 +1981,7 @@
 
 ## python 
 
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Modern Python FFmpeg wrappers offer comprehensive support for complex filters, complete with detailed typing and documentation.
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
@@ -2101,7 +2125,7 @@
 - [Suor/django-cacheops](https://github.com/Suor/django-cacheops) - A slick ORM cache with automatic granular event-driven invalidation.
 - [attwad/python-osc](https://github.com/attwad/python-osc) - Open Sound Control server and client in pure python
 - [certbot/certbot](https://github.com/certbot/certbot) - Certbot is EFF's tool to obtain certs from Let's Encrypt and (optionally) auto-enable HTTPS on your server.  It can also act as a client for any other CA that uses the ACME protocol.
-- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication.
+- [pennersr/django-allauth](https://github.com/pennersr/django-allauth) - Integrated set of Django applications addressing authentication, registration, account management as well as 3rd party (social) account authentication. 🔁 Mirror of https://codeberg.org/allauth/django-
 - [chainer/chainer](https://github.com/chainer/chainer) - A flexible framework of neural networks for deep learning
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 - [walkr/oi](https://github.com/walkr/oi) - python library for writing long running processes with a cli interface
@@ -2346,8 +2370,21 @@
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
 
+## ui 
+
+- [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
+- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+- [Aerolab/midnight.js](https://github.com/Aerolab/midnight.js) - Switch your nav's design on the fly
+- [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
+- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+
 ## vim 
 
+- [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
+- [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 - [NvChad/tinyvim](https://github.com/NvChad/tinyvim) - Most Organized minimal Neovim PDE config for beginners  ( 240 ~ LOC )
 - [tikhomirov/vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
@@ -2408,6 +2445,7 @@
 
 ## web-components 
 
+- [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 
