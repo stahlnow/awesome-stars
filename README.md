@@ -426,6 +426,7 @@
 
 ## Go 
 
+- [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -680,6 +681,7 @@
 
 ## Lua 
 
+- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
@@ -825,7 +827,7 @@
 ## Python 
 
 - [Aermoss/PySDL3](https://github.com/Aermoss/PySDL3) - A pure Python wrapper for SDL3.
-- [davepeck/pep750-examples](https://github.com/davepeck/pep750-examples) - Examples of using t-strings as defined in PEP 750
+- [t-strings/pep750-examples](https://github.com/t-strings/pep750-examples) - Examples of using t-strings as defined in PEP 750
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
 - [espressif/esp-dev-kits](https://github.com/espressif/esp-dev-kits) - Docs, Schematics, Factory Firmwares for ESP Development Kits
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
@@ -1006,7 +1008,7 @@
 - [sdushantha/down](https://github.com/sdushantha/down) - ☑️ A CLI tool to check if a site or a list of sites are down or up
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
-- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [komuw/sewer](https://github.com/komuw/sewer) - Let's Encrypt(ACME) client. Python library &  CLI app.
 - [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [ashnkumar/sketch-code](https://github.com/ashnkumar/sketch-code) - Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
