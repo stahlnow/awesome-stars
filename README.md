@@ -231,6 +231,7 @@
 
 ## C++ 
 
+- [mirdej/Agora](https://github.com/mirdej/Agora) - Arduino Library for quick interconnection of ESP32s through ESP-Now
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [lfnoise/sapf](https://github.com/lfnoise/sapf) - Sound As Pure Form - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping.
 - [fhoedemakers/pico-infonesPlus](https://github.com/fhoedemakers/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
@@ -507,7 +508,6 @@
 - [ATtinyTeenageRiot/TinyAudioBoot](https://github.com/ATtinyTeenageRiot/TinyAudioBoot) - 
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
 - [akashbangad/NavigationView](https://github.com/akashbangad/NavigationView) - Example app to show the implementation of NavigationView from the design support library
-- [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
 - [scerbos/mobius](https://github.com/scerbos/mobius) - A mobius strip using three.js
 - [sharpie7/circuitjs1](https://github.com/sharpie7/circuitjs1) - Electronic Circuit Simulator in the Browser
 - [akshath/SocketTest](https://github.com/akshath/SocketTest) - A GUI tool for socket testing. It can create both TCP and UDP client or server.
@@ -572,6 +572,7 @@
 - [felixhagspiel/jsOnlyLightbox](https://github.com/felixhagspiel/jsOnlyLightbox) - Responsive Lightbox in plain JS. No need for jQuery.
 - [evanw/webgl-water](https://github.com/evanw/webgl-water) - WebGL Water Demo
 - [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [rileyjshaw/terra](https://github.com/rileyjshaw/terra) - :space_invader: JS library for simple biological simulations and cellular automata
 - [mohayonao/CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - Sound Processing Language for Web Audio
 - [regl-project/regl](https://github.com/regl-project/regl) - 👑 Functional WebGL
@@ -678,6 +679,7 @@
 ## Kotlin 
 
 - [LineageOS/android_packages_apps_Jelly](https://github.com/LineageOS/android_packages_apps_Jelly) - 
+- [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
 
 ## Lua 
 
@@ -783,7 +785,6 @@
 - [8BitMixtape/NeoCodeExamples](https://github.com/8BitMixtape/NeoCodeExamples) - 8BitMixtape-NEO examples
 - [kmkingsbury/pvc-qfh-antenna](https://github.com/kmkingsbury/pvc-qfh-antenna) - Plans for a Quadrifilar Helicoidal antenna
 - [minisystem/880](https://github.com/minisystem/880) - A Euroack drum machine
-- [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [DonaldSBosley/Neutrik_Jacks](https://github.com/DonaldSBosley/Neutrik_Jacks) - 3_D Models for Neutrik Jacks, created in OpenSCAD, includes .stl, wings3d, and footprint compatible with KiCad (wings).
 - [paul-nechifor/ohmu](https://github.com/paul-nechifor/ohmu) - View space usage in your terminal.
 - [rstacruz/backbone-patterns](https://github.com/rstacruz/backbone-patterns) - Common Backbone.js usage patterns.
@@ -842,7 +843,7 @@
 - [ShaShekhar/aaiela](https://github.com/ShaShekhar/aaiela) - 
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
-- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Elevate your Django admin with a stunning modern interface, powerful features, and seamless user experience - without compromising functionality.
+- [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django admin theme
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
 - [leverxgroup/esrgan](https://github.com/leverxgroup/esrgan) - Enhanced SRGAN. Champion PIRM Challenge on Perceptual Super-Resolution
@@ -923,7 +924,7 @@
 - [fikisipi/elkai](https://github.com/fikisipi/elkai) - elkai is a Python library for solving travelling salesman problems (TSP) based on LKH 3
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
-- [jorisschellekens/borb](https://github.com/jorisschellekens/borb) - borb is a library for reading, creating and manipulating PDF files in python.
+- [borb-pdf/borb](https://github.com/borb-pdf/borb) - borb is a library for reading, creating and manipulating PDF files in python.
 - [piccolomo/plotext](https://github.com/piccolomo/plotext) - plotting on terminal
 - [MrBin99/django-vite](https://github.com/MrBin99/django-vite) - Integration of ViteJS in a Django project.
 - [pre-commit/identify](https://github.com/pre-commit/identify) - File identification library for Python
