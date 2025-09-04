@@ -103,12 +103,14 @@
 
 ## C 
 
+- [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [stevelittlefish/c_vulkan_sdl3](https://github.com/stevelittlefish/c_vulkan_sdl3) - Example of Vulkan rendering in SDL3 window using plain C (no C++)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
 - [pschatzmann/arduino-audio-driver](https://github.com/pschatzmann/arduino-audio-driver) - Flexible driver library for audio boards and codec chips e.g  AC101 ES8388 ES8311 CS43l22 ES7243 etc
 - [freeDSP/freeDSP-aurora](https://github.com/freeDSP/freeDSP-aurora) - freeDSP ADAU1452 with 8 analog input, 8 analog outputs, S/P-DIF I/O, ADAT I/O, USB Audio Class2, WiFi, Bluetooth
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
+- [fhoedemakers/pico-infonesPlus](https://github.com/fhoedemakers/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -234,7 +236,6 @@
 - [mirdej/Agora](https://github.com/mirdej/Agora) - Arduino Library for quick interconnection of ESP32s through ESP-Now
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [lfnoise/sapf](https://github.com/lfnoise/sapf) - Sound As Pure Form - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping.
-- [fhoedemakers/pico-infonesPlus](https://github.com/fhoedemakers/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
 - [fluffyaudio/MultiVersio](https://github.com/fluffyaudio/MultiVersio) - 
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms for the Daisy Seed
@@ -835,7 +836,7 @@
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
 - [darrenburns/rich-pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
-- [matthiask/django-imagefield](https://github.com/matthiask/django-imagefield) - You should probably use this image field instead of Django's built-in models.ImageField.
+- [feincms/django-imagefield](https://github.com/feincms/django-imagefield) - You should probably use this image field instead of Django's built-in models.ImageField.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
@@ -882,7 +883,7 @@
 - [oxan/djangorestframework-dataclasses](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework
 - [cdknorow/django_bulk_tutorial](https://github.com/cdknorow/django_bulk_tutorial) - A tutorial of using bulk create and update with django
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
-- [encode/starlette](https://github.com/encode/starlette) - The little ASGI framework that shines. 🌟
+- [Kludex/starlette](https://github.com/Kludex/starlette) - The little ASGI framework that shines. 🌟
 - [goauthentik/authentik](https://github.com/goauthentik/authentik) - The authentication glue you need.
 - [py-pdf/fpdf2](https://github.com/py-pdf/fpdf2) - Simple PDF generation for Python
 - [joschuck/matrix-webcam](https://github.com/joschuck/matrix-webcam) - Take your video conference from within the matrix.
@@ -922,7 +923,7 @@
 - [hernantz/classyconf](https://github.com/hernantz/classyconf) - Declarative and extensible library for configuration & code separation
 - [saadmk11/django-newsfeed](https://github.com/saadmk11/django-newsfeed) - A news curator and newsletter subscription package for Django
 - [lucc/khard](https://github.com/lucc/khard) - Console vcard client
-- [fikisipi/elkai](https://github.com/fikisipi/elkai) - elkai is a Python library for solving travelling salesman problems (TSP) based on LKH 3
+- [fikisipi/elkai](https://github.com/fikisipi/elkai) - elkai is a Python library for approx. solving travelling salesman problems (TSP) based on LKH 3
 - [tensorflow/models](https://github.com/tensorflow/models) - Models and examples built with TensorFlow
 - [speedyg0nz/MagInkCal](https://github.com/speedyg0nz/MagInkCal) - E-Ink Magic Calendar that automatically syncs to Google Calendar and runs off a battery powered Raspberry Pi Zero
 - [borb-pdf/borb](https://github.com/borb-pdf/borb) - borb is a library for reading, creating and manipulating PDF files in python.
