@@ -378,7 +378,7 @@
 
 ## CSS 
 
-- [sabslikesobs/pip.wtf](https://github.com/sabslikesobs/pip.wtf) - Inline dependencies for small Python scripts.
+- [angerson/pip.wtf](https://github.com/angerson/pip.wtf) - Inline dependencies for small Python scripts.
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [frnhr/django-light](https://github.com/frnhr/django-light) - Disable dark mode in Django admin UI.
 - [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for sway, vim, zsh, etc.
@@ -602,6 +602,7 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [klen/django_markdown](https://github.com/klen/django_markdown) - Django markdown support and wysiwig
 - [a1k0n/jsxm](https://github.com/a1k0n/jsxm) - FastTracker 2 .xm module player in Javascript
 - [aterrien/jQuery-Kontrol](https://github.com/aterrien/jQuery-Kontrol) - Experimental JavaScript jQuery library of UI controls ; dial (was jQuery Knob), XY pad, bars
@@ -661,7 +662,7 @@
 
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [cesarmiquel/memories-256b-msdos-intro](https://github.com/cesarmiquel/memories-256b-msdos-intro) - Source code and explanation of Hellmoods awesome "PC 256 byte": https://www.pouet.net/prod.php?which=85227
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications 🦜🔗
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [tamberg/fhnw-idb](https://github.com/tamberg/fhnw-idb) - FHNW Competence IoT Data Collection (idb)
 - [previouslyanywhere/ads](https://github.com/previouslyanywhere/ads) - store data in soundwaves
@@ -685,6 +686,8 @@
 
 ## Lua 
 
+- [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
+- [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
@@ -830,6 +833,10 @@
 
 ## Python 
 
+- [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU) - This custom_node for ComfyUI adds one-click "Virtual VRAM" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to 
+- [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
+- [sysL-padawan/comfyui-elevenlabs-integration](https://github.com/sysL-padawan/comfyui-elevenlabs-integration) - This ComfyUI node adds text-to-speech, text-to-effect capabilities using the ElevenLabs API.
+- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Aermoss/PySDL3](https://github.com/Aermoss/PySDL3) - A pure Python wrapper for SDL3.
 - [t-strings/pep750-examples](https://github.com/t-strings/pep750-examples) - Examples of using t-strings as defined in PEP 750
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
@@ -880,7 +887,7 @@
 - [Bogdanp/dramatiq](https://github.com/Bogdanp/dramatiq) - A fast and reliable background task processing library for Python 3.
 - [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [vitsalis/PyCG](https://github.com/vitsalis/PyCG) - Static Python call graph generator
-- [LilyAcorn/rest-framework-generic-relations](https://github.com/LilyAcorn/rest-framework-generic-relations) - 
+- [LilyFirefly/rest-framework-generic-relations](https://github.com/LilyFirefly/rest-framework-generic-relations) - 
 - [oxan/djangorestframework-dataclasses](https://github.com/oxan/djangorestframework-dataclasses) - Dataclasses serializer for Django REST framework
 - [cdknorow/django_bulk_tutorial](https://github.com/cdknorow/django_bulk_tutorial) - A tutorial of using bulk create and update with django
 - [joke2k/django-environ](https://github.com/joke2k/django-environ) - Django-environ allows you to utilize 12factor inspired environment variables to configure your Django application.
@@ -1023,7 +1030,6 @@
 - [dantaki/vapeplot](https://github.com/dantaki/vapeplot) - matplotlib extension for vaporwave aesthetics
 - [dzhibas/SublimePrettyJson](https://github.com/dzhibas/SublimePrettyJson) - Prettify/Minify/Query/Goto/Validate/Lint JSON plugin for Sublime Text 3 & 4
 - [tatterdemalion/django-nece](https://github.com/tatterdemalion/django-nece) - Content Translation Framework based on Postgresql's JSONB field
-- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [inueni/django-subadmin](https://github.com/inueni/django-subadmin) - A special kind of ModelAdmin that allows it to be nested within another ModelAdmin
 - [Qirky/FoxDot](https://github.com/Qirky/FoxDot) - Python driven environment for Live Coding
 - [ToReforge/djforge-redis-multitokens](https://github.com/ToReforge/djforge-redis-multitokens) - Django Rest Framework Redis MultiTokens
@@ -1201,6 +1207,7 @@
 
 ## Rust 
 
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
@@ -1241,6 +1248,7 @@
 - [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [Stabledog/crontest](https://github.com/Stabledog/crontest) - Support tool for debugging scripts launched from cron or similar "no shell" *nix contexts.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
+- [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [madworm/KiCad-Stuff](https://github.com/madworm/KiCad-Stuff) - Various things to make working with KiCad easier. Most likely Linux centric.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1272,11 +1280,11 @@
 
 ## TeX 
 
-- [milesdai/TAoE3Solutions](https://github.com/milesdai/TAoE3Solutions) - Solutions to the problems in The Art of Electronics 3ed.
 - [avivace/j2-resume](https://github.com/avivace/j2-resume) - An opinionated (and probably over-engineered) workflow to produce a fancy LaTeX, web or docx Curriculum Vitae document from a JSON data source using Jinja2 (a data-driven CV)
 
 ## TypeScript 
 
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
@@ -1316,7 +1324,6 @@
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [apache/superset](https://github.com/apache/superset) - Apache Superset is a Data Visualization and Data Exploration Platform
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
