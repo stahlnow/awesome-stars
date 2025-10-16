@@ -143,7 +143,7 @@
 - [mxmxmx/terminal_tedium](https://github.com/mxmxmx/terminal_tedium) - eurorack / pi codec
 - [Cloudef/bemenu](https://github.com/Cloudef/bemenu) - Dynamic menu library and client program inspired by dmenu
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
-- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [pschatzmann/arduino-audiokit](https://github.com/pschatzmann/arduino-audiokit) - Arduino ADF/Audiokit HAL (support for ESP32-A1S, AI-Thinker, LyraT for ES7148, ES7210, ES7243, ES8311, ES8347, ES8388, TAS5805M, AC101 audio chips)
 - [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
 - [atomic14/esp32-play-mp3-demo](https://github.com/atomic14/esp32-play-mp3-demo) - A very simple example showing how to play mp3 files on the ESP32
@@ -233,6 +233,7 @@
 
 ## C++ 
 
+- [16n-faderbank/16next_firmware](https://github.com/16n-faderbank/16next_firmware) - Firmware for next-generation faderbanks - like 16nx, the next generation of 16n devices.
 - [mirdej/Agora](https://github.com/mirdej/Agora) - Arduino Library for quick interconnection of ESP32s through ESP-Now
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [lfnoise/sapf](https://github.com/lfnoise/sapf) - Sound As Pure Form - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping.
@@ -408,6 +409,7 @@
 
 - [michaeloliverx/python-poetry-docker-example](https://github.com/michaeloliverx/python-poetry-docker-example) - Example of integrating Poetry with Docker leveraging multi-stage builds.
 - [jorge07/alpine-php](https://github.com/jorge07/alpine-php) - Multi Arch Alpine PHP  Docker images. 5.6, 7{0,1,2,3,4}, 8.{1,2,3}
+- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 
 ## Eagle 
 
@@ -662,7 +664,6 @@
 
 - [karpathy/micrograd](https://github.com/karpathy/micrograd) - A tiny scalar-valued autograd engine and a neural net library on top of it with PyTorch-like API
 - [cesarmiquel/memories-256b-msdos-intro](https://github.com/cesarmiquel/memories-256b-msdos-intro) - Source code and explanation of Hellmoods awesome "PC 256 byte": https://www.pouet.net/prod.php?which=85227
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
 - [tamberg/fhnw-idb](https://github.com/tamberg/fhnw-idb) - FHNW Competence IoT Data Collection (idb)
 - [previouslyanywhere/ads](https://github.com/previouslyanywhere/ads) - store data in soundwaves
@@ -682,7 +683,7 @@
 ## Kotlin 
 
 - [LineageOS/android_packages_apps_Jelly](https://github.com/LineageOS/android_packages_apps_Jelly) - 
-- [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Spectrum Analyzer for Android using the HackRF
+- [demantz/RFAnalyzer](https://github.com/demantz/RFAnalyzer) - Analyze RF signals on Android with HackRF, RTL-SDR, Airspy and HydraSDR
 
 ## Lua 
 
@@ -880,6 +881,7 @@
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python
 - [blueman-project/blueman](https://github.com/blueman-project/blueman) - Blueman is a GTK+ Bluetooth Manager
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 Build context-aware reasoning applications
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [disqus/django-bitfield](https://github.com/disqus/django-bitfield) - A BitField extension for Django Models
@@ -1245,7 +1247,6 @@
 - [sebastian404/japb_retroarch](https://github.com/sebastian404/japb_retroarch) - An Unofficial port of Retroarch to the Pandora's Box hardware
 - [loh-tar/tbsm](https://github.com/loh-tar/tbsm) - A pure bash session or application launcher. Inspired by cdm, tdm and krunner
 - [Heckie75/pasink](https://github.com/Heckie75/pasink) - Pulse-audio sink-setter with bluez and combined-sink support
-- [docker-library/python](https://github.com/docker-library/python) - Docker Official Image packaging for Python
 - [Stabledog/crontest](https://github.com/Stabledog/crontest) - Support tool for debugging scripts launched from cron or similar "no shell" *nix contexts.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
