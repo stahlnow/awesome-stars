@@ -274,7 +274,7 @@
 - [turbyho/DABDUINO](https://github.com/turbyho/DABDUINO) - The DABDUINO is DAB/DAB+/FM Arduino shield with 32-bit, 384kHz PCM DAC (cinch) + Toslink optical digital audio output.
 - [enveloop/miniMO](https://github.com/enveloop/miniMO) - 8-bit Programmable Synthesizer Module
 - [robstave/ArduinoComponentSketches](https://github.com/robstave/ArduinoComponentSketches) - Collection of sketches for ATTiny to replace logic blocks in lunetta like circuits or whatever.
-- [napframework/nap](https://github.com/napframework/nap) - NAP Framework source code
+- [napframework/nap](https://github.com/napframework/nap) - NAP Framework: real-time control & visualization platform
 - [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
 - [roc-streaming/roc-toolkit](https://github.com/roc-streaming/roc-toolkit) - Real-time audio streaming over the network.
 - [christophhart/HISE](https://github.com/christophhart/HISE) - The open source framework for sample based instruments
@@ -834,6 +834,7 @@
 
 ## Python 
 
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU) - This custom_node for ComfyUI adds one-click "Virtual VRAM" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to 
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 - [sysL-padawan/comfyui-elevenlabs-integration](https://github.com/sysL-padawan/comfyui-elevenlabs-integration) - This ComfyUI node adds text-to-speech, text-to-effect capabilities using the ElevenLabs API.
@@ -1212,12 +1213,12 @@
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
-- [typst/typst](https://github.com/typst/typst) - A new markup-based typesetting system that is powerful and easy to learn.
+- [typst/typst](https://github.com/typst/typst) - A markup-based typesetting system that is powerful and easy to learn.
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [gauge-sh/tach](https://github.com/gauge-sh/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, Yubikey, and client certificate authentication, etc.
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [fathyb/carbonyl](https://github.com/fathyb/carbonyl) - Chromium running inside your terminal
