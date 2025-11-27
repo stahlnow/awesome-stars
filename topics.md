@@ -9,6 +9,7 @@
 - [ai](#ai)
 - [ai-agents](#ai-agents)
 - [algorithm](#algorithm)
+- [algorithms](#algorithms)
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
@@ -37,6 +38,7 @@
 - [cms](#cms)
 - [code](#code)
 - [code-quality](#code-quality)
+- [command-line](#command-line)
 - [compiler](#compiler)
 - [computer-vision](#computer-vision)
 - [config](#config)
@@ -91,6 +93,7 @@
 - [google](#google)
 - [google-cloud](#google-cloud)
 - [graphql](#graphql)
+- [gui](#gui)
 - [hacking](#hacking)
 - [hacktoberfest](#hacktoberfest)
 - [haskell](#haskell)
@@ -226,6 +229,11 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
 
 ## algorithm 
+
+- [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+- [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
+
+## algorithms 
 
 - [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [keon/algorithms](https://github.com/keon/algorithms) - Minimal examples of data structures and algorithms in Python
@@ -446,6 +454,24 @@
 ## code-quality 
 
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
+
+## command-line 
+
+- [gbevin/ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) - Multi-platform command-line tool to monitor and receive MIDI messages
+- [gbevin/SendMIDI](https://github.com/gbevin/SendMIDI) - Multi-platform command-line tool to send out MIDI messages
+- [BurntSushi/ripgrep](https://github.com/BurntSushi/ripgrep) - ripgrep recursively searches directories for a regex pattern while respecting your gitignore
+- [sharkdp/fd](https://github.com/sharkdp/fd) - A simple, fast and user-friendly alternative to 'find'
+- [chmln/sd](https://github.com/chmln/sd) - Intuitive find & replace CLI (sed alternative)
+- [piqnt/svgexport](https://github.com/piqnt/svgexport) - SVG to PNG/JPEG command-line tool and Node.js module
+- [cointop-sh/cointop](https://github.com/cointop-sh/cointop) - A fast and lightweight interactive terminal based UI application for tracking cryptocurrencies 🚀 by @miguelmota
+- [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
+- [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
+- [visit1985/mdp](https://github.com/visit1985/mdp) - A command-line based markdown presentation tool.
+- [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+- [xgi/castero](https://github.com/xgi/castero) - TUI podcast client for the terminal
+- [jarun/imgp](https://github.com/jarun/imgp) - :camera_flash: Fast batch image resizer and rotator
+- [donnemartin/gitsome](https://github.com/donnemartin/gitsome) - A supercharged Git/GitHub command line interface (CLI).  An official integration for GitHub and GitHub Enterprise: https://github.com/works-with/category/desktop-tools
+- [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 
 ## compiler 
 
@@ -824,6 +850,18 @@
 ## graphql 
 
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
+
+## gui 
+
+- [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
+- [ocornut/imgui](https://github.com/ocornut/imgui) - Dear ImGui: Bloat-free Graphical User interface for C++ with minimal dependencies
+- [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
+- [epezent/implot](https://github.com/epezent/implot) - Immediate Mode Plotting
+- [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
+- [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
+- [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
+- [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
 
 ## hacking 
 
@@ -1409,8 +1447,6 @@
 - [zhdk/tpf-client](https://github.com/zhdk/tpf-client) - Telematic performance format client software
 - [Wasted-Audio/heavylib](https://github.com/Wasted-Audio/heavylib) - Library of Heavy compatible abstractions
 - [striso/striso-control-firmware](https://github.com/striso/striso-control-firmware) - Firmware for the Striso board
-- [gbevin/ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) - Multi-platform command-line tool to monitor and receive MIDI messages
-- [gbevin/SendMIDI](https://github.com/gbevin/SendMIDI) - Multi-platform command-line tool to send out MIDI messages
 - [rmichon/mi_faust](https://github.com/rmichon/mi_faust) - 
 - [agraef/pd-faustgen](https://github.com/agraef/pd-faustgen) - The FAUST compiler in a box
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB+) decoder with a (slight) focus on showing the signal
