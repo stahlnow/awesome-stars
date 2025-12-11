@@ -103,6 +103,7 @@
 
 ## C 
 
+- [PE5PVB/SI4684-DAB-Receiver](https://github.com/PE5PVB/SI4684-DAB-Receiver) - SI4684 ESP32 DAB Receiver
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [stevelittlefish/c_vulkan_sdl3](https://github.com/stevelittlefish/c_vulkan_sdl3) - Example of Vulkan rendering in SDL3 window using plain C (no C++)
 - [torvalds/linux](https://github.com/torvalds/linux) - Linux kernel source tree
@@ -233,6 +234,7 @@
 
 ## C++ 
 
+- [lhm0/DAB_minimalist](https://github.com/lhm0/DAB_minimalist) - A minimalist DAB+ radio for vision impaired based on DABshield and Arduino D1 R32
 - [NickCulbertson/Mini-Teensy-Synth](https://github.com/NickCulbertson/Mini-Teensy-Synth) - This is a subtractive synth homage to the legendary Minimoog using the Teensy 4.1 microcontroller. This is primarily for entertainment and educational purposes, and to see what all is possible with ma
 - [samaaron/supersonic](https://github.com/samaaron/supersonic) - SuperCollider's scsynth audio engine as a web audioworklet
 - [16n-faderbank/16next_firmware](https://github.com/16n-faderbank/16next_firmware) - Firmware for next-generation faderbanks - like 16nx, the next generation of 16n devices.
@@ -330,7 +332,6 @@
 - [Optiboot/optiboot](https://github.com/Optiboot/optiboot) - Small and Fast Bootloader for Arduino and other Atmel AVR chips
 - [ThomasPietrzak/gamebuino-bangbang](https://github.com/ThomasPietrzak/gamebuino-bangbang) - Bang! Bang!
 - [Flybrix/flybrix-A7105-receiver](https://github.com/Flybrix/flybrix-A7105-receiver) - a7105 to cPPM for attiny85
-- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [googlearchive/android-audio-high-performance](https://github.com/googlearchive/android-audio-high-performance) - We now recommend you use the Oboe libraries:
 - [wjwwood/serial](https://github.com/wjwwood/serial) - Cross-platform, Serial Port library written in C++
 - [cdodd/teensy-sn76489-midi-synth](https://github.com/cdodd/teensy-sn76489-midi-synth) - A SN76489 MIDI synth, controlled by a Teensy 2.0 microcontroller
@@ -483,6 +484,7 @@
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [mstrperson/LDR-Synth](https://github.com/mstrperson/LDR-Synth) - 
 - [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
+- [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [kerzol/markdown-mathjax](https://github.com/kerzol/markdown-mathjax) - Live markdown editor based on MathJax and Marked
 - [espressif/ESP31_RTOS_SDK](https://github.com/espressif/ESP31_RTOS_SDK) - ESP31B SDK based on FreeRTOS. For ESP32 please see http://github.com/espressif/esp-idf
@@ -1078,7 +1080,7 @@
 - [redis/redis-py](https://github.com/redis/redis-py) - Redis Python client
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
 - [avyfain/automata](https://github.com/avyfain/automata) - Companion repo for my blog post about Wolfram's elementary cellular automata
-- [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a module that extends Python with the ability to design electronic circuits.
+- [devbisme/skidl](https://github.com/devbisme/skidl) - SKiDL is a library that lets you design electronic circuits using Python.
 - [adtac/exterminate](https://github.com/adtac/exterminate) - Break Python programs with a single import
 - [django/django](https://github.com/django/django) - The Web framework for perfectionists with deadlines.
 - [rq/django-rq](https://github.com/rq/django-rq) - A simple app that provides django integration for RQ (Redis Queue)
