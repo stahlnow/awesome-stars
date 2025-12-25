@@ -838,6 +838,7 @@
 
 ## Python 
 
+- [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
 - [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU) - This custom_node for ComfyUI adds one-click "Virtual VRAM" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to 
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
@@ -1214,6 +1215,7 @@
 
 ## Rust 
 
+- [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
 - [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [glicol/glicol-cli](https://github.com/glicol/glicol-cli) - glicol cli: cross-platform music live coding in terminal
@@ -1367,6 +1369,7 @@
 
 ## Vue 
 
+- [kanriapp/kanri](https://github.com/kanriapp/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
 - [lrembacz/vue-responsive-grid-layout](https://github.com/lrembacz/vue-responsive-grid-layout) - Vue Repsonsive Grid Layout
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
