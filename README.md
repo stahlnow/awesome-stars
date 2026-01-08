@@ -21,6 +21,7 @@
 - [Dockerfile](#dockerfile)
 - [Eagle](#eagle)
 - [Faust](#faust)
+- [G-code](#g-code)
 - [GLSL](#glsl)
 - [Go](#go)
 - [HTML](#html)
@@ -235,16 +236,16 @@
 
 ## C++ 
 
+- [TheWaveWarden/odin2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [Archie3d/aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer (VST plugin)
 - [lhm0/DAB_minimalist](https://github.com/lhm0/DAB_minimalist) - A minimalist DAB+ radio for vision impaired based on DABshield and Arduino D1 R32
 - [NickCulbertson/Mini-Teensy-Synth](https://github.com/NickCulbertson/Mini-Teensy-Synth) - This is a subtractive synth homage to the legendary Minimoog using the Teensy 4.1 microcontroller. This is primarily for entertainment and educational purposes, and to see what all is possible with ma
-- [samaaron/supersonic](https://github.com/samaaron/supersonic) - SuperCollider's scsynth audio engine as a web audioworklet
+- [samaaron/supersonic](https://github.com/samaaron/supersonic) - SuperCollider's scsynth audio engine as a Web AudioWorklet
 - [16n-faderbank/16next_firmware](https://github.com/16n-faderbank/16next_firmware) - Firmware for next-generation faderbanks - like 16nx, the next generation of 16n devices.
 - [mirdej/Agora](https://github.com/mirdej/Agora) - Arduino Library for quick interconnection of ESP32s through ESP-Now
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [lfnoise/sapf](https://github.com/lfnoise/sapf) - Sound As Pure Form - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping.
 - [fluffyaudio/MultiVersio](https://github.com/fluffyaudio/MultiVersio) - 
-- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms for the Daisy Seed
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
 - [rocket/rocket](https://github.com/rocket/rocket) - Rocket
@@ -297,7 +298,6 @@
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
 - [cannam/constant-q-cpp](https://github.com/cannam/constant-q-cpp) - A C++ library and Vamp plugin implementing the Constant-Q transform of a time-domain signal.
 - [LancePutnam/Gamma](https://github.com/LancePutnam/Gamma) - Generic (Sound) Synthesis Library
-- [sgmk/BlinkeShit3000](https://github.com/sgmk/BlinkeShit3000) - SGMK X-mas Party "Make DOCK18 Bright Again"
 - [ammen99/wf-recorder](https://github.com/ammen99/wf-recorder) - 
 - [MCUdude/SigmaDSP](https://github.com/MCUdude/SigmaDSP) - A versatile Arduino library for interfacing with the ADAU1401, ADAU1701 and ADAU1702 audio DSPs
 - [MajenkoLibraries/EEPROM24](https://github.com/MajenkoLibraries/EEPROM24) - Library for the I2C 24LCxxx chips
@@ -428,6 +428,10 @@
 ## Faust 
 
 - [mi-creative/FaustPM_2021_examples](https://github.com/mi-creative/FaustPM_2021_examples) - Examples for the Faust Physical Modelling workshop held online on Feb 1st 2021
+
+## G-code 
+
+- [sgmk/BlinkeShit3000](https://github.com/sgmk/BlinkeShit3000) - SGMK X-mas Party "Make DOCK18 Bright Again"
 
 ## GLSL 
 
@@ -842,11 +846,11 @@
 ## Python 
 
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
-- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file, no deps
+- [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [pollockjj/ComfyUI-MultiGPU](https://github.com/pollockjj/ComfyUI-MultiGPU) - This custom_node for ComfyUI adds one-click "Virtual VRAM" for any UNet and CLIP loader as well MultiGPU integration in WanVideoWrapper, managing the offload/Block Swap of layers to DRAM *or* VRAM to 
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
 - [sysL-padawan/comfyui-elevenlabs-integration](https://github.com/sysL-padawan/comfyui-elevenlabs-integration) - This ComfyUI node adds text-to-speech, text-to-effect capabilities using the ElevenLabs API.
-- [comfyanonymous/ComfyUI](https://github.com/comfyanonymous/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
+- [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Aermoss/PySDL3](https://github.com/Aermoss/PySDL3) - A pure Python wrapper for SDL3.
 - [t-strings/pep750-examples](https://github.com/t-strings/pep750-examples) - Examples of using t-strings as defined in PEP 750
 - [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
@@ -1231,6 +1235,7 @@
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
 - [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
+- [rizsotto/Bear](https://github.com/rizsotto/Bear) - Bear is a tool that generates a compilation database for clang tooling.
 - [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
 - [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
@@ -1324,7 +1329,7 @@
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 - [jupyterlab/jupyterlab](https://github.com/jupyterlab/jupyterlab) - JupyterLab computational environment.
 - [vitejs/vite](https://github.com/vitejs/vite) - Next generation frontend tooling. It's fast!
-- [johannesjo/super-productivity](https://github.com/johannesjo/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
+- [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
 - [StudioProcess/rvp](https://github.com/StudioProcess/rvp) - Research Video is a tool for Artistic Research based on video annotation
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
@@ -1354,7 +1359,7 @@
 ## Vim Script 
 
 - [tpope/vim-dadbod](https://github.com/tpope/vim-dadbod) - dadbod.vim: Modern database interface for Vim
-- [tikhomirov/vim-glsl](https://github.com/tikhomirov/vim-glsl) - Vim runtime files for OpenGL Shading Language
+- [stykhomyrov/vim-glsl](https://github.com/stykhomyrov/vim-glsl) - Vim runtime files for OpenGL Shading Language
 - [ptzz/lf.vim](https://github.com/ptzz/lf.vim) - Lf integration in vim and neovim
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [rhysd/vim-clang-format](https://github.com/rhysd/vim-clang-format) - Vim plugin for clang-format, a formatter for C, C++, Obj-C, Java, JavaScript, and so on.
