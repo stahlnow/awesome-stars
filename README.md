@@ -350,7 +350,7 @@
 - [webusb/arduino](https://github.com/webusb/arduino) - WebUSB demos running on Arduino (and compatible) hardware.
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 - [rocketscream/Low-Power](https://github.com/rocketscream/Low-Power) - Low Power Library for Arduino
-- [DeanIsMe/SevSeg](https://github.com/DeanIsMe/SevSeg) - Seven segment display controller library for Arduino
+- [untr0py/SevSeg](https://github.com/untr0py/SevSeg) - Seven segment display controller library for Arduino
 - [sparkfun/Pro_Micro](https://github.com/sparkfun/Pro_Micro) - ATMega32U4 Arduino board, available from SparkFun Electronics
 - [cbiffle/m4vgalib](https://github.com/cbiffle/m4vgalib) - VGA-style video generation for STM32F4 processors
 - [YCAMInterlab/Duration](https://github.com/YCAMInterlab/Duration) - Duration is an application for designing change over time
@@ -1307,7 +1307,7 @@
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A web-based 3D CAD application for online model design and editing
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A browser-based 3D CAD application for online model design and editing
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [schoero/swissqrbill](https://github.com/schoero/swissqrbill) - Swiss QR Bill generation in Node.js and browsers
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
