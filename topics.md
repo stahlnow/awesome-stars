@@ -2035,7 +2035,7 @@
 - [dwaq/Homebrew-Gameboy-Cartridge](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a Homebrew Gameboy Cartridge PCB.
 - [interactive-matter/Kultpfunzel](https://github.com/interactive-matter/Kultpfunzel) - The Customisable Smart Torch
 - [automata/osc-web](https://github.com/automata/osc-web) - Open Sound Control Web Bridge
-- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types.
 - [cappelnord/BenoitLib](https://github.com/cappelnord/BenoitLib) - SuperCollider Extensions used by Benoît and the Mandelbrots
 - [fakufaku/Pomodoro](https://github.com/fakufaku/Pomodoro) - A custom built timer for the pomodoro technique to be more productive.
 - [diara628/MCAD_old](https://github.com/diara628/MCAD_old) - The canonical upstream repo --&gt;
