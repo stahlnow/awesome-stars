@@ -487,7 +487,6 @@
 - [gafam/www.gafam.info](https://github.com/gafam/www.gafam.info) - Sources of the gafam.info web page
 - [DigitaleGesellschaft/workadventure-map-bitwaescherei](https://github.com/DigitaleGesellschaft/workadventure-map-bitwaescherei) - Bitwäscherei map for WorkAdventure
 - [celesteh/TuningLib](https://github.com/celesteh/TuningLib) - A superCollider Quark to handle several tasks related to tuning
-- [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [mstrperson/LDR-Synth](https://github.com/mstrperson/LDR-Synth) - 
 - [jerry-git/learn-python3](https://github.com/jerry-git/learn-python3) - Jupyter notebooks for teaching/learning Python 3
 - [wwmm/easyeffects](https://github.com/wwmm/easyeffects) - Limiter, compressor, convolver, equalizer and auto volume and many other plugins for PipeWire applications
@@ -681,6 +680,7 @@
 - [google/web-audio-recognition](https://github.com/google/web-audio-recognition) - 
 - [dexplo/dexplot](https://github.com/dexplo/dexplot) - Simple plotting library that wraps Matplotlib and integrated with DataFrames
 - [kylemcdonald/AudioNotebooks](https://github.com/kylemcdonald/AudioNotebooks) - Collection of notebooks and scripts related to audio processing and machine learning.
+- [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
 
@@ -811,7 +811,7 @@
 - [nodejs/node-v0.x-archive](https://github.com/nodejs/node-v0.x-archive) - Moved to https://github.com/nodejs/node
 - [satnogs/satnogs-rotator](https://github.com/satnogs/satnogs-rotator) - SatNOGS Rotator project
 - [dwaq/Homebrew-Gameboy-Cartridge](https://github.com/dwaq/Homebrew-Gameboy-Cartridge) - Eagle library, schematic, and board files for a Homebrew Gameboy Cartridge PCB.
-- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types. Please contribute! (Note: this may be in flux as I learn new things about favicon best practices.)
+- [audreyfeldroy/favicon-cheat-sheet](https://github.com/audreyfeldroy/favicon-cheat-sheet) - Obsessive cheat sheet to favicon sizes/types.
 - [chiengineer/Eagle-Libraries](https://github.com/chiengineer/Eagle-Libraries) - Eagle PCB Parts Libraries
 - [Jasper2-0/TilemapDisplay](https://github.com/Jasper2-0/TilemapDisplay) - A set of VVVV patches that can display tilemaps such as used in online mapping services such as Google Maps, Open Street Maps etc.
 - [mitmel/Android-Image-Cache](https://github.com/mitmel/Android-Image-Cache) - An image download-and-cacher that also knows how to efficiently generate and retrieve thumbnails of various sizes.
@@ -1269,6 +1269,7 @@
 - [Stabledog/crontest](https://github.com/Stabledog/crontest) - Support tool for debugging scripts launched from cron or similar "no shell" *nix contexts.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [kholia/OSX-KVM](https://github.com/kholia/OSX-KVM) - Run macOS on QEMU/KVM. With OpenCore + Monterey + Ventura + Sonoma support now! Only commercial (paid) support is available now to avoid spammy issues. No Mac system is required.
+- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [madworm/KiCad-Stuff](https://github.com/madworm/KiCad-Stuff) - Various things to make working with KiCad easier. Most likely Linux centric.
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1372,7 +1373,6 @@
 - [djoshea/vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
 - [xuhdev/vim-latex-live-preview](https://github.com/xuhdev/vim-latex-live-preview) - A Vim Plugin for Lively Previewing LaTeX PDF Output
 - [bohoomil/dotfiles](https://github.com/bohoomil/dotfiles) - config files
-- [christoomey/vim-tmux-navigator](https://github.com/christoomey/vim-tmux-navigator) - Seamless navigation between tmux panes and vim splits
 - [supercollider/scvim](https://github.com/supercollider/scvim) - Vim plugin for SuperCollider
 - [szw/vim-g](https://github.com/szw/vim-g) - Quick Google lookup directly from Vim
 - [tpope/vim-fugitive](https://github.com/tpope/vim-fugitive) - fugitive.vim: A Git wrapper so awesome, it should be illegal
