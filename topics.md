@@ -892,6 +892,7 @@
 
 ## hacktoberfest 
 
+- [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -1411,6 +1412,7 @@
 
 ## others 
 
+- [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [TheWaveWarden/odin2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [Archie3d/aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer (VST plugin)
 - [RustoMCSpit/awesome-linux-clap-list](https://github.com/RustoMCSpit/awesome-linux-clap-list) - A list of FOSS clap plugins that work for Linux
