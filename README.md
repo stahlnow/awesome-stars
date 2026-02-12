@@ -57,6 +57,7 @@
 - [SuperCollider](#supercollider)
 - [TeX](#tex)
 - [TypeScript](#typescript)
+- [Typst](#typst)
 - [VHDL](#vhdl)
 - [Verilog](#verilog)
 - [Vim Script](#vim-script)
@@ -697,6 +698,7 @@
 
 ## Lua 
 
+- [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) - AI Pair Programming in Neovim
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
@@ -1223,6 +1225,7 @@
 
 ## Rust 
 
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [imgui-rs/imgui-rs](https://github.com/imgui-rs/imgui-rs) - Rust bindings for Dear ImGui
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -1257,6 +1260,7 @@
 
 ## Shell 
 
+- [Piotr1215/zledit](https://github.com/Piotr1215/zledit) - Jump to any word on the current line via fuzzy picker (fzf/sk/peco)
 - [philharrisathome/wx](https://github.com/philharrisathome/wx) - An autonomous POES ground station using RTL-SDR and WXToImg
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
 - [FAlthausen/Vollkorn-Typeface](https://github.com/FAlthausen/Vollkorn-Typeface) - »Vollkorn« is the free and healthy typeface for bread and butter use.
@@ -1350,6 +1354,10 @@
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
+
+## Typst 
+
+- [philippdrebes/typst-payqr-swiss](https://github.com/philippdrebes/typst-payqr-swiss) - A Swiss QR bill generator for Typst
 
 ## VHDL 
 
