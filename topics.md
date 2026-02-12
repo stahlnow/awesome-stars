@@ -1412,6 +1412,10 @@
 
 ## others 
 
+- [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) - AI Pair Programming in Neovim
+- [Piotr1215/zledit](https://github.com/Piotr1215/zledit) - Jump to any word on the current line via fuzzy picker (fzf/sk/peco)
+- [nannou-org/nannou](https://github.com/nannou-org/nannou) - A Creative Coding Framework for Rust.
+- [philippdrebes/typst-payqr-swiss](https://github.com/philippdrebes/typst-payqr-swiss) - A Swiss QR bill generator for Typst
 - [typst/packages](https://github.com/typst/packages) - Packages for Typst.
 - [TheWaveWarden/odin2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [Archie3d/aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer (VST plugin)
