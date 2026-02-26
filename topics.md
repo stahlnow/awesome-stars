@@ -936,7 +936,6 @@
 - [kootenpv/whereami](https://github.com/kootenpv/whereami) - Uses WiFi signals :signal_strength: and machine learning to predict where you are
 - [milligram/milligram](https://github.com/milligram/milligram) - A minimalist CSS framework.
 - [supercollider/supercollider](https://github.com/supercollider/supercollider) - An audio server, programming language, and IDE for sound synthesis and algorithmic composition.
-- [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [gqrx-sdr/gqrx](https://github.com/gqrx-sdr/gqrx) - Software defined radio receiver powered by GNU Radio and Qt.
 - [argilo/gr-dsd](https://github.com/argilo/gr-dsd) - GNU Radio block for Digital Speech Decoder
@@ -1410,6 +1409,8 @@
 
 ## others 
 
+- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations and EPC-QR-Code (GiroCode) support.
+- [metaforx/django-unfold-modal](https://github.com/metaforx/django-unfold-modal) - This replaces the Django pop-up window for related entry selection with an integrated modal version to improve the UX for editors.
 - [Jeomhps/datify](https://github.com/Jeomhps/datify) - Datify is a Typst package for flexible, locale-aware date formatting. It leverages datify-core for internationalization and supports CLDR-style date patterns.
 - [Lfd4/djangocms-haystack](https://github.com/Lfd4/djangocms-haystack) - aldryn-search inspired Haystack index for djangoCMS projects
 - [Piotr1215/pairup.nvim](https://github.com/Piotr1215/pairup.nvim) - AI Pair Programming in Neovim
@@ -1468,7 +1469,6 @@
 - [bcpierce00/unison](https://github.com/bcpierce00/unison) - Unison file synchronizer
 - [dimagi/django-cte](https://github.com/dimagi/django-cte) - Common Table Expressions (CTE) for Django
 - [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
-- [klubderkluebe/20kbps_pyramid](https://github.com/klubderkluebe/20kbps_pyramid) - reproducing 20kbps as Pyramid app in Python
 - [x42/mclk.lv2](https://github.com/x42/mclk.lv2) - Midi Clock Generator LV2 Plugin
 - [tote-bag-labs/valentine](https://github.com/tote-bag-labs/valentine) - An open source compressor meant to pump and breathe
 - [michaelcmartin/Ophis](https://github.com/michaelcmartin/Ophis) - A cross-assembler for the 6502 series of microprocessors.
