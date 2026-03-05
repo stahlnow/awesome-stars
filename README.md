@@ -440,6 +440,7 @@
 
 ## Go 
 
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.5, GLM-5, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
@@ -657,7 +658,6 @@
 - [gibber-cc/gibberish](https://github.com/gibber-cc/gibberish) - Fast, JavaScript DSP library that creates JIT optimized audio callbacks using code generation techniques
 - [unconed/ThreeAudio.js](https://github.com/unconed/ThreeAudio.js) - ThreeAudio helps you create music visualizations in Three.js or tQuery.
 - [maciejczyzewski/hyhyhy](https://github.com/maciejczyzewski/hyhyhy) - A tool for creating nice looking HTML5 presentations. :trollface:
-- [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [automata/osc-web](https://github.com/automata/osc-web) - Open Sound Control Web Bridge
 - [Haskell-Things/ImplicitCAD](https://github.com/Haskell-Things/ImplicitCAD) - A math-inspired CAD program in haskell. CSG, bevels, and shells; 2D & 3D geometry; 2D gcode generation...
 - [1u/hmmm](https://github.com/1u/hmmm) - Course-Organization-Platform
@@ -846,6 +846,7 @@
 
 ## Python 
 
+- [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest) - REST api for django CMS 5
 - [metaforx/django-unfold-modal](https://github.com/metaforx/django-unfold-modal) - This replaces the Django pop-up window for related entry selection with an integrated modal version to improve the UX for editors.
 - [greg-randall/memento-mori](https://github.com/greg-randall/memento-mori) - Tool to turn your Instagram export data into a website that you can share after deleting your Instagram!
 - [Lfd4/djangocms-haystack](https://github.com/Lfd4/djangocms-haystack) - aldryn-search inspired Haystack index for djangoCMS projects
@@ -898,7 +899,7 @@
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python
 - [blueman-project/blueman](https://github.com/blueman-project/blueman) - Blueman is a GTK+ Bluetooth Manager
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - 🦜🔗 The platform for reliable agents.
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [disqus/django-bitfield](https://github.com/disqus/django-bitfield) - A BitField extension for Django Models
@@ -1114,7 +1115,7 @@
 - [python-attrs/attrs](https://github.com/python-attrs/attrs) - Python Classes Without Boilerplate
 - [7sDream/pyqart](https://github.com/7sDream/pyqart) - QArt Python Implementation.
 - [janivanecky/Artistic-Style](https://github.com/janivanecky/Artistic-Style) - 
-- [maguowei/starred](https://github.com/maguowei/starred) - creating your own Awesome List by GitHub stars!
+- [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
 - [jart/fabulous](https://github.com/jart/fabulous) - Print images, colors, and stylish text to the terminal with Python
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [cedricbonhomme/Stegano](https://github.com/cedricbonhomme/Stegano) - A pure Python steganography module.
@@ -1311,6 +1312,7 @@
 
 ## TypeScript 
 
+- [sbb-design-systems/lyne-components](https://github.com/sbb-design-systems/lyne-components) - Components for Lyne Design System
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
@@ -1355,6 +1357,7 @@
 - [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
+- [lokesh/color-thief](https://github.com/lokesh/color-thief) - Grab the color palette from an image using just Javascript.  Works in the browser and in Node.
 - [timmywil/panzoom](https://github.com/timmywil/panzoom) - A library for panning and zooming elements using CSS transforms :mag:
 
 ## Typst 
