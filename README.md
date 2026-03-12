@@ -237,6 +237,7 @@
 
 ## C++ 
 
+- [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [TheWaveWarden/odin2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [Archie3d/aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer (VST plugin)
 - [lhm0/DAB_minimalist](https://github.com/lhm0/DAB_minimalist) - A minimalist DAB+ radio for vision impaired based on DABshield and Arduino D1 R32
@@ -244,7 +245,7 @@
 - [samaaron/supersonic](https://github.com/samaaron/supersonic) - SuperCollider's scsynth audio engine as a Web AudioWorklet
 - [16n-faderbank/16next_firmware](https://github.com/16n-faderbank/16next_firmware) - Firmware for next-generation faderbanks - like 16nx, the next generation of 16n devices.
 - [mirdej/Agora](https://github.com/mirdej/Agora) - Arduino Library for quick interconnection of ESP32s through ESP-Now
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community. No ads, no 
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [lfnoise/sapf](https://github.com/lfnoise/sapf) - Sound As Pure Form - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping.
 - [fluffyaudio/MultiVersio](https://github.com/fluffyaudio/MultiVersio) - 
 - [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms for the Daisy Seed
@@ -546,7 +547,7 @@
 - [dimsemenov/PhotoSwipe](https://github.com/dimsemenov/PhotoSwipe) - JavaScript image gallery for mobile and desktop, modular, framework independent
 - [Krutie/bugs-of-the-city](https://github.com/Krutie/bugs-of-the-city) - Bugs of the City built using Vue Js and Vue Grid Layout
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
-- [google/swissgl](https://github.com/google/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
+- [paradigms-of-intelligence/swissgl](https://github.com/paradigms-of-intelligence/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [djedditt/tiled-to-gba-export](https://github.com/djedditt/tiled-to-gba-export) - Tiled extension/export plugin for exporting tilemaps to GBA source files
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
