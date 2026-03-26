@@ -17,6 +17,7 @@
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
+- [artificial-intelligence](#artificial-intelligence)
 - [automation](#automation)
 - [awesome](#awesome)
 - [awesome-list](#awesome-list)
@@ -299,6 +300,10 @@
 - [FortySevenEffects/arduino_midi_library](https://github.com/FortySevenEffects/arduino_midi_library) - MIDI for Arduino
 - [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
 
+## artificial-intelligence 
+
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
+
 ## automation 
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -309,7 +314,7 @@
 - [terkelg/awesome-creative-coding](https://github.com/terkelg/awesome-creative-coding) - Creative Coding: Generative Art, Data visualization, Interaction Design, Resources.
 - [bnb/awesome-hyper](https://github.com/bnb/awesome-hyper) - 🖥 Delightful Hyper plugins, themes, and resources
 - [maguowei/starred](https://github.com/maguowei/starred) - Create and maintain your own Awesome-style list from GitHub stars!
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 
 ## awesome-list 
 
@@ -583,6 +588,7 @@
 
 ## database 
 
+- [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [valkey-io/valkey](https://github.com/valkey-io/valkey) - A flexible distributed key-value database that is optimized for caching and other realtime workloads.
 
@@ -591,6 +597,7 @@
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [cleanlab/cleanvision](https://github.com/cleanlab/cleanvision) - Automatically find issues in image datasets and practice data-centric computer vision.
 - [mlc-ai/web-stable-diffusion](https://github.com/mlc-ai/web-stable-diffusion) - Bringing stable diffusion models to web browsers. Everything runs inside the browser with no server support.
+- [lucidrains/musiclm-pytorch](https://github.com/lucidrains/musiclm-pytorch) - Implementation of MusicLM, Google's new SOTA model for music generation using attention networks, in Pytorch
 - [BVLC/caffe](https://github.com/BVLC/caffe) - Caffe: a fast open framework for deep learning.
 - [ashnkumar/sketch-code](https://github.com/ashnkumar/sketch-code) - Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
 - [spmallick/learnopencv](https://github.com/spmallick/learnopencv) - Learn OpenCV  : C++ and Python Examples
@@ -612,6 +619,7 @@
 
 ## developer-tools 
 
+- [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [argilla-io/argilla](https://github.com/argilla-io/argilla) - Argilla is a collaboration tool for AI engineers and domain experts to build high-quality datasets
 - [cortesi/modd](https://github.com/cortesi/modd) - A flexible developer tool that runs processes and responds to filesystem changes
@@ -631,6 +639,7 @@
 
 ## django 
 
+- [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest) - REST api for django CMS 5
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
 - [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
@@ -1438,7 +1447,7 @@
 - [PE5PVB/SI4684-DAB-Receiver](https://github.com/PE5PVB/SI4684-DAB-Receiver) - SI4684 ESP32 DAB Receiver
 - [lhm0/DAB_minimalist](https://github.com/lhm0/DAB_minimalist) - A minimalist DAB+ radio for vision impaired based on DABshield and Arduino D1 R32
 - [NickCulbertson/Mini-Teensy-Synth](https://github.com/NickCulbertson/Mini-Teensy-Synth) - This is a subtractive synth homage to the legendary Minimoog using the Teensy 4.1 microcontroller. This is primarily for entertainment and educational purposes, and to see what all is possible with ma
-- [samaaron/supersonic](https://github.com/samaaron/supersonic) - SuperCollider's scsynth audio engine as a Web AudioWorklet
+- [samaaron/supersonic](https://github.com/samaaron/supersonic) - SuperCollider's scsynth audio engine as a Web AudioWorklet, JUCE-powered native server and Erlang NIF
 - [9001/copyparty](https://github.com/9001/copyparty) - Portable file server with accelerated resumable uploads, dedup, WebDAV, SFTP, FTP, TFTP, zeroconf, media indexer, thumbnails++ all in one file
 - [16n-faderbank/16next_firmware](https://github.com/16n-faderbank/16next_firmware) - Firmware for next-generation faderbanks - like 16nx, the next generation of 16n devices.
 - [city96/ComfyUI-GGUF](https://github.com/city96/ComfyUI-GGUF) - GGUF Quantization support for native ComfyUI models
@@ -2193,6 +2202,7 @@
 
 ## python 
 
+- [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
@@ -2354,7 +2364,7 @@
 - [MTG/sms-tools](https://github.com/MTG/sms-tools) - Sound analysis/synthesis tools for music applications
 - [jmcclell/django-bootstrap-pagination](https://github.com/jmcclell/django-bootstrap-pagination) - Django template tag for rendering Page objects as Bootstrap pagination HTML
 - [Fantomas42/django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) - Simple yet powerful and really extendable application for managing a blog within your Django Web site.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of awesome Python frameworks, libraries, software and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
 - [vitorfs/bootcamp](https://github.com/vitorfs/bootcamp) - An enterprise social network
 - [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
