@@ -433,6 +433,7 @@
 
 ## G-code 
 
+- [GhostNoteAudio/Conductor](https://github.com/GhostNoteAudio/Conductor) - Conductor MIDI Controller
 - [sgmk/BlinkeShit3000](https://github.com/sgmk/BlinkeShit3000) - SGMK X-mas Party "Make DOCK18 Bright Again"
 
 ## GLSL 
@@ -1198,7 +1199,7 @@
 - [jmcclell/django-bootstrap-pagination](https://github.com/jmcclell/django-bootstrap-pagination) - Django template tag for rendering Page objects as Bootstrap pagination HTML
 - [nvbn/django-bower](https://github.com/nvbn/django-bower) - Easy way to use bower with your django project
 - [Fantomas42/django-blog-zinnia](https://github.com/Fantomas42/django-blog-zinnia) - Simple yet powerful and really extendable application for managing a blog within your Django Web site.
-- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources.
+- [vinta/awesome-python](https://github.com/vinta/awesome-python) - An opinionated list of Python frameworks, libraries, tools, and resources
 - [mpescimoro/wi-finder](https://github.com/mpescimoro/wi-finder) - A really simple network scanning script. Now updated.
 - [mikeorr/Unipath](https://github.com/mikeorr/Unipath) - An object-oriented approach to Python file/directory operations.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
