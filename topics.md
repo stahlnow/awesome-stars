@@ -34,6 +34,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
 - [cms](#cms)
@@ -74,6 +75,7 @@
 - [emoji](#emoji)
 - [emulator](#emulator)
 - [es6](#es6)
+- [esp32](#esp32)
 - [ethereum](#ethereum)
 - [fastapi](#fastapi)
 - [finance](#finance)
@@ -415,6 +417,10 @@
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
 
+## claude-code 
+
+- [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
+
 ## cli 
 
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
@@ -740,6 +746,17 @@
 ## es6 
 
 - [parcel-bundler/parcel](https://github.com/parcel-bundler/parcel) - The zero configuration build tool for the web. 📦🚀
+
+## esp32 
+
+- [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
+- [ctag-fh-kiel/ctag-tbd](https://github.com/ctag-fh-kiel/ctag-tbd) - CTAG TBD &gt;&gt;to be determined&lt;&lt; an extendible open source Eurorack sound module
+- [shorepine/alles](https://github.com/shorepine/alles) - A many speaker distributed music synthesizer using UDP multicast over WiFi
+- [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
+- [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
+- [phkehl/esp32-a1s-audio_hal](https://github.com/phkehl/esp32-a1s-audio_hal) - esp-adf (esp-idf) audio_hal component for AI-Thinker's ESP32-A1S module (AC101 codec)
+- [SmingHub/Sming](https://github.com/SmingHub/Sming) - Sming - powerful  open source framework simplifying the creation of embedded C++ applications.
+- [nodemcu/nodemcu-firmware](https://github.com/nodemcu/nodemcu-firmware) - Lua based interactive firmware for ESP8266, ESP8285 and ESP32
 
 ## ethereum 
 
@@ -1375,6 +1392,7 @@
 
 ## npm 
 
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [DerYeger/yeger](https://github.com/DerYeger/yeger) - Monorepo for @yeger/ NPM packages
 - [meteor/meteor](https://github.com/meteor/meteor) - Meteor, the JavaScript App Platform
 
@@ -1430,6 +1448,7 @@
 
 ## others 
 
+- [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
 - [GhostNoteAudio/Conductor](https://github.com/GhostNoteAudio/Conductor) - Conductor MIDI Controller
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations and EPC-QR-Code (GiroCode) support.
@@ -1535,7 +1554,6 @@
 - [SortableJS/vue.draggable.next](https://github.com/SortableJS/vue.draggable.next) - Vue 3 compatible drag-and-drop component based on Sortable.js
 - [github/copilot.vim](https://github.com/github/copilot.vim) - Neovim plugin for GitHub Copilot
 - [command-tab/ch341eeprom](https://github.com/command-tab/ch341eeprom) - A libusb based programming tool for 24Cxx serial EEPROMs using the WinChipHead CH341A IC
-- [ctag-fh-kiel/ctag-tbd](https://github.com/ctag-fh-kiel/ctag-tbd) - CTAG TBD &gt;&gt;to be determined&lt;&lt; an extendible open source Eurorack sound module
 - [phreax/livegl](https://github.com/phreax/livegl) - Live coding framework for glsl shaders
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [pms67/STM32F4-Reference-PCB](https://github.com/pms67/STM32F4-Reference-PCB) - KiCad + STM32F4 + USB + Buck converter video reference/test PCB.
@@ -1549,7 +1567,6 @@
 - [memfault/zero-to-main](https://github.com/memfault/zero-to-main) - Bootstrap C code on a Cortex-M MCU
 - [aykevl/ledsgo](https://github.com/aykevl/ledsgo) - LED animation library written in Go, inspired by FastLED
 - [adafruit/Adafruit_NeoPixel_ZeroDMA](https://github.com/adafruit/Adafruit_NeoPixel_ZeroDMA) - DMA-based NeoPixel library for SAMD microcontrollers (Feather M0, M4, Arduino Zero, etc.)
-- [shorepine/alles](https://github.com/shorepine/alles) - A many speaker distributed music synthesizer using UDP multicast over WiFi
 - [gh0stless/AIASS-Uno-VST](https://github.com/gh0stless/AIASS-Uno-VST) - 
 - [richardeoin/ftx-prog](https://github.com/richardeoin/ftx-prog) - A Linux command-line alternative to the FTDI FTProg utility for FTDI's FT-X series
 - [google/guetzli](https://github.com/google/guetzli) - Perceptual JPEG encoder
@@ -1685,7 +1702,6 @@
 - [marcecj/faust_python](https://github.com/marcecj/faust_python) - A Python FAUST wrapper implemented using the CFFI.
 - [LancePutnam/Gamma](https://github.com/LancePutnam/Gamma) - Generic (Sound) Synthesis Library
 - [Ai-Thinker-Open/ESP32-A1S-AudioKit](https://github.com/Ai-Thinker-Open/ESP32-A1S-AudioKit) - Ai-Thinker AudioKit Board SDK - 安信可 esp32-a1s 音频模组开发板
-- [phkehl/esp32-a1s-audio_hal](https://github.com/phkehl/esp32-a1s-audio_hal) - esp-adf (esp-idf) audio_hal component for AI-Thinker's ESP32-A1S module (AC101 codec)
 - [espressif/esp-idf](https://github.com/espressif/esp-idf) - Espressif IoT Development Framework. Official development framework for Espressif SoCs.
 - [recurser/exif-orientation-examples](https://github.com/recurser/exif-orientation-examples) - Example images for the various EXIF orientation flags, in both landscape and portrait orientation.
 - [fluentpython/concurrency2019](https://github.com/fluentpython/concurrency2019) - Examples and exercises for a workshop on Python Concurrent Programming
@@ -2017,6 +2033,7 @@
 - [WebAudio/web-audio-api](https://github.com/WebAudio/web-audio-api) - The Web Audio API v1.0, developed by the W3C Audio WG
 - [hoch/WAAX](https://github.com/hoch/WAAX) - NOTE: This project in not currently maintained.
 - [hagsteel/swampdragon](https://github.com/hagsteel/swampdragon) - swampdragon
+- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 - [magalhas/backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server
 - [8BitMixtape/NextLevelEdition](https://github.com/8BitMixtape/NextLevelEdition) - SMD 32U4 Massproduction Ready PCB that fits in Mixtape
 - [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls) - GUI parts library for Web application using WebComponents
@@ -2209,7 +2226,7 @@
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
 - [Aermoss/PySDL3](https://github.com/Aermoss/PySDL3) - A pure Python wrapper for SDL3.
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Python FFmpeg wrappers support filters with typing and docs
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
@@ -2637,6 +2654,7 @@
 
 - [sbb-design-systems/lyne-components](https://github.com/sbb-design-systems/lyne-components) - Components for Lyne Design System
 - [kanriapp/kanri](https://github.com/kanriapp/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
+- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [DerYeger/yeger](https://github.com/DerYeger/yeger) - Monorepo for @yeger/ NPM packages
 - [DDMAL/diva.js](https://github.com/DDMAL/diva.js) - :books: IIIF-compatible document image viewer
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
@@ -2743,7 +2761,6 @@
 - [sbb-design-systems/lyne-components](https://github.com/sbb-design-systems/lyne-components) - Components for Lyne Design System
 - [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [openui/open-ui](https://github.com/openui/open-ui) - Maintain an open standard for UI and promote its adherence and adoption.
-- [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
 
 ## webapp 
 
