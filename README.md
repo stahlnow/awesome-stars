@@ -389,7 +389,7 @@
 - [angerson/pip.wtf](https://github.com/angerson/pip.wtf) - Inline dependencies for small Python scripts.
 - [tobiasahlin/SpinKit](https://github.com/tobiasahlin/SpinKit) - A collection of loading indicators animated with CSS
 - [frnhr/django-light](https://github.com/frnhr/django-light) - Disable dark mode in Django admin UI.
-- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for sway, vim, zsh, etc.
+- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for niri, neovim, zsh, etc.
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
 - [dunovank/jupyter-themes](https://github.com/dunovank/jupyter-themes) - Custom Jupyter Notebook Themes
@@ -1276,7 +1276,7 @@
 - [SammysHP/i3lockmore](https://github.com/SammysHP/i3lockmore) - A wrapper for i3lock that adds additional functionality
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [dokku/dokku-postgres](https://github.com/dokku/dokku-postgres) - a postgres plugin for dokku
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+- [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [sebastian404/japb_retroarch](https://github.com/sebastian404/japb_retroarch) - An Unofficial port of Retroarch to the Pandora's Box hardware
 - [loh-tar/tbsm](https://github.com/loh-tar/tbsm) - A pure bash session or application launcher. Inspired by cdm, tdm and krunner
