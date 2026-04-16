@@ -688,7 +688,7 @@
 - [MartinHeinz/blog-backend](https://github.com/MartinHeinz/blog-backend) - Personal Blog
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [nginx-proxy/nginx-proxy](https://github.com/nginx-proxy/nginx-proxy) - Automated nginx proxy for Docker containers using docker-gen
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+- [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [jorge07/alpine-php](https://github.com/jorge07/alpine-php) - Multi Arch Alpine PHP  Docker images. 5.6, 7{0,1,2,3,4}, 8.{1,2,3}
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
 
@@ -699,7 +699,7 @@
 
 ## dotfiles 
 
-- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for sway, vim, zsh, etc.
+- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for niri, neovim, zsh, etc.
 
 ## education 
 
@@ -1353,6 +1353,7 @@
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
 - [averms/black-nvim](https://github.com/averms/black-nvim) - A Neovim plugin to format your code using Black
+- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for niri, neovim, zsh, etc.
 - [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
 
 ## neural-network 
@@ -1421,7 +1422,7 @@
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
-- [nextcloud/docker](https://github.com/nextcloud/docker) - ⛴ Docker image of Nextcloud
+- [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
 ## openai 
@@ -2697,7 +2698,7 @@
 - [heavenshell/vim-pydocstring](https://github.com/heavenshell/vim-pydocstring) - Generate Python docstring to your Python source code.
 - [junegunn/fzf.vim](https://github.com/junegunn/fzf.vim) - fzf :heart: vim
 - [dense-analysis/ale](https://github.com/dense-analysis/ale) - Check syntax in Vim/Neovim asynchronously and fix files, with Language Server Protocol (LSP) support
-- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for sway, vim, zsh, etc.
+- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for niri, neovim, zsh, etc.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [ycm-core/YouCompleteMe](https://github.com/ycm-core/YouCompleteMe) - A code-completion engine for Vim
 - [iamcco/markdown-preview.vim](https://github.com/iamcco/markdown-preview.vim) - ⚠️ PLEASE USE https://github.com/iamcco/markdown-preview.nvim INSTEAD
@@ -2806,7 +2807,7 @@
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
 - [junegunn/fzf](https://github.com/junegunn/fzf) - :cherry_blossom: A command-line fuzzy finder
 - [direnv/direnv](https://github.com/direnv/direnv) - unclutter your .profile
-- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for sway, vim, zsh, etc.
+- [gumieri/dotfiles](https://github.com/gumieri/dotfiles) - Personal dotfiles with configurations for niri, neovim, zsh, etc.
 - [sindresorhus/pure](https://github.com/sindresorhus/pure) - Pretty, minimal and fast ZSH prompt
 - [zsh-users/antigen](https://github.com/zsh-users/antigen) - The plugin manager for zsh.
 - [sloria/doitlive](https://github.com/sloria/doitlive) - Because sometimes you need to do it live
