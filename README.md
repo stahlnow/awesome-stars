@@ -792,7 +792,7 @@
 - [chriskempson/base16](https://github.com/chriskempson/base16) - A Framework for building Themes
 - [clacktronics/AudioJacks](https://github.com/clacktronics/AudioJacks) - KiCAD footprint library and 3D models for commonly used connectors used in synths and other audio equipment
 - [abalone1969/eRide](https://github.com/abalone1969/eRide) - evan hartzell plays the ride cymbal as a SuperDirt sample pack
-- [kolofordjango/kolo](https://github.com/kolofordjango/kolo) - See everything happening in your running Django app. All without leaving VSCode
+- [koloai/kolo](https://github.com/koloai/kolo) - Kolo is a text-based Python debugger for AI agents. Capture every executed function call, return value, local variable, HTTP request, and more in greppable trace files.
 - [PiSugar/PiSugar](https://github.com/PiSugar/PiSugar) - PiSugar is a battery module for Raspberry Pi zero(wh)/zero2(wh)/5B/4B/3B+
 - [admin-ch/CovidCertificate-Documents](https://github.com/admin-ch/CovidCertificate-Documents) - Documents related to covid certificate system in Switzerland
 - [jhautry/echo-dot](https://github.com/jhautry/echo-dot) - Breaking the Echo Dot project for the IASC 4580 Capstone Course
@@ -865,7 +865,7 @@
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [Aermoss/PySDL3](https://github.com/Aermoss/PySDL3) - A pure Python wrapper for SDL3.
 - [t-strings/pep750-examples](https://github.com/t-strings/pep750-examples) - Examples of using t-strings as defined in PEP 750
-- [livingbio/typed-ffmpeg](https://github.com/livingbio/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
+- [lucemia/typed-ffmpeg](https://github.com/lucemia/typed-ffmpeg) - Type-safe FFmpeg bindings for Python & TypeScript — filters, typing, and docs
 - [espressif/esp-dev-kits](https://github.com/espressif/esp-dev-kits) - Docs, Schematics, Factory Firmwares for ESP Development Kits
 - [jaseg/python-mpv](https://github.com/jaseg/python-mpv) - Python interface to the awesome mpv media player
 - [darrenburns/rich-pixels](https://github.com/darrenburns/rich-pixels) - A Rich-compatible library for writing pixel images and ASCII art to the terminal.
