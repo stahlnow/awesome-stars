@@ -105,6 +105,7 @@
 
 ## C 
 
+- [unknownusername504/WirelessMouse](https://github.com/unknownusername504/WirelessMouse) - A wireless mouse with open source pcb/schematic as well as drivers to come.
 - [PE5PVB/SI4684-DAB-Receiver](https://github.com/PE5PVB/SI4684-DAB-Receiver) - SI4684 ESP32 DAB Receiver
 - [libAudioFlux/audioFlux](https://github.com/libAudioFlux/audioFlux) - A library for audio and music analysis, feature extraction.
 - [stevelittlefish/c_vulkan_sdl3](https://github.com/stevelittlefish/c_vulkan_sdl3) - Example of Vulkan rendering in SDL3 window using plain C (no C++)
@@ -236,6 +237,7 @@
 
 ## C++ 
 
+- [GothenburgBitFactory/timewarrior](https://github.com/GothenburgBitFactory/timewarrior) - Timewarrior - Commandline Time Tracking and Reporting
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
 - [TheWaveWarden/odin2](https://github.com/TheWaveWarden/odin2) - Odin 2 Synthesizer Plugin
 - [Archie3d/aeolus_plugin](https://github.com/Archie3d/aeolus_plugin) - Pipe organ synthesizer (VST plugin)
@@ -589,7 +591,7 @@
 - [gulpjs/gulp](https://github.com/gulpjs/gulp) - A toolkit to automate & enhance your workflow
 - [felixhagspiel/jsOnlyLightbox](https://github.com/felixhagspiel/jsOnlyLightbox) - Responsive Lightbox in plain JS. No need for jQuery.
 - [evanw/webgl-water](https://github.com/evanw/webgl-water) - WebGL Water Demo
-- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling browser cookies
+- [js-cookie/js-cookie](https://github.com/js-cookie/js-cookie) - A simple, lightweight JavaScript API for handling cookies, client-side.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 - [rileyjshaw/terra](https://github.com/rileyjshaw/terra) - :space_invader: JS library for simple biological simulations and cellular automata
 - [mohayonao/CoffeeCollider](https://github.com/mohayonao/CoffeeCollider) - Sound Processing Language for Web Audio
@@ -1148,7 +1150,7 @@
 - [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
 - [kingosticks/mopidy-tunein](https://github.com/kingosticks/mopidy-tunein) - Mopidy extension for playing music from tunein
-- [mopidy/mopidy-scrobbler](https://github.com/mopidy/mopidy-scrobbler) - Mopidy extension for scrobbling played tracks to Last.fm
+- [mopidy/mopidy-scrobbler](https://github.com/mopidy/mopidy-scrobbler) - Mopidy extension for scrobbling played tracks to Last.fm or Libre.fm
 - [mopidy/mopidy-soundcloud](https://github.com/mopidy/mopidy-soundcloud) - Mopidy extension for playing music from SoundCloud
 - [diafygi/acme-nosudo](https://github.com/diafygi/acme-nosudo) - Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root
 - [rawpython/remi](https://github.com/rawpython/remi) - Python REMote Interface library. Platform independent. In about 100 Kbytes, perfect for your diet.
@@ -1156,7 +1158,6 @@
 - [miek/sdr-stuff](https://github.com/miek/sdr-stuff) - 
 - [KarimJedda/whatsappcli](https://github.com/KarimJedda/whatsappcli) - Control your server from Whatsapp
 - [JuanPotato/Legofy](https://github.com/JuanPotato/Legofy) - Make images look as if they are made out of 1x1 LEGO blocks
-- [jazzband/Watson](https://github.com/jazzband/Watson) - :watch: A wonderful CLI to track your time!
 - [pyskell/slouchy](https://github.com/pyskell/slouchy) - Slouchy uses your webcam to check if you're slouching and alert you if you are.
 - [dbader/schedule](https://github.com/dbader/schedule) - Python job scheduling for humans.
 - [gutomaia/pyNES](https://github.com/gutomaia/pyNES) - Python programming for Nintendo 8 bits
@@ -1269,6 +1270,7 @@
 
 ## Shell 
 
+- [acmesh-official/acme.sh](https://github.com/acmesh-official/acme.sh) - A pure Unix shell script ACME client for SSL / TLS certificate automation
 - [Piotr1215/zledit](https://github.com/Piotr1215/zledit) - Jump to any word on the current line via fuzzy picker (fzf/sk/peco)
 - [philharrisathome/wx](https://github.com/philharrisathome/wx) - An autonomous POES ground station using RTL-SDR and WXToImg
 - [stark/Color-Scripts](https://github.com/stark/Color-Scripts) - User contributed color scripts
@@ -1403,7 +1405,7 @@
 
 ## Vue 
 
-- [kanriapp/kanri](https://github.com/kanriapp/kanri) - 🪐 Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
+- [kanriapp/kanri](https://github.com/kanriapp/kanri) - Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
 - [lrembacz/vue-responsive-grid-layout](https://github.com/lrembacz/vue-responsive-grid-layout) - Vue Repsonsive Grid Layout
 - [jekip/naive-ui-admin](https://github.com/jekip/naive-ui-admin) - Naive Ui Admin 是一款基于 Vue3、Vite3 和 TypeScript 的先进中后台解决方案，集成了前沿的前端技术栈和典型业务模型。它拥有二次封装组件、动态菜单、权限校验、粒子化权限控制等核心功能，旨在帮助企业快速构建高质量的中后台项目。无论在新技术运用或业务实践层面，都能为您提供有力支持，并将持续更新，以满足您不断变化的需求
 - [hinesboy/mavonEditor](https://github.com/hinesboy/mavonEditor) - mavonEditor - A markdown editor based on Vue that supports a variety of personalized features
