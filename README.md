@@ -233,6 +233,7 @@
 
 ## C# # 
 
+- [slskd/slskd](https://github.com/slskd/slskd) - A modern client-server application for the Soulseek file sharing network.
 - [BorisBegemann/MatrixDisplay](https://github.com/BorisBegemann/MatrixDisplay) - 
 
 ## C++ 
@@ -853,6 +854,7 @@
 
 ## Python 
 
+- [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest) - REST api for django CMS 5
 - [metaforx/django-unfold-modal](https://github.com/metaforx/django-unfold-modal) - This replaces the Django pop-up window for related entry selection with an integrated modal version to improve the UX for editors.
@@ -907,7 +909,7 @@
 - [HackSoftware/Django-Styleguide](https://github.com/HackSoftware/Django-Styleguide) - Django styleguide used in HackSoft projects
 - [mriale/PyDPainter](https://github.com/mriale/PyDPainter) - A usable pixel art paint program written in Python
 - [blueman-project/blueman](https://github.com/blueman-project/blueman) - Blueman is a GTK+ Bluetooth Manager
-- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform. Available in TypeScript!
+- [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [jamesturk/scrapeghost](https://github.com/jamesturk/scrapeghost) - 👻 Experimental library for scraping websites using OpenAI's GPT API.
 - [withlogicco/django-prose](https://github.com/withlogicco/django-prose) - Wonderful rich-text editing for your Django project
 - [disqus/django-bitfield](https://github.com/disqus/django-bitfield) - A BitField extension for Django Models
