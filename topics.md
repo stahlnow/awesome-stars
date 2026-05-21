@@ -646,7 +646,6 @@
 
 ## devops 
 
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [wtfutil/wtf](https://github.com/wtfutil/wtf) - The personal information dashboard for your terminal
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -1459,6 +1458,7 @@
 
 ## others 
 
+- [metaforx/django-admin-announcements](https://github.com/metaforx/django-admin-announcements) - Admin announcements for Django, with optional django-unfold layout integration.
 - [unknownusername504/WirelessMouse](https://github.com/unknownusername504/WirelessMouse) - A wireless mouse with open source pcb/schematic as well as drivers to come.
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
 - [GhostNoteAudio/Conductor](https://github.com/GhostNoteAudio/Conductor) - Conductor MIDI Controller
