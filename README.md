@@ -555,7 +555,6 @@
 - [paradigms-of-intelligence/swissgl](https://github.com/paradigms-of-intelligence/swissgl) - SwissGL is a minimalistic wrapper on top of WebGL2 JS API. It's designed to reduce the amount of boilerplate code required to manage GLSL shaders, textures and framebuffers when making procedural visu
 - [tholman/cursor-effects](https://github.com/tholman/cursor-effects) - Old-school cursor effects for your browser built with modern JavaScript
 - [djedditt/tiled-to-gba-export](https://github.com/djedditt/tiled-to-gba-export) - Tiled extension/export plugin for exporting tilemaps to GBA source files
-- [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [07akioni/xicons](https://github.com/07akioni/xicons) - SVG Vue/React components integrated from fluentui-system-icons, ionicons, ant-design-icons, material-design-icons, Font-Awesome, tabler-icons and carbon icons. (Vue3, Vue2, React, SVG)
 - [ljharb/qs](https://github.com/ljharb/qs) - A querystring parser and serializer with nesting support
 - [openseadragon/openseadragon](https://github.com/openseadragon/openseadragon) - An open-source, web-based viewer for zoomable images, implemented in pure JavaScript.
@@ -854,6 +853,7 @@
 
 ## Python 
 
+- [metaforx/django-admin-announcements](https://github.com/metaforx/django-admin-announcements) - Admin announcements for Django, with optional django-unfold layout integration.
 - [libvips/pyvips](https://github.com/libvips/pyvips) - python binding for libvips using cffi
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest) - REST api for django CMS 5
@@ -1327,7 +1327,6 @@
 - [sbb-design-systems/lyne-components](https://github.com/sbb-design-systems/lyne-components) - Components for Lyne Design System
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
-- [stan-smith/FossFLOW](https://github.com/stan-smith/FossFLOW) - Make beautiful isometric infrastructure diagrams
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A browser-based 3D CAD application for online model design and editing
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
@@ -1344,6 +1343,7 @@
 - [hashicorp-forge/hermes](https://github.com/hashicorp-forge/hermes) - A document management system
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 - [DerYeger/yeger](https://github.com/DerYeger/yeger) - Monorepo for @yeger/ NPM packages
+- [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
 - [oarepo/vue-query-synchronizer](https://github.com/oarepo/vue-query-synchronizer) - browser addressbar model/query synchronization for vuejs + router
 - [lupas/vue3-keypress](https://github.com/lupas/vue3-keypress) - Global keypress event handler component for Vue 3 applications.
