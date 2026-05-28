@@ -273,7 +273,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [TeamNewPipe/NewPipe](https://github.com/TeamNewPipe/NewPipe) - A libre lightweight streaming front-end for Android.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
@@ -535,7 +535,7 @@
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [christophhart/HISE](https://github.com/christophhart/HISE) - The open source framework for sample based instruments
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
 
 ## crawler 
@@ -962,7 +962,7 @@
 - [alda-lang/alda](https://github.com/alda-lang/alda) - A music programming language for musicians. :notes:
 - [ParthJadhav/Tkinter-Designer](https://github.com/ParthJadhav/Tkinter-Designer) - An easy and fast way to create a Python GUI 🐍
 - [tonybaloney/wily](https://github.com/tonybaloney/wily) - A Python application for tracking, reporting on timing and complexity in Python code
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [arrow-py/arrow](https://github.com/arrow-py/arrow) - 🏹 Better dates & times for Python
 - [psf/black](https://github.com/psf/black) - The uncompromising Python code formatter
 - [woodruffw/procmaps.py](https://github.com/woodruffw/procmaps.py) - Python bindings for procmaps.rs
@@ -1054,7 +1054,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [steinbergmedia/vst3sdk](https://github.com/steinbergmedia/vst3sdk) - VST 3 Plug-In SDK
 - [richtr/NoSleep.js](https://github.com/richtr/NoSleep.js) - Prevent display sleep and enable wake lock in any Android or iOS web browser.
@@ -1091,7 +1091,7 @@
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
 - [shentao/vue-multiselect](https://github.com/shentao/vue-multiselect) - Universal select/multiselect/tagging component for Vue.js
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [svg/svgo](https://github.com/svg/svgo) - ⚙️ Node.js tool for optimizing SVG files
 - [pixijs/pixijs](https://github.com/pixijs/pixijs) - The HTML5 Creation Engine: Create beautiful digital content with the fastest, most flexible 2D WebGL renderer.
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
@@ -1430,7 +1430,7 @@
 - [ctag-fh-kiel/ctag-straempler](https://github.com/ctag-fh-kiel/ctag-straempler) - An open source eurorack sample streaming and sound synthesis module.
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [transloadit/uppy](https://github.com/transloadit/uppy) - The next open source file uploader for web browsers :dog:
 
@@ -2209,7 +2209,7 @@
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [Zettlr/Zettlr](https://github.com/Zettlr/Zettlr) - Your One-Stop Publication Workbench
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [jarun/nnn](https://github.com/jarun/nnn) - n³ The unorthodox terminal file manager
 - [plotly/dash](https://github.com/plotly/dash) - Data Apps & Dashboards for Python. No JavaScript Required.
 - [ohmyzsh/ohmyzsh](https://github.com/ohmyzsh/ohmyzsh) - 🙃   A delightful community-driven (with 2,500+ contributors) framework for managing your zsh configuration. Includes 300+ optional plugins (rails, git, macOS, hub, docker, homebrew, node, php, python,
