@@ -293,7 +293,7 @@
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [m-rest/tick_tock](https://github.com/m-rest/tick_tock) - 
 - [philippekocher/polytempo](https://github.com/philippekocher/polytempo) - 
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Collabora Online is a collaborative online office suite based on LibreOffice technology. This is also the source for the Collabora Office apps for iOS and Android.
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [electro-smith/DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful DSP Library in C++
 - [kfrlib/kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON, RISC-V RVV)
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -807,6 +807,7 @@
 - [kweiwen/benjolin](https://github.com/kweiwen/benjolin) - Rob Hordijk's Benjolin in the Eurorack format.
 - [mapbox/awesome-vector-tiles](https://github.com/mapbox/awesome-vector-tiles) - Awesome implementations of the Mapbox Vector Tile specification
 - [modlfo/VultModules](https://github.com/modlfo/VultModules) - A set of modules written in Vult for VCVRack
+- [irmen/pyc64](https://github.com/irmen/pyc64) - Commodore-64 simulator in pure Python
 - [8BitMixtape/8BitmixtapeNEO_ShenzhenReady](https://github.com/8BitMixtape/8BitmixtapeNEO_ShenzhenReady) - Clean repo with only files for manufacturing
 - [8BitMixtape/NeoCodeExamples](https://github.com/8BitMixtape/NeoCodeExamples) - 8BitMixtape-NEO examples
 - [kmkingsbury/pvc-qfh-antenna](https://github.com/kmkingsbury/pvc-qfh-antenna) - Plans for a Quadrifilar Helicoidal antenna
@@ -1073,7 +1074,6 @@
 - [susam/ice](https://github.com/susam/ice) - Ice - WSGI on the rocks
 - [lincolnloop/django-dynamic-raw-id](https://github.com/lincolnloop/django-dynamic-raw-id) - (formerly known as django-salmonella) A raw_id_fields widget replacement that handles display of an object's string value on change and can be overridden via a template.
 - [jamesob/tinychain](https://github.com/jamesob/tinychain) - A pocket-sized implementation of Bitcoin
-- [irmen/pyc64](https://github.com/irmen/pyc64) - Commodore-64 simulator in pure Python
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [davecan/easychain](https://github.com/davecan/easychain) - A simple python blockchain ledger
 - [fluentpython/example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python, 1st Edition (O'Reilly, 2015)
