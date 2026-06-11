@@ -24,6 +24,7 @@
 - [G-code](#g-code)
 - [GLSL](#glsl)
 - [Go](#go)
+- [Go Template](#go-template)
 - [HTML](#html)
 - [Haskell](#haskell)
 - [IDL](#idl)
@@ -149,7 +150,7 @@
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [pschatzmann/arduino-audiokit](https://github.com/pschatzmann/arduino-audiokit) - Arduino ADF/Audiokit HAL (support for ESP32-A1S, AI-Thinker, LyraT for ES7148, ES7210, ES7243, ES8311, ES8347, ES8388, TAS5805M, AC101 audio chips)
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library not only for Arduino)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
 - [atomic14/esp32-play-mp3-demo](https://github.com/atomic14/esp32-play-mp3-demo) - A very simple example showing how to play mp3 files on the ESP32
 - [x42/scarlett-mixer](https://github.com/x42/scarlett-mixer) - Quickly hacked scarlett-mixer GUI for Linux/ALSA
 - [lpodkalicki/attiny13](https://github.com/lpodkalicki/attiny13) - ATtiny13 - tiny library and several example projects (AVR-GCC)
@@ -293,7 +294,6 @@
 - [spotify/pedalboard](https://github.com/spotify/pedalboard) - 🎛 🔊 A Python library for audio.
 - [m-rest/tick_tock](https://github.com/m-rest/tick_tock) - 
 - [philippekocher/polytempo](https://github.com/philippekocher/polytempo) - 
-- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [electro-smith/DaisySP](https://github.com/electro-smith/DaisySP) - A Powerful DSP Library in C++
 - [kfrlib/kfr](https://github.com/kfrlib/kfr) - Fast, modern C++ DSP framework, FFT, Sample Rate Conversion, FIR/IIR/Biquad Filters (SSE, AVX, AVX-512, ARM NEON, RISC-V RVV)
 - [hoffstadt/DearPyGui](https://github.com/hoffstadt/DearPyGui) - Dear PyGui: A fast and powerful Graphical User Interface Toolkit for Python with minimal dependencies
@@ -485,6 +485,10 @@
 - [andmarios/i7tt](https://github.com/andmarios/i7tt) - A Linux CPU temperature terminal monitor with history charts.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
+## Go Template 
+
+- [zabbix/zabbix](https://github.com/zabbix/zabbix) - Real-time monitoring of IT components and services, such as networks, servers, VMs, applications and the cloud.
+
 ## HTML 
 
 - [markmead/hyperui](https://github.com/markmead/hyperui) - Free Tailwind CSS v4 components for your next project, designed to enhance your web development with the latest features and styles 🚀
@@ -644,7 +648,7 @@
 - [cwilso/metronome](https://github.com/cwilso/metronome) - Web Audio metronome example to show scheduling.
 - [hagsteel/swampdragon](https://github.com/hagsteel/swampdragon) - swampdragon
 - [magalhas/backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server
-- [facebook/react](https://github.com/facebook/react) - The library for web and native user interfaces.
+- [react/react](https://github.com/react/react) - The library for web and native user interfaces.
 - [mui/material-ui](https://github.com/mui/material-ui) - Material UI: Comprehensive React component library that implements Google's Material Design. Free forever.
 - [eskimoblood/jim-knopf](https://github.com/eskimoblood/jim-knopf) - :o: small JavaScript library to create knobs using SVG
 - [g200kg/webaudio-controls](https://github.com/g200kg/webaudio-controls) - GUI parts library for Web application using WebComponents
@@ -1282,6 +1286,7 @@
 - [SammysHP/i3lockmore](https://github.com/SammysHP/i3lockmore) - A wrapper for i3lock that adds additional functionality
 - [qoomon/docker-host](https://github.com/qoomon/docker-host) - A docker sidecar container to forward all traffic to local docker host or any other host
 - [dokku/dokku-postgres](https://github.com/dokku/dokku-postgres) - a postgres plugin for dokku
+- [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
 - [nextcloud/docker](https://github.com/nextcloud/docker) - A community maintained docker micro-image for deploying Nextcloud on container platforms
 - [sdushantha/fontpreview](https://github.com/sdushantha/fontpreview) - Highly customizable and minimal font previewer written in bash
 - [sebastian404/japb_retroarch](https://github.com/sebastian404/japb_retroarch) - An Unofficial port of Retroarch to the Pandora's Box hardware
