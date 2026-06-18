@@ -150,7 +150,7 @@
 - [olikraus/u8g2](https://github.com/olikraus/u8g2) - U8glib library for monochrome displays, version 2
 - [earlephilhower/ESP8266Audio](https://github.com/earlephilhower/ESP8266Audio) - Arduino library to play MOD, WAV, FLAC, MIDI, RTTTL, OGG/Opus, MP3, and AAC files on I2S DACs or with a software emulated delta-sigma DAC on the ESP8266 and ESP32 and Pico
 - [pschatzmann/arduino-audiokit](https://github.com/pschatzmann/arduino-audiokit) - Arduino ADF/Audiokit HAL (support for ESP32-A1S, AI-Thinker, LyraT for ES7148, ES7210, ES7243, ES8311, ES8347, ES8388, TAS5805M, AC101 audio chips)
-- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Arduino Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
+- [pschatzmann/arduino-audio-tools](https://github.com/pschatzmann/arduino-audio-tools) - Audio Tools (a powerful Audio library for Arduino, PlatformIO, IDF)
 - [atomic14/esp32-play-mp3-demo](https://github.com/atomic14/esp32-play-mp3-demo) - A very simple example showing how to play mp3 files on the ESP32
 - [x42/scarlett-mixer](https://github.com/x42/scarlett-mixer) - Quickly hacked scarlett-mixer GUI for Linux/ALSA
 - [lpodkalicki/attiny13](https://github.com/lpodkalicki/attiny13) - ATtiny13 - tiny library and several example projects (AVR-GCC)
