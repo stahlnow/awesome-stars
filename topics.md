@@ -1465,6 +1465,7 @@
 
 ## others 
 
+- [tkilla64/eurorack](https://github.com/tkilla64/eurorack) - Eurorack DIY projects
 - [metaforx/django-admin-announcements](https://github.com/metaforx/django-admin-announcements) - Admin announcements for Django, with optional django-unfold layout integration.
 - [unknownusername504/WirelessMouse](https://github.com/unknownusername504/WirelessMouse) - A wireless mouse with open source pcb/schematic as well as drivers to come.
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
