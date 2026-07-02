@@ -123,6 +123,7 @@
 - [language](#language)
 - [languages](#languages)
 - [latex](#latex)
+- [learn-to-code](#learn-to-code)
 - [library](#library)
 - [linux](#linux)
 - [llm](#llm)
@@ -1174,6 +1175,10 @@
 - [miyuchina/mistletoe](https://github.com/miyuchina/mistletoe) - A fast, extensible and spec-compliant Markdown parser in pure Python.
 - [mathjax/MathJax](https://github.com/mathjax/MathJax) - Beautiful and accessible math in all browsers
 
+## learn-to-code 
+
+- [Chalarangelo/30-seconds-of-python](https://github.com/Chalarangelo/30-seconds-of-python) - Short Python code snippets for all your development needs
+
 ## library 
 
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
@@ -1559,7 +1564,7 @@
 - [SpotlightKid/stereocrossdelay](https://github.com/SpotlightKid/stereocrossdelay) - A stereo delay plugin with feedback and cross-mixing
 - [PaulBatchelor/voc_demo](https://github.com/PaulBatchelor/voc_demo) - 
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
-- [every-day-things/citadel](https://github.com/every-day-things/citadel) - Manage your ebook library without frustrations. Calibre compatible.
+- [everydaythingssoftware/citadel](https://github.com/everydaythingssoftware/citadel) - Manage your ebook library without frustrations. Calibre compatible.
 - [xh-diagrams/xhorizon](https://github.com/xh-diagrams/xhorizon) - xhorizon: A python package for the explicit computation and drawing of Penrose diagrams in general relativity.
 - [charmbracelet/pop](https://github.com/charmbracelet/pop) - Send emails from your terminal 📬
 - [maaslalani/invoice](https://github.com/maaslalani/invoice) - Command line invoice generator
