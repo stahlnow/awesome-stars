@@ -883,7 +883,7 @@
 - [Textualize/textual](https://github.com/Textualize/textual) - The lean application framework for Python.  Build sophisticated user interfaces with a simple Python API. Run your apps in the terminal and a web browser.
 - [feincms/django-imagefield](https://github.com/feincms/django-imagefield) - You should probably use this image field instead of Django's built-in models.ImageField.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [pdbpp/pdbpp](https://github.com/pdbpp/pdbpp) - pdb++, a drop-in replacement for pdb (the Python debugger)
 - [ManiMozaffar/aioclock](https://github.com/ManiMozaffar/aioclock) - A modern python scheduling framework with dependency injection and modular integration support. Alternative for Rocketry or apscheduler
 - [BigNerd95/CameraLED](https://github.com/BigNerd95/CameraLED) - Pure python library to control Camera LED for RaspberryPi 3
@@ -1382,7 +1382,7 @@
 
 ## Typst 
 
-- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations and EPC-QR-Code (GiroCode) support.
+- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations, EPC-QR-Code (GiroCode), and ZUGFeRD e-invoicing support.
 - [Jeomhps/datify](https://github.com/Jeomhps/datify) - Datify is a Typst package for flexible, locale-aware date formatting. It leverages datify-core for internationalization and supports CLDR-style date patterns.
 - [philippdrebes/typst-payqr-swiss](https://github.com/philippdrebes/typst-payqr-swiss) - A Swiss QR bill generator for Typst
 
