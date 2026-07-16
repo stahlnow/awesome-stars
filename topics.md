@@ -35,6 +35,7 @@
 - [chatbot](#chatbot)
 - [chatgpt](#chatgpt)
 - [chrome](#chrome)
+- [claude](#claude)
 - [claude-code](#claude-code)
 - [cli](#cli)
 - [cloud](#cloud)
@@ -217,6 +218,7 @@
 - [website](#website)
 - [windows](#windows)
 - [wordpress](#wordpress)
+- [workflow](#workflow)
 - [xml](#xml)
 - [youtube](#youtube)
 - [zsh](#zsh)
@@ -426,6 +428,10 @@
 ## chrome 
 
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
+
+## claude 
+
+- [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
 
 ## claude-code 
 
@@ -660,7 +666,7 @@
 - [bradmontgomery/django-querycount](https://github.com/bradmontgomery/django-querycount) - Middleware that Prints the number of DB queries to the runserver console.
 - [django-cms/djangocms-rest](https://github.com/django-cms/djangocms-rest) - REST api for django CMS 5
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [unfoldadmin/django-unfold](https://github.com/unfoldadmin/django-unfold) - Modern Django Admin
 - [strawberry-graphql/strawberry](https://github.com/strawberry-graphql/strawberry) - A GraphQL library for Python that leverages type annotations 🍓
 - [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
@@ -706,7 +712,7 @@
 
 ## documentation 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [mkdocs/mkdocs](https://github.com/mkdocs/mkdocs) - Project documentation with Markdown.
 
 ## dotfiles 
@@ -1476,7 +1482,7 @@
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
 - [GhostNoteAudio/Conductor](https://github.com/GhostNoteAudio/Conductor) - Conductor MIDI Controller
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
-- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations and EPC-QR-Code (GiroCode) support.
+- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations, EPC-QR-Code (GiroCode), and ZUGFeRD e-invoicing support.
 - [metaforx/django-unfold-modal](https://github.com/metaforx/django-unfold-modal) - This replaces the Django pop-up window for related entry selection with an integrated modal version to improve the UX for editors.
 - [Jeomhps/datify](https://github.com/Jeomhps/datify) - Datify is a Typst package for flexible, locale-aware date formatting. It leverages datify-core for internationalization and supports CLDR-style date patterns.
 - [Lfd4/djangocms-haystack](https://github.com/Lfd4/djangocms-haystack) - aldryn-search inspired Haystack index for djangoCMS projects
@@ -2495,7 +2501,7 @@
 
 ## reactjs 
 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [Redocly/redoc](https://github.com/Redocly/redoc) - 📘  OpenAPI/Swagger-generated API Reference Documentation
 
 ## rest-api 
@@ -2562,7 +2568,7 @@
 ## self-hosted 
 
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
-- [suitenumerique/docs](https://github.com/suitenumerique/docs) - A collaborative note taking, wiki and documentation platform that scales. Built with Django and React.
+- [suitenumerique/docs](https://github.com/suitenumerique/docs) - Docs is an open-source text editor: web-native, made for real-time collaboration, cleanly structured documents and sub-documents with full ownership of your data. Built to scale with Django and React.
 - [knadh/listmonk](https://github.com/knadh/listmonk) - High performance, self-hosted, newsletter and mailing list manager with a modern dashboard. Single binary app.
 - [ArchiveBox/ArchiveBox](https://github.com/ArchiveBox/ArchiveBox) - 🗃 Open source self-hosted web archiving. Takes URLs/browser history/bookmarks/Pocket/Pinboard/etc., saves HTML, JS, PDFs, media, and more...
 - [dokku/dokku](https://github.com/dokku/dokku) - A docker-powered PaaS that helps you build and manage the lifecycle of applications
@@ -2822,6 +2828,10 @@
 ## wordpress 
 
 - [jorge07/alpine-php](https://github.com/jorge07/alpine-php) - Multi Arch Alpine PHP  Docker images. 5.6, 7{0,1,2,3,4}, 8.{1,2,3}
+
+## workflow 
+
+- [viewflow/viewflow](https://github.com/viewflow/viewflow) - Reusable workflow library for Django
 
 ## xml 
 
