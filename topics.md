@@ -466,7 +466,6 @@
 - [esimov/diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [haskellcamargo/sclack](https://github.com/haskellcamargo/sclack) - The best CLI client for Slack, because everything is terrible!
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
-- [techcentaur/PyLex](https://github.com/techcentaur/PyLex) - Perform lexical analysis on words, one word at a time.
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [greymd/tmux-xpanes](https://github.com/greymd/tmux-xpanes) - Awesome tmux-based terminal divider
 - [tmux-python/tmuxp](https://github.com/tmux-python/tmuxp) - 🖥️ Session manager for tmux, built on libtmux.
@@ -876,7 +875,7 @@
 
 ## go 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
 - [grafana/grafana](https://github.com/grafana/grafana) - The open and composable observability and data visualization platform. Visualize metrics, logs, and traces from multiple sources like Prometheus, Loki, Elasticsearch, InfluxDB, Postgres and many more.
@@ -893,7 +892,7 @@
 
 ## golang 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
 - [asdf-vm/asdf](https://github.com/asdf-vm/asdf) - Extendable version manager with support for Ruby, Node.js, Elixir, Erlang & more
@@ -1232,7 +1231,7 @@
 
 ## llm 
 
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.1, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
@@ -2353,6 +2352,7 @@
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
 - [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
 - [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
+- [techcentaur/PyLex](https://github.com/techcentaur/PyLex) - Perform lexical analysis on words, one word at a time.
 - [dantaki/vapeplot](https://github.com/dantaki/vapeplot) - matplotlib extension for vaporwave aesthetics
 - [inueni/django-subadmin](https://github.com/inueni/django-subadmin) - A special kind of ModelAdmin that allows it to be nested within another ModelAdmin
 - [MechanicalSoup/MechanicalSoup](https://github.com/MechanicalSoup/MechanicalSoup) - A Python library for automating interaction with websites.
@@ -2441,7 +2441,6 @@
 - [fridex/hexsticker](https://github.com/fridex/hexsticker) - Create hexagon stickers automatically
 - [sdushantha/down](https://github.com/sdushantha/down) - ☑️ A CLI tool to check if a site or a list of sites are down or up
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
-- [techcentaur/PyLex](https://github.com/techcentaur/PyLex) - Perform lexical analysis on words, one word at a time.
 - [rndusr/stig](https://github.com/rndusr/stig) - TUI and CLI for the BitTorrent client Transmission
 - [wemake-services/django-split-settings](https://github.com/wemake-services/django-split-settings) - Organize Django settings into multiple files and directories. Easily override and modify settings. Use wildcards and optional settings files.
 - [guyzmo/git-repo](https://github.com/guyzmo/git-repo) - Git-Repo: CLI utility to manage git services from your workspace
