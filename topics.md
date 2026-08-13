@@ -225,7 +225,7 @@
 
 ## 3d 
 
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A browser-based 3D CAD application for online model design and editing
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A 3D CAD running entirely in the browser
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -1089,6 +1089,7 @@
 
 ## javascript 
 
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [sbb-design-systems/lyne-components](https://github.com/sbb-design-systems/lyne-components) - Components for Lyne Design System
 - [zulip/zulip](https://github.com/zulip/zulip) - Zulip server and web application. Open-source team chat that helps teams stay productive and focused.
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
@@ -2773,7 +2774,7 @@
 ## vuejs 
 
 - [kanriapp/kanri](https://github.com/kanriapp/kanri) - Modern offline Kanban board app for Windows, MacOS and Linux made with Tauri and Nuxt. Built with simplicity and user experience in mind.
-- [oarepo/vue-query-synchronizer](https://github.com/oarepo/vue-query-synchronizer) - browser addressbar model/query synchronization for vuejs + router
+- [oarepo-archive/vue-query-synchronizer](https://github.com/oarepo-archive/vue-query-synchronizer) - browser addressbar model/query synchronization for vuejs + router
 - [LinusBorg/portal-vue](https://github.com/LinusBorg/portal-vue) - A feature-rich Portal Plugin for Vue 3, for rendering DOM outside of a component, anywhere in your app or the entire document. (Vue 2 version: v2.portal-vue.linusb.org)
 - [gtalarico/django-vue-template](https://github.com/gtalarico/django-vue-template) - Django Rest + Vue JS Template
 - [naspeh/mailur](https://github.com/naspeh/mailur) - Lightweight webmail inspired by Gmail
