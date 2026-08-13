@@ -551,6 +551,7 @@
 
 ## JavaScript 
 
+- [basecamp/trix](https://github.com/basecamp/trix) - A rich text editor for everyday writing
 - [github/github-elements](https://github.com/github/github-elements) - GitHub's Web Component collection.
 - [bernii/gauge.js](https://github.com/bernii/gauge.js) - 100% native and cool looking JavaScript gauge
 - [mewo2/terrain](https://github.com/mewo2/terrain) - Fantasy map generator
@@ -1337,7 +1338,7 @@
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A browser-based 3D CAD application for online model design and editing
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A 3D CAD running entirely in the browser
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
 - [schoero/swissqrbill](https://github.com/schoero/swissqrbill) - Swiss QR Bill generation in Node.js and browsers
 - [microsoft/playwright](https://github.com/microsoft/playwright) - Playwright is a framework for Web Testing and Automation. It allows testing Chromium, Firefox and WebKit with a single API.
@@ -1354,7 +1355,7 @@
 - [DerYeger/yeger](https://github.com/DerYeger/yeger) - Monorepo for @yeger/ NPM packages
 - [nodeca/pica](https://github.com/nodeca/pica) - Resize image in browser with high quality and high speed
 - [tusen-ai/naive-ui](https://github.com/tusen-ai/naive-ui) - A Vue 3 Component Library. Fairly Complete. Theme Customizable. Uses TypeScript. Fast.
-- [oarepo/vue-query-synchronizer](https://github.com/oarepo/vue-query-synchronizer) - browser addressbar model/query synchronization for vuejs + router
+- [oarepo-archive/vue-query-synchronizer](https://github.com/oarepo-archive/vue-query-synchronizer) - browser addressbar model/query synchronization for vuejs + router
 - [lupas/vue3-keypress](https://github.com/lupas/vue3-keypress) - Global keypress event handler component for Vue 3 applications.
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [meyda/meyda](https://github.com/meyda/meyda) - Audio feature extraction for JavaScript.
