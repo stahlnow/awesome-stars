@@ -131,6 +131,7 @@
 - [hathach/tinyusb](https://github.com/hathach/tinyusb) - An open source  cross-platform USB stack for embedded system
 - [striso/striso-control-firmware](https://github.com/striso/striso-control-firmware) - Firmware for the Striso board
 - [agraef/pd-faustgen](https://github.com/agraef/pd-faustgen) - The FAUST compiler in a box
+- [raybellis/PicoSynth](https://github.com/raybellis/PicoSynth) - Polyphonic wavetable synthesizer for the Raspberry Pi Pico
 - [PaulBatchelor/voc_demo](https://github.com/PaulBatchelor/voc_demo) - 
 - [Immediate-Mode-UI/Nuklear](https://github.com/Immediate-Mode-UI/Nuklear) - A single-header ANSI C immediate mode cross-platform GUI library
 - [command-tab/ch341eeprom](https://github.com/command-tab/ch341eeprom) - A libusb based programming tool for 24Cxx serial EEPROMs using the WinChipHead CH341A IC
@@ -266,7 +267,6 @@
 - [gbevin/ReceiveMIDI](https://github.com/gbevin/ReceiveMIDI) - Multi-platform command-line tool to monitor and receive MIDI messages
 - [gbevin/SendMIDI](https://github.com/gbevin/SendMIDI) - Multi-platform command-line tool to send out MIDI messages
 - [JvanKatwijk/qt-dab](https://github.com/JvanKatwijk/qt-dab) - Qt-DAB, a general software DAB (DAB+) decoder with a (slight) focus on showing the signal
-- [raybellis/PicoSynth](https://github.com/raybellis/PicoSynth) - Polyphonic wavetable synthesizer for the Raspberry Pi Pico
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [SpotlightKid/stereocrossdelay](https://github.com/SpotlightKid/stereocrossdelay) - A stereo delay plugin with feedback and cross-mixing
 - [AlexandreRouma/SDRPlusPlus](https://github.com/AlexandreRouma/SDRPlusPlus) - Cross-Platform SDR Software
@@ -487,6 +487,7 @@
 - [orhun/pkgtop](https://github.com/orhun/pkgtop) - Interactive package manager and resource monitor designed for the GNU/Linux.
 - [esimov/diagram](https://github.com/esimov/diagram) - CLI app to convert ASCII arts into hand drawn diagrams.
 - [arduino/arduino-cli](https://github.com/arduino/arduino-cli) - Arduino command line tool
+- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV, TSV and Excel files into a single self-contained HTML page with search, filters, and sorting
 - [andmarios/i7tt](https://github.com/andmarios/i7tt) - A Linux CPU temperature terminal monitor with history charts.
 - [syncthing/syncthing](https://github.com/syncthing/syncthing) - Open Source Continuous File Synchronization
 
@@ -718,7 +719,7 @@
 - [windwp/nvim-ts-autotag](https://github.com/windwp/nvim-ts-autotag) - Use treesitter to auto close and auto rename html tag
 - [mason-org/mason.nvim](https://github.com/mason-org/mason.nvim) - Portable package manager for Neovim that runs everywhere Neovim runs. Easily install and manage LSP servers, DAP servers, linters, and formatters.
 - [olimorris/codecompanion.nvim](https://github.com/olimorris/codecompanion.nvim) - ✨ AI Coding, Vim Style
-- [yetone/avante.nvim](https://github.com/yetone/avante.nvim) - Use your Neovim like using Cursor AI IDE!
+- [avante-corp/avante.nvim](https://github.com/avante-corp/avante.nvim) - Use your Neovim like using Cursor AI IDE!
 - [m4xshen/hardtime.nvim](https://github.com/m4xshen/hardtime.nvim) - Break bad habits, master Vim motions
 - [sindrets/diffview.nvim](https://github.com/sindrets/diffview.nvim) - Single tabpage interface for easily cycling through diffs for all modified files for any git rev.
 - [Robitx/gp.nvim](https://github.com/Robitx/gp.nvim) - Gp.nvim (GPT prompt) Neovim AI plugin: ChatGPT sessions & Instructable text/code operations & Speech to text [OpenAI, Ollama, Anthropic, ..]
@@ -1089,7 +1090,6 @@
 - [davecan/easychain](https://github.com/davecan/easychain) - A simple python blockchain ledger
 - [fluentpython/example-code](https://github.com/fluentpython/example-code) - Example code for the book Fluent Python, 1st Edition (O'Reilly, 2015)
 - [moderngl/moderngl](https://github.com/moderngl/moderngl) - Modern OpenGL binding for Python
-- [vividvilla/csvtotable](https://github.com/vividvilla/csvtotable) - Simple command-line utility to convert CSV files to searchable and sortable HTML table.
 - [elliotgao2/gain](https://github.com/elliotgao2/gain) - Web crawling framework  based on asyncio.
 - [CPJKU/madmom](https://github.com/CPJKU/madmom) - Python audio and music signal processing library
 - [Dvlv/Tkinter-By-Example](https://github.com/Dvlv/Tkinter-By-Example) - Learn Tkinter By Example - a free book
