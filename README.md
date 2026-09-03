@@ -119,7 +119,7 @@
 - [freeDSP/freeDSP-aurora](https://github.com/freeDSP/freeDSP-aurora) - freeDSP ADAU1452 with 8 analog input, 8 analog outputs, S/P-DIF I/O, ADAT I/O, USB Audio Class2, WiFi, Bluetooth
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
-- [fhoedemakers/pico-infonesPlus](https://github.com/fhoedemakers/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
+- [PicoPlus-devel/pico-infonesPlus](https://github.com/PicoPlus-devel/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
