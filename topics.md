@@ -243,7 +243,7 @@
 
 ## ai 
 
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [Comfy-Org/ComfyUI](https://github.com/Comfy-Org/ComfyUI) - The most powerful and modular diffusion model GUI, api and backend with a graph/nodes interface.
 - [khoj-ai/khoj](https://github.com/khoj-ai/khoj) - Your AI second brain. Self-hostable. Get answers from the web or your docs. Build custom agents, schedule automations, do deep research. Turn any online or local LLM into your personal, autonomous AI 
 - [langchain-ai/langchain](https://github.com/langchain-ai/langchain) - The agent engineering platform.
@@ -1765,7 +1765,7 @@
 - [libopencm3/libopencm3](https://github.com/libopencm3/libopencm3) - Open source ARM Cortex-M microcontroller library
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [Ivoah/python-tutorial](https://github.com/Ivoah/python-tutorial) - Introduction to Python for C/Java programmers
-- [brianhouse/bjorklund](https://github.com/brianhouse/bjorklund) - Euclidean rhythms: Björklund's algorithm in Python
+- [brianhouse/euclidean_rhythms](https://github.com/brianhouse/euclidean_rhythms) - Euclidean Rhythms in Python
 - [realpython/materials](https://github.com/realpython/materials) - Bonus materials, exercises, and example projects for our Python tutorials
 - [mstrperson/LDR-Synth](https://github.com/mstrperson/LDR-Synth) - 
 - [ndf-zz/asfv1](https://github.com/ndf-zz/asfv1) - Alternate Assembler for Spin Semi FV-1
@@ -2545,6 +2545,7 @@
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
 - [influxdata/influxdb](https://github.com/influxdata/influxdb) - Scalable datastore for metrics, events, and real-time analytics
 - [tauri-apps/tauri](https://github.com/tauri-apps/tauri) - Build smaller, faster, and more secure desktop and mobile applications with a web frontend.
+- [pythops/impala](https://github.com/pythops/impala) - 🛜 TUI for managing wifi on Linux
 - [chaosprint/glicol](https://github.com/chaosprint/glicol) - Graph-oriented live coding language and music/audio DSP library written in Rust
 - [gyscos/cursive](https://github.com/gyscos/cursive) - A Text User Interface library for the Rust programming language
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
