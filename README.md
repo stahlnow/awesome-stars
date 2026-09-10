@@ -119,7 +119,6 @@
 - [freeDSP/freeDSP-aurora](https://github.com/freeDSP/freeDSP-aurora) - freeDSP ADAU1452 with 8 analog input, 8 analog outputs, S/P-DIF I/O, ADAT I/O, USB Audio Class2, WiFi, Bluetooth
 - [sekigon-gonnoc/Pico-PIO-USB](https://github.com/sekigon-gonnoc/Pico-PIO-USB) - USB host/device implementation using PIO of raspberry pi pico (RP2040/RP2350).
 - [Grix/helios_dac](https://github.com/Grix/helios_dac) - Helios Laser DAC
-- [PicoPlus-devel/pico-infonesPlus](https://github.com/PicoPlus-devel/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
 - [kragen/viznut-music](https://github.com/kragen/viznut-music) - One-line C programs that compose music, showing the deep connection between the binary number system and Western music.
 - [daumemo/DIY-Signal-Generator](https://github.com/daumemo/DIY-Signal-Generator) - DIY portable Wi-Fi enabled signal generator
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
@@ -257,6 +256,7 @@
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
 - [lfnoise/sapf](https://github.com/lfnoise/sapf) - Sound As Pure Form - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping.
 - [pschatzmann/arduino-audio-driver](https://github.com/pschatzmann/arduino-audio-driver) - Flexible driver library for audio boards and codec chips e.g  AC101 ES8388 ES8311 CS43l22 ES7243 etc
+- [PicoPlus-devel/pico-infonesPlus](https://github.com/PicoPlus-devel/pico-infonesPlus) - NES Emulator with SD card and menu support for the Raspberry PI Pico, Pico 2 and other RP2040/RP2350  based microcontrollers. Play your games from SD card on a HDMI display.
 - [fluffyaudio/MultiVersio](https://github.com/fluffyaudio/MultiVersio) - 
 - [adion12/DaisyVerb](https://github.com/adion12/DaisyVerb) - Reverb algorithms for the Daisy Seed
 - [qbittorrent/qBittorrent](https://github.com/qbittorrent/qBittorrent) - qBittorrent BitTorrent client
@@ -1019,7 +1019,7 @@
 - [openscopeproject/InteractiveHtmlBom](https://github.com/openscopeproject/InteractiveHtmlBom) - Interactive HTML BOM generation plugin for KiCad, EasyEDA, Eagle, Fusion360 and Allegro PCB designer
 - [jesseward/discogstagger](https://github.com/jesseward/discogstagger) - Console based audio-file metadata tagger that uses the Discogs.com API v2 (JSON based).  Relies on the Mutagen and discogs-client libraries. Currently supports FLAC and MP3 file types.
 - [Ivoah/python-tutorial](https://github.com/Ivoah/python-tutorial) - Introduction to Python for C/Java programmers
-- [brianhouse/bjorklund](https://github.com/brianhouse/bjorklund) - Euclidean rhythms: Björklund's algorithm in Python
+- [brianhouse/euclidean_rhythms](https://github.com/brianhouse/euclidean_rhythms) - Euclidean Rhythms in Python
 - [Neoteroi/BlackSheep](https://github.com/Neoteroi/BlackSheep) - Fast ASGI web framework for Python
 - [ndf-zz/asfv1](https://github.com/ndf-zz/asfv1) - Alternate Assembler for Spin Semi FV-1
 - [michael-lazar/rtv](https://github.com/michael-lazar/rtv) - Browse Reddit from your terminal
@@ -1339,7 +1339,7 @@
 
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [sbb-design-systems/lyne-components](https://github.com/sbb-design-systems/lyne-components) - Components for Lyne Design System
-- [openclaw/openclaw](https://github.com/openclaw/openclaw) - Your own personal AI assistant. Any OS. Any Platform. The lobster way. 🦞
+- [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
 - [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A 3D CAD running entirely in the browser
