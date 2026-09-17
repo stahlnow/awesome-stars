@@ -106,7 +106,7 @@
 
 ## Bikeshed 
 
-- [WICG/webusb](https://github.com/WICG/webusb) - Connecting hardware to the web.
+- [whatwg/usb](https://github.com/whatwg/usb) - Connecting hardware to the web.
 - [WebAudio/web-audio-api](https://github.com/WebAudio/web-audio-api) - The Web Audio API v1.0, developed by the W3C Audio WG
 
 ## C 
@@ -250,7 +250,7 @@
 - [dsp56300/gearmulator](https://github.com/dsp56300/gearmulator) - Low Level Emulation of classic VA synths & effects of the late 90s/2000s by emulating the used ICs
 - [lhm0/DAB_minimalist](https://github.com/lhm0/DAB_minimalist) - A minimalist DAB+ radio for vision impaired based on DABshield and Arduino D1 R32
 - [NickCulbertson/Mini-Teensy-Synth](https://github.com/NickCulbertson/Mini-Teensy-Synth) - This is a subtractive synth homage to the legendary Minimoog using the Teensy 4.1 microcontroller. This is primarily for entertainment and educational purposes, and to see what all is possible with ma
-- [samaaron/supersonic](https://github.com/samaaron/supersonic) - SuperCollider's scsynth audio engine as a Web AudioWorklet, JUCE-powered native server, embedded server and Erlang NIF
+- [samaaron/supersonic](https://github.com/samaaron/supersonic) - A clockwork scsynth
 - [16n-faderbank/16next_firmware](https://github.com/16n-faderbank/16next_firmware) - Firmware for next-generation faderbanks - like 16nx, the next generation of 16n devices.
 - [mirdej/Agora](https://github.com/mirdej/Agora) - Arduino Library for quick interconnection of ESP32s through ESP-Now
 - [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
@@ -451,7 +451,7 @@
 ## Go 
 
 - [TecharoHQ/anubis](https://github.com/TecharoHQ/anubis) - Weighs the soul of incoming HTTP requests to stop AI crawlers
-- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi-K2.6, GLM-5.2, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
+- [ollama/ollama](https://github.com/ollama/ollama) - Get up and running with Kimi, GLM, MiniMax, DeepSeek, gpt-oss, Qwen, Gemma and other models.
 - [ebogdum/callfs](https://github.com/ebogdum/callfs) - CallFS is an ultra-lightweight, high-performance REST API filesystem that provides precise Linux filesystem semantics over various backends including local filesystem, Amazon S3, and distributed peer 
 - [monasticacademy/httptap](https://github.com/monasticacademy/httptap) - View HTTP/HTTPS requests made by any Linux program
 - [ludviglundgren/qbittorrent-cli](https://github.com/ludviglundgren/qbittorrent-cli) - Cli to manage qBittorrent
@@ -651,7 +651,7 @@
 - [DanielRapp/doppler](https://github.com/DanielRapp/doppler) - :wave: Motion detection using the doppler effect
 - [federico-lox/pubsub.js](https://github.com/federico-lox/pubsub.js) - A tiny, optimized, tested, standalone and robust pubsub implementation supporting different javascript environments
 - [enyo/opentip](https://github.com/enyo/opentip) - Opentip is an open source javascript tooltip based on the protoype framework.
-- [dropzone/dropzone](https://github.com/dropzone/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
+- [enyo/dropzone](https://github.com/enyo/dropzone) - Dropzone is an easy to use drag'n'drop library. It supports image previews and shows nice progress bars.
 - [cwilso/metronome](https://github.com/cwilso/metronome) - Web Audio metronome example to show scheduling.
 - [hagsteel/swampdragon](https://github.com/hagsteel/swampdragon) - swampdragon
 - [magalhas/backbone-react-component](https://github.com/magalhas/backbone-react-component) - A bit of nifty glue that automatically plugs your Backbone models and collections into your React components, on the browser and server
@@ -1062,7 +1062,7 @@
 - [sdushantha/down](https://github.com/sdushantha/down) - ☑️ A CLI tool to check if a site or a list of sites are down or up
 - [gavinlyonsrepo/RpiMotorLib](https://github.com/gavinlyonsrepo/RpiMotorLib) - A python 3 library to connect various motor systems to a Raspberry pi single board computer
 - [Squarespace/datasheets](https://github.com/Squarespace/datasheets) - Read data from, write data to, and modify the formatting of Google Sheets
-- [boto/boto3](https://github.com/boto/boto3) - Boto3, an AWS SDK for Python
+- [boto/boto3](https://github.com/boto/boto3) - AWS SDK for Python (Boto3)
 - [komuw/sewer](https://github.com/komuw/sewer) - Let's Encrypt(ACME) client. Python library &  CLI app.
 - [life4/textdistance](https://github.com/life4/textdistance) - 📐 Compute distance between sequences. 30+ algorithms, pure python implementation, common interface, optional external libs usage.
 - [ashnkumar/sketch-code](https://github.com/ashnkumar/sketch-code) - Keras model to generate HTML code from hand-drawn website mockups. Implements an image captioning architecture to drawn source images.
@@ -1163,7 +1163,7 @@
 - [justquick/django-activity-stream](https://github.com/justquick/django-activity-stream) - Generate generic activity streams from the actions on your site. Users can follow any actors' activities for personalized streams.
 - [diafygi/acme-tiny](https://github.com/diafygi/acme-tiny) - A tiny script to issue and renew TLS certs from Let's Encrypt
 - [borntyping/python-colorlog](https://github.com/borntyping/python-colorlog) - A colored formatter for the python logging module
-- [kingosticks/mopidy-tunein](https://github.com/kingosticks/mopidy-tunein) - Mopidy extension for playing music from tunein
+- [mopidy/mopidy-tunein](https://github.com/mopidy/mopidy-tunein) - Mopidy extension for playing music from TuneIn
 - [mopidy/mopidy-scrobbler](https://github.com/mopidy/mopidy-scrobbler) - Mopidy extension for scrobbling played tracks to Last.fm or Libre.fm
 - [mopidy/mopidy-soundcloud](https://github.com/mopidy/mopidy-soundcloud) - Mopidy extension for playing music from SoundCloud
 - [diafygi/acme-nosudo](https://github.com/diafygi/acme-nosudo) - Free HTTPS certificates without having to trust the letsencrypt cli with sudo/root
