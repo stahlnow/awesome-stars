@@ -632,6 +632,7 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [klen/django_markdown](https://github.com/klen/django_markdown) - Django markdown support and wysiwig
 - [a1k0n/jsxm](https://github.com/a1k0n/jsxm) - FastTracker 2 .xm module player in Javascript
 - [aterrien/jQuery-Kontrol](https://github.com/aterrien/jQuery-Kontrol) - Experimental JavaScript jQuery library of UI controls ; dial (was jQuery Knob), XY pad, bars
@@ -1339,7 +1340,7 @@
 - [unovue/shadcn-vue](https://github.com/unovue/shadcn-vue) - Vue port of shadcn-ui
 - [sbb-design-systems/lyne-components](https://github.com/sbb-design-systems/lyne-components) - Components for Lyne Design System
 - [openclaw/openclaw](https://github.com/openclaw/openclaw) - The AI that really does things. Any OS. Any Platform. The lobster way. 🦞
-- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites. ⭐️ Star to support our work!
+- [withastro/astro](https://github.com/withastro/astro) - The web framework for content-driven websites.
 - [yaegassy/coc-htmldjango](https://github.com/yaegassy/coc-htmldjango) - django templates (htmldjango) extension for coc.nvim. Provides "formatter",  "linter", "completion" and more...
 - [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A 3D CAD running entirely in the browser
 - [neoclide/coc.nvim](https://github.com/neoclide/coc.nvim) - Nodejs extension host for vim & neovim, load extensions like VSCode and host language servers.
@@ -1379,7 +1380,6 @@
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [synestize/synestizer](https://github.com/synestize/synestizer) - a webapp that helps you listen to colors, see also the first version here, http://www.synestizer.com allow camera and microphone if prompted, if not try to do this manually in the browser settings. ch
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
