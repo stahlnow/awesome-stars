@@ -614,7 +614,6 @@
 - [Virtual-Lab/syntonic-circle](https://github.com/Virtual-Lab/syntonic-circle) - 
 - [madrobby/keymaster](https://github.com/madrobby/keymaster) - A simple micro-library for defining and  dispatching keyboard shortcuts. It has no dependencies.
 - [yabwe/medium-editor](https://github.com/yabwe/medium-editor) - Medium.com WYSIWYG editor clone. Uses contenteditable API to implement a rich text solution.
-- [Openki/Openki](https://github.com/Openki/Openki) - We moved to GitLab 💔 Openki is a tool to build up and organize local communities – Open education for real.
 - [outluch/gulp-rev-hash](https://github.com/outluch/gulp-rev-hash) - Keeps a file's hash in file's links to your assets. For automatic cache updating purpose.
 - [publiclab/webjack](https://github.com/publiclab/webjack) - a JavaScript library that uses an audio software modem to communicate with an Arduino via a headphone jack
 - [bbc/peaks.js](https://github.com/bbc/peaks.js) - JavaScript UI component for interacting with audio waveforms
@@ -1263,7 +1262,7 @@
 - [astral-sh/uv](https://github.com/astral-sh/uv) - An extremely fast Python package and project manager, written in Rust.
 - [tach-org/tach](https://github.com/tach-org/tach) - A Python tool to visualize + enforce dependencies, using modular architecture 🌎 Open source 🐍 Installable via pip 🔧 Able to be adopted incrementally - ⚡ Implemented with no runtime impact ♾️ Interoper
 - [ReFirmLabs/binwalk](https://github.com/ReFirmLabs/binwalk) - Firmware Analysis Tool
-- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
+- [yuezk/GlobalProtect-openconnect](https://github.com/yuezk/GlobalProtect-openconnect) - A GlobalProtect VPN client for Linux and macOS, written in Rust, based on OpenConnect and Tauri, supports SSO with MFA, YubiKey, and client certificate authentication, etc.
 - [rizsotto/Bear](https://github.com/rizsotto/Bear) - Generate compile_commands.json for any C or C++ build
 - [martinber/noaa-apt](https://github.com/martinber/noaa-apt) - NOAA APT weather satellite image decoder, for Linux, Windows, RPi 2+, OSX and Android+Termux
 - [Wilfred/difftastic](https://github.com/Wilfred/difftastic) - a structural diff that understands syntax 🟥🟩
@@ -1377,6 +1376,7 @@
 - [turbolinks/turbolinks](https://github.com/turbolinks/turbolinks) - Turbolinks makes navigating your web application faster
 - [material-components/material-components-web](https://github.com/material-components/material-components-web) - Modular and customizable Material Design UI components for the web
 - [russellmcc/node-osc-min](https://github.com/russellmcc/node-osc-min) - Open Sound Control utilities for node.js
+- [Openki/Openki](https://github.com/Openki/Openki) - We moved to GitLab 💔              This is a Read-only mirror of https://gitlab.com/Openki/Openki. Development, issues and merge requests are on GitLab
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
