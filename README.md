@@ -630,6 +630,7 @@
 - [browserify/browserify](https://github.com/browserify/browserify) - browser-side require() the node.js way
 - [remy/nodemon](https://github.com/remy/nodemon) - Monitor for any changes in your node.js application and automatically restart the server - perfect for development
 - [linkedin/dustjs](https://github.com/linkedin/dustjs) - Asynchronous Javascript templating for the browser and server
+- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [klen/django_markdown](https://github.com/klen/django_markdown) - Django markdown support and wysiwig
 - [a1k0n/jsxm](https://github.com/a1k0n/jsxm) - FastTracker 2 .xm module player in Javascript
 - [aterrien/jQuery-Kontrol](https://github.com/aterrien/jQuery-Kontrol) - Experimental JavaScript jQuery library of UI controls ; dial (was jQuery Knob), XY pad, bars
@@ -911,7 +912,7 @@
 - [ActiveState/appdirs](https://github.com/ActiveState/appdirs) - A small Python module for determining appropriate platform-specific dirs, e.g. a "user data dir".
 - [python/pythondotorg](https://github.com/python/pythondotorg) - Source code for python.org
 - [miguelgrinberg/microdot](https://github.com/miguelgrinberg/microdot) - Mirror of https://code.miguelgrinberg.com/miguelgrinberg/microdot
-- [jazzband/django-auditlog](https://github.com/jazzband/django-auditlog) - A Django app that keeps a log of changes made to an object.
+- [django-commons/django-auditlog](https://github.com/django-commons/django-auditlog) - A Django app that keeps a log of changes made to an object.
 - [dabeaz-course/python-mastery](https://github.com/dabeaz-course/python-mastery) - Advanced Python Mastery (course by @dabeaz)
 - [un1t/django-cleanup](https://github.com/un1t/django-cleanup) - Automatically deletes old file for FileField and ImageField. It also deletes files on models instance deletion.
 - [BigglesZX/django-dragndrop-related](https://github.com/BigglesZX/django-dragndrop-related) - Drag-and-drop multiple upload of related images/files for Django admin
@@ -1379,7 +1380,6 @@
 - [jacomyal/sigma.js](https://github.com/jacomyal/sigma.js) - A JavaScript library aimed at visualizing graphs of thousands of nodes and edges
 - [tantaman/strut](https://github.com/tantaman/strut) - Strut - An Impress.js and Bespoke.js Presentation Editor
 - [janpaepke/ScrollMagic](https://github.com/janpaepke/ScrollMagic) - The javascript library for magical scroll interactions.
-- [markedjs/marked](https://github.com/markedjs/marked) - A markdown parser and compiler. Built for speed.
 - [synestize/synestizer](https://github.com/synestize/synestizer) - a webapp that helps you listen to colors, see also the first version here, http://www.synestizer.com allow camera and microphone if prompted, if not try to do this manually in the browser settings. ch
 - [DefinitelyTyped/DefinitelyTyped](https://github.com/DefinitelyTyped/DefinitelyTyped) - The repository for high quality TypeScript type definitions.
 - [katspaugh/wavesurfer.js](https://github.com/katspaugh/wavesurfer.js) - Audio waveform player
