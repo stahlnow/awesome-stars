@@ -16,6 +16,7 @@
 - [analytics](#analytics)
 - [android](#android)
 - [angular](#angular)
+- [animation](#animation)
 - [ansible](#ansible)
 - [api](#api)
 - [arduino](#arduino)
@@ -227,7 +228,7 @@
 
 ## 3d 
 
-- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A 3D CAD running entirely in the browser
+- [xiangechen/chili3d](https://github.com/xiangechen/chili3d) - A browser-based 3D CAD for AI-assisted, parametric and direct modeling.
 - [a1studmuffin/SpaceshipGenerator](https://github.com/a1studmuffin/SpaceshipGenerator) - A Blender script to procedurally generate 3D spaceships
 - [openscad/openscad](https://github.com/openscad/openscad) - OpenSCAD - The Programmers Solid 3D CAD Modeller
 - [mrdoob/three.js](https://github.com/mrdoob/three.js) - JavaScript 3D Library.
@@ -281,7 +282,7 @@
 
 ## android 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
@@ -295,6 +296,13 @@
 
 - [getsentry/sentry-javascript](https://github.com/getsentry/sentry-javascript) - Official Sentry SDKs for JavaScript
 - [sachinchoolur/lightGallery](https://github.com/sachinchoolur/lightGallery) - A customizable, modular, responsive, lightbox gallery plugin.
+
+## animation 
+
+- [sachinchoolur/lightgallery.js](https://github.com/sachinchoolur/lightgallery.js) - Full featured JavaScript image & video gallery. No dependencies
+- [avyfain/automata](https://github.com/avyfain/automata) - Companion repo for my blog post about Wolfram's elementary cellular automata
+- [flynnmd/deconvfaces](https://github.com/flynnmd/deconvfaces) - Generating faces with deconvolution networks
+- [Zulko/moviepy](https://github.com/Zulko/moviepy) - Video editing with Python
 
 ## ansible 
 
@@ -553,7 +561,7 @@
 
 ## cpp 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [grame-cncm/faust](https://github.com/grame-cncm/faust) - Functional programming language for signal processing and sound synthesis
 - [compiler-explorer/compiler-explorer](https://github.com/compiler-explorer/compiler-explorer) - Run compilers interactively from your web browser and interact with the assembly
 - [christophhart/HISE](https://github.com/christophhart/HISE) - The open source framework for sample based instruments
@@ -959,7 +967,7 @@
 
 - [kiswitch/kiswitch](https://github.com/kiswitch/kiswitch) - Footprints for popular keyboard switches
 - [ajeetdsouza/zoxide](https://github.com/ajeetdsouza/zoxide) - A smarter cd command. Supports all major shells.
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [radareorg/radare2](https://github.com/radareorg/radare2) - UNIX-like reverse engineering framework and command-line toolset
 - [analogdevicesinc/libiio](https://github.com/analogdevicesinc/libiio) - A cross platform library for interfacing with local and remote Linux IIO devices
 - [pyqtgraph/pyqtgraph](https://github.com/pyqtgraph/pyqtgraph) - Fast data visualization and GUI tools for scientific / engineering applications
@@ -994,7 +1002,6 @@
 - [fyne-io/fyne](https://github.com/fyne-io/fyne) - Cross platform GUI toolkit in Go inspired by Material Design
 - [tmbo/questionary](https://github.com/tmbo/questionary) - Python library to build pretty command line user prompts ✨Easy to use multi-select lists, confirmations, free text prompts ...
 - [wled/WLED](https://github.com/wled/WLED) - Control WS2812B and many more types of digital RGB LEDs with an ESP32 over WiFi!
-- [pypa/pipx](https://github.com/pypa/pipx) - Install and Run Python Applications in Isolated Environments
 - [mercadona/rele](https://github.com/mercadona/rele) - Easy to use Google Pub/Sub
 - [ryanoasis/nerd-fonts](https://github.com/ryanoasis/nerd-fonts) - Iconic font aggregator, collection, & patcher. 3,600+ icons, 50+ patched fonts: Hack, Source Code Pro, more. Glyph collections: Font Awesome, Material Design Icons, Octicons, & more
 - [jamesturk/jellyfish](https://github.com/jamesturk/jellyfish) - 🪼 a python library for doing approximate and phonetic matching of strings.
@@ -1077,7 +1084,7 @@
 
 ## ios 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [CollaboraOnline/online](https://github.com/CollaboraOnline/online) - Issue tracker only. Active development is on Gerrit at https://gerrit.collaboraoffice.com/.
@@ -1094,7 +1101,7 @@
 
 ## java 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [gotev/no-as-a-service](https://github.com/gotev/no-as-a-service) - It instantly gives you a NO answer, every time and everywhere you want!
 - [nayuki/QR-Code-generator](https://github.com/nayuki/QR-Code-generator) - High-quality QR Code generator library in Java, TypeScript/JavaScript, Python, Rust, C++, C.
 - [zxing/zxing](https://github.com/zxing/zxing) - ZXing ("Zebra Crossing") barcode scanning library for Java, Android
@@ -1330,7 +1337,7 @@
 
 ## mobile 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 
 ## mongodb 
 
@@ -1444,7 +1451,7 @@
 
 ## objective-c 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 
 ## obsidian 
 
@@ -1488,6 +1495,7 @@
 
 ## others 
 
+- [Sensirion/sht43-demoboard-ble-firmware](https://github.com/Sensirion/sht43-demoboard-ble-firmware) - Github repository for SHT43 DemoBoard BLE firmware
 - [easyw/kicadStepUpMod](https://github.com/easyw/kicadStepUpMod) - kicadStepUp: ECAD to MCAD FreeCAD WorkBench
 - [anomalyco/opencode](https://github.com/anomalyco/opencode) - The open source coding agent.
 - [tkilla64/eurorack](https://github.com/tkilla64/eurorack) - Eurorack DIY projects
@@ -1497,7 +1505,7 @@
 - [psykon/awesome-demoscene](https://github.com/psykon/awesome-demoscene) - A list of demoscene related tools, code and ressources.
 - [GhostNoteAudio/Conductor](https://github.com/GhostNoteAudio/Conductor) - Conductor MIDI Controller
 - [artemsen/swayimg](https://github.com/artemsen/swayimg) - Image viewer for Wayland
-- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - A professional, DIN 5008 compliant invoice template for Typst with automatic calculations, EPC-QR-Code (GiroCode), and ZUGFeRD e-invoicing support.
+- [leonieziechmann/invoice-pro](https://github.com/leonieziechmann/invoice-pro) - Professional invoicing engine with ZUGFeRD/Factur-X e-invoicing.
 - [metaforx/django-unfold-modal](https://github.com/metaforx/django-unfold-modal) - This replaces the Django pop-up window for related entry selection with an integrated modal version to improve the UX for editors.
 - [Jeomhps/datify](https://github.com/Jeomhps/datify) - Datify is a Typst package for flexible, locale-aware date formatting. It leverages datify-core for internationalization and supports CLDR-style date patterns.
 - [Lfd4/djangocms-haystack](https://github.com/Lfd4/djangocms-haystack) - aldryn-search inspired Haystack index for djangoCMS projects
@@ -1789,7 +1797,7 @@
 - [minisystem/MyKicadLibraries](https://github.com/minisystem/MyKicadLibraries) - My Kicad libaries
 - [sgmk/etchingbox](https://github.com/sgmk/etchingbox) - portable pcb etching in a box
 - [weixsong/elasticlunr.js](https://github.com/weixsong/elasticlunr.js) - Based on lunr.js, but more flexible and customized.
-- [jazzband/dj-database-url](https://github.com/jazzband/dj-database-url) - Use Database URLs in your Django Application.
+- [django-commons/dj-database-url](https://github.com/django-commons/dj-database-url) - Use Database URLs in your Django Application.
 - [thoppe/pixelhouse](https://github.com/thoppe/pixelhouse) - A minimalist drawing library for making beautiful animations in python
 - [ATtinyTeenageRiot/TinyAudioBoot](https://github.com/ATtinyTeenageRiot/TinyAudioBoot) - 
 - [djoshea/vim-autoread](https://github.com/djoshea/vim-autoread) - Have Vim automatically reload a file that has changed externally
@@ -1860,7 +1868,7 @@
 - [wuuff/armageddon](https://github.com/wuuff/armageddon) - Gamebuino game inspired by Missile Command
 - [ThomasPietrzak/gamebuino-bangbang](https://github.com/ThomasPietrzak/gamebuino-bangbang) - Bang! Bang!
 - [NetTimeLogic/FpgaWorkshop](https://github.com/NetTimeLogic/FpgaWorkshop) - Dock18 FPGA Workshop
-- [jazzband/django-robots](https://github.com/jazzband/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
+- [django-commons/django-robots](https://github.com/django-commons/django-robots) - A Django app for managing robots.txt files following the robots exclusion protocol
 - [madamdata/ANAS](https://github.com/madamdata/ANAS) - ducks
 - [j4mie/django-spurl](https://github.com/j4mie/django-spurl) - A Django template library for manipulating URLs
 - [fullcalendar/fullcalendar](https://github.com/fullcalendar/fullcalendar) - Full-sized drag & drop event calendar in JavaScript
@@ -2072,7 +2080,7 @@
 - [geelen/x-gif](https://github.com/geelen/x-gif) - A custom element for flexible GIF playback
 - [enyo/opentip](https://github.com/enyo/opentip) - Opentip is an open source javascript tooltip based on the protoype framework.
 - [cwilso/metronome](https://github.com/cwilso/metronome) - Web Audio metronome example to show scheduling.
-- [WebAudio/web-audio-api](https://github.com/WebAudio/web-audio-api) - The Web Audio API v1.0, developed by the W3C Audio WG
+- [WebAudio/web-audio-api](https://github.com/WebAudio/web-audio-api) - The Web Audio API v1.1, developed by the W3C Audio WG
 - [hoch/WAAX](https://github.com/hoch/WAAX) - NOTE: This project in not currently maintained.
 - [hagsteel/swampdragon](https://github.com/hagsteel/swampdragon) - swampdragon
 - [Polymer/polymer](https://github.com/Polymer/polymer) - Our original Web Component library.
@@ -2232,7 +2240,7 @@
 
 ## privacy 
 
-- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 6M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the community
+- [organicmaps/organicmaps](https://github.com/organicmaps/organicmaps) - 🍃 Organic Maps is a free Android & iOS offline maps app for more than 12M travelers, tourists, hikers, and cyclists. It uses crowd-sourced OpenStreetMap data and is developed with love by the communit
 - [super-productivity/super-productivity](https://github.com/super-productivity/super-productivity) - Super Productivity is an advanced todo list app with integrated Timeboxing and time tracking capabilities. It also comes with integrations for Jira, GitLab, GitHub and Open Project.
 - [1tayH/noisy](https://github.com/1tayH/noisy) - Simple random DNS, HTTP/S internet traffic noise generator
 - [ezaquarii/vpn-at-home](https://github.com/ezaquarii/vpn-at-home) - 1-click, self-hosted deployment of OpenVPN with DNS ad blocking sinkhole
